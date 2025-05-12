@@ -1,0 +1,576 @@
+{
+    "Course": [
+        "CEHPT",
+        "CCI",
+        "CWBP",
+        "CAPBB",
+        "CMABP",
+        "CHID",
+        "OJIPT"
+    ],
+    "CEHPT": {
+        "title": "Certified Ethical Hacking & Penetration Testing",
+        "Language": "Tamil",
+        "Description": "This Course Is Aimed At Beginners Who Want To Learn Hacking And Pen-Testing From Basics. After This Course , You Will Have Good Understanding Of How To Approach A Machine And You Can Develop Your Own Methodology.",
+        "Duration": "9h 12 min",
+        "Access": "lifetime",
+        "Starts": 4.7,
+        "students enrolled count": 1324,
+        "price": 5500,
+        "offer price": 899,
+        "PREREQUISITES": "Basic PC/Laptop familiarity. No coding experience needed.",
+        "Enroll now": "https://university.cappriciosec.com/",
+        "content": [
+            {
+                "number": "01",
+                "title": "About mentor",
+                "duration": "03:36 min"
+            },
+            {
+                "number": "02",
+                "title": "Requirements",
+                "duration": "03:03 min"
+            },
+            {
+                "number": "03",
+                "title": "Linux Command 1",
+                "duration": "07:31 min"
+            },
+            {
+                "number": "04",
+                "title": "Linux Command 2",
+                "duration": "05:49 min"
+            },
+            {
+                "number": "05",
+                "title": "Linux Command 03",
+                "duration": "08:23 min"
+            },
+            {
+                "number": "06",
+                "title": "Lesson 06",
+                "duration": "07:12 min"
+            },
+            {
+                "number": "07",
+                "title": "Lesson 07",
+                "duration": "08:14 min"
+            },
+            {
+                "number": "08",
+                "title": "Lesson 08",
+                "duration": "09:16 min"
+            },
+            {
+                "number": "09",
+                "title": "Lesson 09",
+                "duration": "10:18 min"
+            },
+            {
+                "number": "10",
+                "title": "Lesson 10",
+                "duration": "01:20 min"
+            },
+            {
+                "number": "11",
+                "title": "Lesson 11",
+                "duration": "02:22 min"
+            },
+            {
+                "number": "12",
+                "title": "Lesson 12",
+                "duration": "03:24 min"
+            },
+            {
+                "number": "13",
+                "title": "Lesson 13",
+                "duration": "04:26 min"
+            },
+            {
+                "number": "14",
+                "title": "Lesson 14",
+                "duration": "05:28 min"
+            },
+            {
+                "number": "15",
+                "title": "Lesson 15",
+                "duration": "06:30 min"
+            },
+            {
+                "number": "16",
+                "title": "Lesson 16",
+                "duration": "07:32 min"
+            },
+            {
+                "number": "17",
+                "title": "Lesson 17",
+                "duration": "08:34 min"
+            },
+            {
+                "number": "18",
+                "title": "Lesson 18",
+                "duration": "09:36 min"
+            },
+            {
+                "number": "19",
+                "title": "Lesson 19",
+                "duration": "10:38 min"
+            },
+            {
+                "number": "20",
+                "title": "Lesson 20",
+                "duration": "01:40 min"
+            },
+            {
+                "number": "21",
+                "title": "Lesson 21",
+                "duration": "02:42 min"
+            },
+            {
+                "number": "22",
+                "title": "Lesson 22",
+                "duration": "03:44 min"
+            },
+            {
+                "number": "23",
+                "title": "Lesson 23",
+                "duration": "04:46 min"
+            },
+            {
+                "number": "24",
+                "title": "Lesson 24",
+                "duration": "05:48 min"
+            },
+            {
+                "number": "25",
+                "title": "Lesson 25",
+                "duration": "06:50 min"
+            },
+            {
+                "number": "26",
+                "title": "Lesson 26",
+                "duration": "07:52 min"
+            },
+            {
+                "number": "27",
+                "title": "Lesson 27",
+                "duration": "08:54 min"
+            },
+            {
+                "number": "28",
+                "title": "Lesson 28",
+                "duration": "09:56 min"
+            },
+            {
+                "number": "29",
+                "title": "Lesson 29",
+                "duration": "10:58 min"
+            },
+            {
+                "number": "30",
+                "title": "Lesson 30",
+                "duration": "01:00 min"
+            },
+            {
+                "number": "31",
+                "title": "Lesson 31",
+                "duration": "02:02 min"
+            },
+            {
+                "number": "32",
+                "title": "Lesson 32",
+                "duration": "03:04 min"
+            },
+            {
+                "number": "33",
+                "title": "Lesson 33",
+                "duration": "04:06 min"
+            },
+            {
+                "number": "34",
+                "title": "Lesson 34",
+                "duration": "05:08 min"
+            },
+            {
+                "number": "35",
+                "title": "Lesson 35",
+                "duration": "06:10 min"
+            },
+            {
+                "number": "36",
+                "title": "Lesson 36",
+                "duration": "07:12 min"
+            },
+            {
+                "number": "37",
+                "title": "Lesson 37",
+                "duration": "08:14 min"
+            },
+            {
+                "number": "38",
+                "title": "Lesson 38",
+                "duration": "09:16 min"
+            },
+            {
+                "number": "39",
+                "title": "Lesson 39",
+                "duration": "10:18 min"
+            },
+            {
+                "number": "40",
+                "title": "Lesson 40",
+                "duration": "01:20 min"
+            },
+            {
+                "number": "41",
+                "title": "Lesson 41",
+                "duration": "02:22 min"
+            },
+            {
+                "number": "42",
+                "title": "Lesson 42",
+                "duration": "03:24 min"
+            },
+            {
+                "number": "43",
+                "title": "Lesson 43",
+                "duration": "04:26 min"
+            },
+            {
+                "number": "44",
+                "title": "Lesson 44",
+                "duration": "05:28 min"
+            },
+            {
+                "number": "45",
+                "title": "Lesson 45",
+                "duration": "06:30 min"
+            },
+            {
+                "number": "46",
+                "title": "Lesson 46",
+                "duration": "07:32 min"
+            },
+            {
+                "number": "47",
+                "title": "Lesson 47",
+                "duration": "08:34 min"
+            },
+            {
+                "number": "48",
+                "title": "Lesson 48",
+                "duration": "09:36 min"
+            },
+            {
+                "number": "49",
+                "title": "Lesson 49",
+                "duration": "10:38 min"
+            },
+            {
+                "number": "50",
+                "title": "Lesson 50",
+                "duration": "01:40 min"
+            },
+            {
+                "number": "51",
+                "title": "Lesson 51",
+                "duration": "02:42 min"
+            },
+            {
+                "number": "52",
+                "title": "Lesson 52",
+                "duration": "03:44 min"
+            },
+            {
+                "number": "53",
+                "title": "Lesson 53",
+                "duration": "04:46 min"
+            },
+            {
+                "number": "54",
+                "title": "Lesson 54",
+                "duration": "05:48 min"
+            },
+            {
+                "number": "55",
+                "title": "Lesson 55",
+                "duration": "06:50 min"
+            },
+            {
+                "number": "56",
+                "title": "Lesson 56",
+                "duration": "07:52 min"
+            },
+            {
+                "number": "57",
+                "title": "Lesson 57",
+                "duration": "08:54 min"
+            },
+            {
+                "number": "58",
+                "title": "Lesson 58",
+                "duration": "09:56 min"
+            },
+            {
+                "number": "59",
+                "title": "Lesson 59",
+                "duration": "10:58 min"
+            },
+            {
+                "number": "60",
+                "title": "Lesson 60",
+                "duration": "01:00 min"
+            },
+            {
+                "number": "61",
+                "title": "Lesson 61",
+                "duration": "02:02 min"
+            },
+            {
+                "number": "62",
+                "title": "Lesson 62",
+                "duration": "03:04 min"
+            },
+            {
+                "number": "63",
+                "title": "Lesson 63",
+                "duration": "04:06 min"
+            },
+            {
+                "number": "64",
+                "title": "Lesson 64",
+                "duration": "05:08 min"
+            },
+            {
+                "number": "65",
+                "title": "Lesson 65",
+                "duration": "06:10 min"
+            },
+            {
+                "number": "66",
+                "title": "Lesson 66",
+                "duration": "07:12 min"
+            },
+            {
+                "number": "67",
+                "title": "Lesson 67",
+                "duration": "08:14 min"
+            },
+            {
+                "number": "68",
+                "title": "Lesson 68",
+                "duration": "09:16 min"
+            },
+            {
+                "number": "69",
+                "title": "Lesson 69",
+                "duration": "10:18 min"
+            },
+            {
+                "number": "70",
+                "title": "Lesson 70",
+                "duration": "01:20 min"
+            },
+            {
+                "number": "71",
+                "title": "Lesson 71",
+                "duration": "02:22 min"
+            },
+            {
+                "number": "72",
+                "title": "Lesson 72",
+                "duration": "03:24 min"
+            },
+            {
+                "number": "73",
+                "title": "Lesson 73",
+                "duration": "04:26 min"
+            },
+            {
+                "number": "74",
+                "title": "Lesson 74",
+                "duration": "05:28 min"
+            },
+            {
+                "number": "75",
+                "title": "Lesson 75",
+                "duration": "06:30 min"
+            },
+            {
+                "number": "76",
+                "title": "Lesson 76",
+                "duration": "07:32 min"
+            },
+            {
+                "number": "77",
+                "title": "Lesson 77",
+                "duration": "08:34 min"
+            },
+            {
+                "number": "78",
+                "title": "Lesson 78",
+                "duration": "09:36 min"
+            },
+            {
+                "number": "79",
+                "title": "Lesson 79",
+                "duration": "10:38 min"
+            },
+            {
+                "number": "80",
+                "title": "Lesson 80",
+                "duration": "01:40 min"
+            },
+            {
+                "number": "81",
+                "title": "Lesson 81",
+                "duration": "02:42 min"
+            },
+            {
+                "number": "82",
+                "title": "Lesson 82",
+                "duration": "03:44 min"
+            },
+            {
+                "number": "83",
+                "title": "Lesson 83",
+                "duration": "04:46 min"
+            },
+            {
+                "number": "84",
+                "title": "Lesson 84",
+                "duration": "05:48 min"
+            },
+            {
+                "number": "85",
+                "title": "Lesson 85",
+                "duration": "06:50 min"
+            },
+            {
+                "number": "86",
+                "title": "Lesson 86",
+                "duration": "07:52 min"
+            },
+            {
+                "number": "87",
+                "title": "Lesson 87",
+                "duration": "08:54 min"
+            },
+            {
+                "number": "88",
+                "title": "Lesson 88",
+                "duration": "09:56 min"
+            },
+            {
+                "number": "89",
+                "title": "Lesson 89",
+                "duration": "10:58 min"
+            },
+            {
+                "number": "90",
+                "title": "Lesson 90",
+                "duration": "01:00 min"
+            },
+            {
+                "number": "91",
+                "title": "Lesson 91",
+                "duration": "02:02 min"
+            },
+            {
+                "number": "92",
+                "title": "Lesson 92",
+                "duration": "03:04 min"
+            },
+            {
+                "number": "93",
+                "title": "Lesson 93",
+                "duration": "04:06 min"
+            },
+            {
+                "number": "94",
+                "title": "Lesson 94",
+                "duration": "05:08 min"
+            },
+            {
+                "number": "95",
+                "title": "Lesson 95",
+                "duration": "06:10 min"
+            },
+            {
+                "number": "96",
+                "title": "Lesson 96",
+                "duration": "07:12 min"
+            },
+            {
+                "number": "97",
+                "title": "Lesson 97",
+                "duration": "08:14 min"
+            },
+            {
+                "number": "98",
+                "title": "Lesson 98",
+                "duration": "09:16 min"
+            },
+            {
+                "number": "99",
+                "title": "Lesson 99",
+                "duration": "10:18 min"
+            },
+            {
+                "number": "100",
+                "title": "Lesson 100",
+                "duration": "01:20 min"
+            },
+            {
+                "number": "101",
+                "title": "Lesson 101",
+                "duration": "02:22 min"
+            },
+            {
+                "number": "102",
+                "title": "Lesson 102",
+                "duration": "03:24 min"
+            },
+            {
+                "number": "103",
+                "title": "Lesson 103",
+                "duration": "04:26 min"
+            },
+            {
+                "number": "104",
+                "title": "Lesson 104",
+                "duration": "05:28 min"
+            },
+            {
+                "number": "105",
+                "title": "Lesson 105",
+                "duration": "06:30 min"
+            },
+            {
+                "number": "106",
+                "title": "Lesson 106",
+                "duration": "07:32 min"
+            },
+            {
+                "number": "107",
+                "title": "Lesson 107",
+                "duration": "08:34 min"
+            },
+            {
+                "number": "108",
+                "title": "Lesson 108",
+                "duration": "09:36 min"
+            },
+            {
+                "number": "109",
+                "title": "Lesson 109",
+                "duration": "10:38 min"
+            },
+            {
+                "number": "110",
+                "title": "Lesson 110",
+                "duration": "01:40 min"
+            }
+        ]
+    }
+}

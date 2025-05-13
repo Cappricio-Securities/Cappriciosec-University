@@ -24,6 +24,7 @@
         "offer percentage": "75%",
         "PREREQUISITES": "Basic PC/Laptop familiarity. No coding experience needed.",
         "Enroll now": "https://university.cappriciosec.com/",
+        "Cert_img": "https://university.cappriciosec.com/images/cert.svg"
         "What you'll learn": [
             "Networking",
             "Web Development (DNS Setup, PHP) & Hacking",

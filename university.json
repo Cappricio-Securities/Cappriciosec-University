@@ -1,7 +1,16 @@
 {
   "header_logo" : "https://university.cappriciosec.com/university-logo.png",
   "App_Link" : "https://play.google.com/store/apps/details?id=com.cappriciosec.university",
-  "academic_colabration": {
+  "academic_colabration": [
+     "award": [
+        {
+          "title": "Momento",
+          "url":"",
+          "Description": "Linux Introduction",
+          "tag": "Momento"
+        },
+     ]
+  ],
     "url": "https://university.cappriciosec.com/college_images",
     "We_trainged": [
       "1.png",

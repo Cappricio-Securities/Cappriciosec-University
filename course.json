@@ -45,96 +45,96 @@
             "description": "👨‍🏫 Meet Your Mentor: Karthikeyan V (a.k.a. Karthithehacker) Karthikeyan V is a renowned ethical hacker, cybersecurity researcher, and the founder of Cappricio Securities, a company dedicated to practical cybersecurity education. With a track record of reporting vulnerabilities in top platforms like Google, Pinterest, Android OS, and Upwork, he brings real-world experience directly into the classroom. He is the creator of several popular open-source security tools including Gh0stR3c0n, CRLFi, and Poseidon. His expertise ranges from bug bounty hunting and OSINT to advanced penetration testing and red teaming. Karthikeyan is also a popular cybersecurity content creator, known for breaking down complex topics in Tamil, making learning accessible to a wider audience. Despite coming from a modest background, his journey from a self-taught hacker to an industry leader has inspired thousands. As your mentor for the CEHPT course, he focuses on hands-on training, real-time attack simulations, and helping students develop the mindset of a professional ethical hacker. 🔐 “In this course, I won’t just teach you tools — I’ll show you how to think like a hacker.” — Karthikeyan V"
         },
         "content": [
-    {
-      "topic": "Linux",
-      "videos": [
-        {
-          "number": "01",
-          "title": "Linux Introduction",
-          "duration": "03:30 min"
-        },
-        {
-          "number": "02",
-          "title": "Linux File System",
-          "duration": "05:10 min"
-        },
-        {
-          "number": "03",
-          "title": "Linux Permissions",
-          "duration": "04:45 min"
-        },
-        {
-          "number": "04",
-          "title": "Linux Networking Basics",
-          "duration": "06:20 min"
-        },
-        {
-          "number": "05",
-          "title": "Linux Command Line",
-          "duration": "07:00 min"
-        }
-      ]
-    },
-    {
-      "topic": "Networking",
-      "videos": [
-        {
-          "number": "01",
-          "title": "Introduction to Networking",
-          "duration": "04:15 min"
-        },
-        {
-          "number": "02",
-          "title": "OSI Model Explained",
-          "duration": "06:10 min"
-        },
-        {
-          "number": "03",
-          "title": "IP Addressing and Subnetting",
-          "duration": "07:45 min"
-        },
-        {
-          "number": "04",
-          "title": "TCP vs UDP",
-          "duration": "05:30 min"
-        },
-        {
-          "number": "05",
-          "title": "Practical Networking Tools",
-          "duration": "08:00 min"
-        }
-      ]
-    },
-    {
-      "topic": "Python",
-      "videos": [
-        {
-          "number": "01",
-          "title": "Python Basics",
-          "duration": "05:00 min"
-        },
-        {
-          "number": "02",
-          "title": "Variables and Data Types",
-          "duration": "04:40 min"
-        },
-        {
-          "number": "03",
-          "title": "Conditional Statements",
-          "duration": "06:00 min"
-        },
-        {
-          "number": "04",
-          "title": "Loops in Python",
-          "duration": "05:50 min"
-        },
-        {
-          "number": "05",
-          "title": "Functions and Modules",
-          "duration": "07:20 min"
-        }
-      ]
-    }
-  ]
+            {
+              "topic": "Linux",
+              "videos": [
+                {
+                  "number": "01",
+                  "title": "Linux Introduction",
+                  "duration": "03:30 min"
+                },
+                {
+                  "number": "02",
+                  "title": "Linux File System",
+                  "duration": "05:10 min"
+                },
+                {
+                  "number": "03",
+                  "title": "Linux Permissions",
+                  "duration": "04:45 min"
+                },
+                {
+                  "number": "04",
+                  "title": "Linux Networking Basics",
+                  "duration": "06:20 min"
+                },
+                {
+                  "number": "05",
+                  "title": "Linux Command Line",
+                  "duration": "07:00 min"
+                }
+              ]
+            },
+            {
+              "topic": "Networking",
+              "videos": [
+                {
+                  "number": "01",
+                  "title": "Introduction to Networking",
+                  "duration": "04:15 min"
+                },
+                {
+                  "number": "02",
+                  "title": "OSI Model Explained",
+                  "duration": "06:10 min"
+                },
+                {
+                  "number": "03",
+                  "title": "IP Addressing and Subnetting",
+                  "duration": "07:45 min"
+                },
+                {
+                  "number": "04",
+                  "title": "TCP vs UDP",
+                  "duration": "05:30 min"
+                },
+                {
+                  "number": "05",
+                  "title": "Practical Networking Tools",
+                  "duration": "08:00 min"
+                }
+              ]
+            },
+            {
+              "topic": "Python",
+              "videos": [
+                {
+                  "number": "01",
+                  "title": "Python Basics",
+                  "duration": "05:00 min"
+                },
+                {
+                  "number": "02",
+                  "title": "Variables and Data Types",
+                  "duration": "04:40 min"
+                },
+                {
+                  "number": "03",
+                  "title": "Conditional Statements",
+                  "duration": "06:00 min"
+                },
+                {
+                  "number": "04",
+                  "title": "Loops in Python",
+                  "duration": "05:50 min"
+                },
+                {
+                  "number": "05",
+                  "title": "Functions and Modules",
+                  "duration": "07:20 min"
+                }
+              ]
+            }
+          ]
     }
 }

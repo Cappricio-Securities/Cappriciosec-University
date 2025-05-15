@@ -531,5 +531,189 @@
                 ]
             }
         ]
-    }
+    },
+    "CMABP": {
+    "title": "Certified Mobile Apps Bug-Bounty and Pen-Testing",
+    "banner": "https://university.cappriciosecurities.com/android/images-new/CMABP.webp",
+    "Language": "தமிழ்",
+    "Short Description": "A practical course on offensive mobile app security, bug bounty hunting, and real-world pen-testing techniques",
+    "Description": "This course is designed for learners aiming to master mobile application security through offensive testing techniques. You'll dive into real-world mobile threat scenarios, exploit common and advanced vulnerabilities, and develop practical skills to assess and attack mobile apps (ethically). By the end of the course, you'll be equipped to perform structured mobile app security assessments and contribute effectively to bug bounty programs..",
+    "Duration": "12hr 26min",
+    "Access": "lifetime",
+    "students enrolled count": 1324,
+    "PREREQUISITES": "Basic PC/Laptop familiarity. No coding experience needed, Android studio for malware development.",
+    "Enroll now": "https://university.cappriciosec.com/",
+    "Cert_img": "https://university.cappriciosec.com/images/cert.svg",
+    "What you'll learn": [
+      "Burp suite",
+      "Recon",
+      "Web exploitation",
+      "OWASP Mobile bugs",
+      "Android malware development ",
+      "Android app penetration testing",
+      "Android apps bug Bounty ",
+      "iOS app penetration testing ",
+      "iOS apps bug Bounty ",
+      "iPhone OS penetration testing",
+      "Source Code Analysis ",
+      "Unique bugs with high impact",
+      "Understand Mobile application's security principles and potential dangers",
+      "As a Mobile application developer you will understand how to secure your application ",
+      "Understand the penetration testing process",
+      "Report writing"
+    ],
+    "content": [
+      {
+        "topic": "Chapter 1: Setting up Environment",
+        "videos": [
+          { "number": "01", "title": "About Course", "duration": "06:12" },
+          { "number": "02", "title": "About mentor", "duration": "03:53" },
+          { "number": "03", "title": "Requirements", "duration": "06:06" },
+          { "number": "04", "title": "Emulator setup 01", "duration": "06:11" },
+          { "number": "05", "title": "Emulator setup 02", "duration": "02:52" },
+          { "number": "06", "title": "Android studio overview", "duration": "06:57" },
+          { "number": "07", "title": "Exploring android studio", "duration": "08:31" },
+          { "number": "08", "title": "Developing first app frontend", "duration": "05:01" },
+          { "number": "09", "title": "Developing first App Backend", "duration": "08:19" },
+          { "number": "10", "title": "Testing app via ADB", "duration": "02:34" },
+          { "number": "11", "title": "All about intent", "duration": "04:07" },
+          { "number": "12", "title": "Mobsf setup", "duration": "05:20" },
+          { "number": "13", "title": "Hunting with mobsf", "duration": "12:30" },
+          { "number": "14", "title": "Hunting with JADX", "duration": "04:12" }
+        ]
+      },
+      {
+        "topic": "Chapter 2: Scoping & Sensitive Info",
+        "videos": [
+          { "number": "15", "title": "Getting our scope data", "duration": "08:31" },
+          { "number": "16", "title": "Sensitive Information Disclosure 1", "duration": "02:57" },
+          { "number": "17", "title": "Sensitive Information Disclosure 2", "duration": "10:11" },
+          { "number": "18", "title": "Sensitive Information Disclosure 3", "duration": "10:16" },
+          { "number": "19", "title": "Sensitive Information Disclosure 4", "duration": "08:52" },
+          { "number": "20", "title": "Firebase misconfigured", "duration": "02:34" }
+        ]
+      },
+      {
+        "topic": "Chapter 3: Insecure WebView Attacks",
+        "videos": [
+          { "number": "21", "title": "About Insecure webview", "duration": "05:16" },
+          { "number": "22", "title": "Insecure webview attack 01", "duration": "10:08" },
+          { "number": "23", "title": "Insecure webview attack 02", "duration": "08:36" },
+          { "number": "24", "title": "Insecure webview malware(Dev)", "duration": "08:17" },
+          { "number": "25", "title": "Live Insecure webview attack 01", "duration": "14:19" },
+          { "number": "26", "title": "Live insecure webview attack 02", "duration": "04:30" },
+          { "number": "27", "title": "Insecure webview OPPO POC 1", "duration": "07:01" },
+          { "number": "28", "title": "Insecure webview POC 2", "duration": "04:32" },
+          { "number": "29", "title": "Insecure webview POC 3", "duration": "07:22" },
+          { "number": "30", "title": "Insecure webview POC 4", "duration": "04:59" },
+          { "number": "31", "title": "Insecure webview POC 5", "duration": "07:54" }
+        ]
+      },
+      {
+        "topic": "Chapter 4: Browsable Intent Attacks",
+        "videos": [
+          { "number": "32", "title": "About Browsable Intent Attack", "duration": "05:45" },
+          { "number": "33", "title": "Live Browsable Intent Attack 1", "duration": "10:58" },
+          { "number": "34", "title": "Live Browsable Intent Attack 2", "duration": "03:22" },
+          { "number": "35", "title": "Live Browsable Intent Attack 3", "duration": "19:09" },
+          { "number": "36", "title": "Live Browsable Intent Attack 4", "duration": "07:57" },
+          { "number": "37", "title": "Live Browsable Intent Attack 5", "duration": "12:59" },
+          { "number": "38", "title": "Malware DEV", "duration": "05:50" },
+          { "number": "39", "title": "Exploit Browsable Intent Attack 7", "duration": "13:19" },
+          { "number": "40", "title": "POC Browsable Intent Attack", "duration": "08:18" }
+        ]
+      },
+      {
+        "topic": "Chapter 5: Exported Activity & Cam Hacking",
+        "videos": [
+          { "number": "41", "title": "Exported Activity Attack 1", "duration": "07:22" },
+          { "number": "42", "title": "Cam Hacking via Exported Activity", "duration": "10:19" },
+          { "number": "43", "title": "Malware Developing CAM Hacking", "duration": "04:30" },
+          { "number": "44", "title": "Live Bug Submission (Bugcrowd)", "duration": "03:41" },
+          { "number": "45", "title": "Malware Facecam Hacking POC", "duration": "03:14" }
+        ]
+      },
+      {
+        "topic": "Chapter 6: Insecure Deeplink Attacks",
+        "videos": [
+          { "number": "46", "title": "About Deep Link", "duration": "12:47" },
+          { "number": "47", "title": "Insecure Deeplink Attack 1", "duration": "05:41" },
+          { "number": "48", "title": "Twitter Insecure Deeplink Attack", "duration": "06:30" },
+          { "number": "49", "title": "Twitter Deeplink Bug Report Live", "duration": "02:44" },
+          { "number": "50", "title": "Twitter Insecure Deeplink POC", "duration": "07:32" }
+        ]
+      },
+      {
+        "topic": "Chapter 7: SSL Bypass & Frida Tools (Android)",
+        "videos": [
+          { "number": "51", "title": "BURP setup Android", "duration": "16:19" },
+          { "number": "52", "title": "SSL unpinning on any application", "duration": "08:22" },
+          { "number": "53", "title": "Live Hunting", "duration": "10:48" },
+          { "number": "54", "title": "Frida Server Setup", "duration": "11:08" },
+          { "number": "55", "title": "SSL Bypass via Frida Server 1", "duration": "04:21" },
+          { "number": "56", "title": "SSL bypass via Objection 1", "duration": "11:00" },
+          { "number": "57", "title": "SSL Bypass via Frida Server 2", "duration": "16:18" },
+          { "number": "58", "title": "SSL Bypass via Frida Server 3", "duration": "06:07" },
+          { "number": "59", "title": "SSL bypass via objection 2", "duration": "13:59" },
+          { "number": "60", "title": "Root Bypass using Frida", "duration": "04:57" },
+          { "number": "61", "title": "Root Bypass using Objection", "duration": "02:38" },
+          { "number": "62", "title": "Live Hunting Android App", "duration": "11:18" }
+        ]
+      },
+      {
+        "topic": "Chapter 8: No Rate Limiting & DB/Logging",
+        "videos": [
+          { "number": "63", "title": "No Rate Limiting POC", "duration": "01:55" },
+          { "number": "64", "title": "No Rate Limiting POC Explanation", "duration": "02:55" },
+          { "number": "65", "title": "Insecure DB Hunting 1", "duration": "07:11" },
+          { "number": "66", "title": "Insecure DB Hunting 2", "duration": "10:08" },
+          { "number": "67", "title": "Insecure DB Hunting 3", "duration": "23:31" },
+          { "number": "68", "title": "Insecure DB Hunting 4", "duration": "18:32" },
+          { "number": "69", "title": "Indeed Insecure DB", "duration": "08:08" },
+          { "number": "70", "title": "Insecure Logging Hunting 1", "duration": "03:52" },
+          { "number": "71", "title": "Insecure Logging Hunting 2", "duration": "05:24" },
+          { "number": "72", "title": "Insecure Logging POC", "duration": "07:49" }
+        ]
+      },
+      {
+        "topic": "Chapter 9: Game & Google App Exploits",
+        "videos": [
+          { "number": "73", "title": "Game Reverse Engineering", "duration": "18:10" },
+          { "number": "74", "title": "1.6 Billion Data Leaking Google POC", "duration": "04:58" },
+          { "number": "75", "title": "Google Hangout Android App POC", "duration": "15:06" },
+          { "number": "76", "title": "No Rate Limiting POC", "duration": "05:09" },
+          { "number": "77", "title": "Weak Password Function POC", "duration": "02:43" },
+          { "number": "78", "title": "FB SDK misconfigured POC", "duration": "00:57" },
+          { "number": "79", "title": "About IOS Hacking", "duration": "02:43" },
+          { "number": "80", "title": "Jail Breaking IOS", "duration": "04:53" },
+          { "number": "81", "title": "Installing Frida Server", "duration": "03:51" },
+          { "number": "82", "title": "Communication with Frida", "duration": "01:44" },
+          { "number": "83", "title": "Installing BURP CA on iPhone", "duration": "03:44" },
+          { "number": "84", "title": "SSL Bypass using Frida on IOS", "duration": "04:26" },
+          { "number": "85", "title": "SSH Into IOS", "duration": "04:19" },
+          { "number": "86", "title": "SSL Bypass iPhone OS 1", "duration": "12:38" },
+          { "number": "87", "title": "SSL Bypass iPhone OS 2", "duration": "03:35" },
+          { "number": "88", "title": "Recon for IOS", "duration": "03:50" }
+        ]
+      },
+      {
+        "topic": "Chapter 10: iOS Hacking & Exploits",
+        "videos": [
+          { "number": "89", "title": "Hunting iPhone OS", "duration": "05:33" },
+          { "number": "90", "title": "Account Takeover on IOS App", "duration": "23:44" },
+          { "number": "91", "title": "Account Takeover POC 1 (IOS)", "duration": "02:24" },
+          { "number": "92", "title": "Account Takeover POC 2 (IOS)", "duration": "04:20" }
+        ]
+      },
+      {
+        "topic": "Chapter 11: Internal & Live Hunting",
+        "videos": [
+          { "number": "93", "title": "Company Internal PIL", "duration": "05:38" },
+          { "number": "94", "title": "Exporting IPA", "duration": "02:23" },
+          { "number": "95", "title": "Live Hunting 01", "duration": "02:06" },
+          { "number": "96", "title": "Live Hunting 02", "duration": "14:33" }
+        ]
+      }
+    ]
+  }
 }

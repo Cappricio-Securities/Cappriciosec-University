@@ -136,5 +136,400 @@
               ]
             }
           ]
+    },
+    "OJIPT": {
+    "title": "Offensive Java and IoT Penetration Testing",
+    "banner": "https://university.cappriciosecurities.com/android/images-new/OJIPT.webp",
+    "Language": "தமிழ்",
+    "Short Description": "A deep-dive into offensive Java applications and IoT device penetration testing techniques.",
+    "Description": "This course focuses on offensive security techniques targeting Java-based applications and IoT devices. Learners will explore real-world attack scenarios, gain hands-on experience exploiting Java vulnerabilities, and assess security weaknesses in Internet of Things ecosystems. Ideal for security professionals and developers aiming to build or break secure systems.",
+    "Duration": "4h 40 min",
+    "preview": "https://youtu.be/OJIPT_course_preview_link",
+    "Access": "lifetime",
+    "Starts": 4.8,
+    "students_enrolled_count": 980,
+    "PREREQUISITES": "Basic understanding of networking and HTTP. Familiarity with Linux is a plus.",
+    "Enroll now": "https://university.cappriciosec.com/",
+    "Cert_img": "https://university.cappriciosec.com/images/cert.svg",
+    "What you'll learn": [
+      "Reconnaissance and Automation Tools",
+      "Exploiting Open Redirects",
+      "Abusing HTTP Headers and Methods",
+      "SSRF (Server-Side Request Forgery)",
+      "Rate Limiting Bypass Techniques",
+      "Broken Authentication Attacks",
+      "Image-based Attacks",
+      "Cloud Application Security Testing",
+      "JSON-based Attacks",
+      "CSRF/XSRF Attacks",
+      "Cross-Site Scripting (XSS)"
+    ],
+    "content": [
+      {
+        "topic": "Module Overview",
+        "videos": [
+          {
+            "number": "01",
+            "title": "About Mentor",
+            "duration": "2:18 min"
+          },
+          {
+            "number": "02",
+            "title": "About Co-Mentor",
+            "duration": "5:43 min"
+          },
+          {
+            "number": "03",
+            "title": "About Java and Working Process",
+            "duration": "4:40 min"
+          },
+          {
+            "number": "04",
+            "title": "Hands-on with Java",
+            "duration": "5:03 min"
+          },
+          {
+            "number": "05",
+            "title": "IDE Setup",
+            "duration": "4:18 min"
+          }
+        ]
+      },
+      {
+        "topic": "Java Code Understanding Series",
+        "videos": [
+          {
+            "number": "06",
+            "title": "Understanding the Java Code 1",
+            "duration": "4:48 min"
+          },
+          {
+            "number": "07",
+            "title": "Understanding the Java Code 2",
+            "duration": "14:05 min"
+          },
+          {
+            "number": "08",
+            "title": "Understanding the Java Code 3",
+            "duration": "2:11 min"
+          },
+          {
+            "number": "09",
+            "title": "Understanding the Java Code 4",
+            "duration": "7:33 min"
+          },
+          {
+            "number": "10",
+            "title": "Understanding the Java Code 5",
+            "duration": "8:12 min"
+          },
+          {
+            "number": "11",
+            "title": "Understanding the Java Code 6",
+            "duration": "4:46 min"
+          },
+          {
+            "number": "12",
+            "title": "Understanding the Java Code 7",
+            "duration": "3:33 min"
+          },
+          {
+            "number": "13",
+            "title": "Understanding the Java Code 8",
+            "duration": "3:41 min"
+          },
+          {
+            "number": "14",
+            "title": "Understanding the Java Code 9",
+            "duration": "3:46 min"
+          },
+          {
+            "number": "15",
+            "title": "Understanding the Java Code 10",
+            "duration": "2:52 min"
+          },
+          {
+            "number": "16",
+            "title": "Understanding the Java Code 11",
+            "duration": "2:56 min"
+          },
+          {
+            "number": "17",
+            "title": "Understanding the Java Code 12",
+            "duration": "4:23 min"
+          },
+          {
+            "number": "18",
+            "title": "Understanding the Java Code 13",
+            "duration": "4:43 min"
+          },
+          {
+            "number": "19",
+            "title": "Understanding the Java Code 14",
+            "duration": "5:37 min"
+          },
+          {
+            "number": "20",
+            "title": "Understanding the Java Code 15",
+            "duration": "6:38 min"
+          }
+        ]
+      },
+      {
+        "topic": "Networking and Java Integration",
+        "videos": [
+          {
+            "number": "21",
+            "title": "About Networking",
+            "duration": "7:49 min"
+          },
+          {
+            "number": "22",
+            "title": "Network Mapping using Java 1",
+            "duration": "10:02 min"
+          },
+          {
+            "number": "23",
+            "title": "Network Mapping using Java 2",
+            "duration": "0:58 min"
+          }
+        ]
+      },
+      {
+        "topic": "Java-based Hardware and OS Penetration",
+        "videos": [
+          {
+            "number": "37",
+            "title": "Hacking Windows OS using Java",
+            "duration": "04:30 min"
+          },
+          {
+            "number": "38",
+            "title": "Hacking Linux OS using Java",
+            "duration": "08:44 min"
+          },
+          {
+            "number": "39",
+            "title": "Hardware Development using Java",
+            "duration": "02:20 min"
+          },
+          {
+            "number": "40",
+            "title": "Hardware Development 01",
+            "duration": "15:38 min"
+          },
+          {
+            "number": "41",
+            "title": "Hardware Development 02",
+            "duration": "00:26 min"
+          },
+          {
+            "number": "42",
+            "title": "Hardware Development 03",
+            "duration": "03:31 min"
+          },
+          {
+            "number": "43",
+            "title": "Hardware Development 04",
+            "duration": "06:30 min"
+          },
+          {
+            "number": "44",
+            "title": "Understanding Hardware Code 1",
+            "duration": "04:10 min"
+          },
+          {
+            "number": "45",
+            "title": "Understanding Hardware Code 2",
+            "duration": "05:09 min"
+          },
+          {
+            "number": "46",
+            "title": "Hardware Development with Java",
+            "duration": "02:30 min"
+          },
+          {
+            "number": "47",
+            "title": "About IOT",
+            "duration": "03:12 min"
+          }
+        ]
+      },
+      {
+        "topic": "IOT Hacking Output",
+        "videos": [
+          {
+            "number": "48",
+            "title": "IOT Hacking with java 1",
+            "duration": "02:56 min"
+          },
+          {
+            "number": "49",
+            "title": "IOT Hacking with java 2",
+            "duration": "02:38 min"
+          },
+          {
+            "number": "50",
+            "title": "IOT Hacking with java Output",
+            "duration": "05:18 min"
+          }
+        ]
+      }
+    ]
+  },
+   "CAPBB": {
+        "title": "Certified API Pentesting and Bug Bounty",
+        "banner": "https://university.cappriciosecurities.com/android/images-new/CAPBB.webp",
+        "Language": "தமிழ்",
+        "Short Description": "Master API penetration testing techniques and bug bounty hunting skills with a certified course focused on real-world vulnerabilities, security best practices, and ethical hacking methodologies.",
+        "Description": "The Certified API Pentesting and Bug Bounty course is designed for cybersecurity enthusiasts and professionals aiming to specialize in API security. This course provides in-depth training on identifying, exploiting, and reporting API vulnerabilities using industry-standard tools and methodologies.",
+        "Duration": "22h 23min",
+        "Access": "lifetime",
+        "students enrolled count": 1324,
+        "PREREQUISITES": "Basic PC/Laptop familiarity. No coding experience needed.",
+        "Enroll now": "https://university.cappriciosec.com/",
+        "Cert_img": "https://university.cappriciosec.com/images/cert.svg",
+        "What you'll learn": [
+            "Burp Suite",
+            "Recon",
+            "API Exploitation",
+            "OWASP API Bugs",
+            "API Development",
+            "API Penetration Testing",
+            "Python for API",
+            "FastAPI",
+            "Linux",
+            "Postman",
+            "Source Code Analysis",
+            "Unique Bugs with High Impact",
+            "GraphQL",
+            "Secure Code Development",
+            "Swagger API",
+            "Report Writing"
+        ],
+        "content": [
+            {
+                "topic": "Chapter 1: Introduction and Fundamentals",
+                "videos": [
+                    { "number": "01", "title": "About Mentor", "duration": "08:00 min" },
+                    { "number": "02", "title": "About API", "duration": "24:40 min" },
+                    { "number": "03", "title": "About API", "duration": "21:36 min" },
+                    { "number": "04", "title": "About GraphQL", "duration": "06:27 min" }
+                ]
+            },
+            {
+                "topic": "Chapter 2: Environment and Tool Setup",
+                "videos": [
+                    { "number": "05", "title": "Postman Installation", "duration": "06:28 min" },
+                    { "number": "06", "title": "Burp-Suite", "duration": "07:02 min" },
+                    { "number": "07", "title": "Understanding Burpsuite", "duration": "10:15 min" }
+                ]
+            },
+            {
+                "topic": "Chapter 3: FastAPI Development and Authentication",
+                "videos": [
+                    { "number": "08", "title": "Fast API Setup and Hello World", "duration": "10:09 min" },
+                    { "number": "09", "title": "FastAPI & SQL", "duration": "14:35 min" },
+                    { "number": "10", "title": "FastAPI POST Handling & DB", "duration": "22:40 min" },
+                    { "number": "11", "title": "FastAPI GET HTTP & Read DB", "duration": "14:16 min" },
+                    { "number": "12", "title": "FastAPI PUT HTTP & Update DB 1", "duration": "22:33 min" },
+                    { "number": "13", "title": "FastAPI PUT HTTP & Update DB 2", "duration": "04:26 min" },
+                    { "number": "14", "title": "FastAPI DELETE HTTP & Delete DB", "duration": "10:43 min" },
+                    { "number": "15", "title": "API Headers Authentication & Authorization", "duration": "07:34 min" },
+                    { "number": "16", "title": "FastAPI HTTP Headers & Authentication", "duration": "08:38 min" }
+                ]
+            },
+            {
+                "topic": "Chapter 4: API Testing and Tools",
+                "videos": [
+                    { "number": "17", "title": "Burpsuite & Postman", "duration": "07:37 min" },
+                    { "number": "18", "title": "CURL Command and API CRUD 1", "duration": "14:48 min" },
+                    { "number": "19", "title": "CURL Command and API CRUD 2", "duration": "01:25 min" },
+                    { "number": "20", "title": "Swagger UI for API Testing", "duration": "15:28 min" },
+                    { "number": "21", "title": "Creating API Collections", "duration": "17:28 min" },
+                    { "number": "22", "title": "Postman Variables", "duration": "12:11 min" },
+                    { "number": "23", "title": "API Authorization Basic Auth", "duration": "12:57 min" },
+                    { "number": "24", "title": "API Parser for Burpsuite", "duration": "04:24 min" }
+                ]
+            },
+            {
+                "topic": "Chapter 5: BOLA and Initial Command Injection",
+                "videos": [
+                    { "number": "25", "title": "OWASP BOLA Bug Understanding", "duration": "14:47 min" },
+                    { "number": "26", "title": "BOLA Live Hacking 1", "duration": "14:11 min" },
+                    { "number": "27", "title": "BOLA Live Hacking 2", "duration": "11:38 min" },
+                    { "number": "28", "title": "BOLA Attack Bypass", "duration": "06:27 min" },
+                    { "number": "29", "title": "API Command Injection P1 Bug", "duration": "10:23 min" }
+                ]
+            },
+            {
+                "topic": "Chapter 6: Advanced Command Injection",
+                "videos": [
+                    { "number": "30", "title": "API Command Injection Code Analysis", "duration": "15:37 min" },
+                    { "number": "31", "title": "API Command Injection Attack", "duration": "19:18 min" },
+                    { "number": "32", "title": "Blind Command Injection 1", "duration": "16:02 min" },
+                    { "number": "33", "title": "Blind Command Injection 2", "duration": "07:00 min" },
+                    { "number": "34", "title": "Blind Command Injection to File Stealing", "duration": "10:33 min" }
+                ]
+            },
+            {
+                "topic": "Chapter 7: Insecure Deserialization Basics",
+                "videos": [
+                    { "number": "35", "title": "OWASP API Insecure Deserialization", "duration": "17:55 min" },
+                    { "number": "36", "title": "Python Class & Object Coding", "duration": "09:23 min" },
+                    { "number": "37", "title": "Python Serialization & Deserialization", "duration": "06:20 min" },
+                    { "number": "38", "title": "Insecure Deserialization Exploit Development", "duration": "12:45 min" },
+                    { "number": "39", "title": "IDOR via Insecure Deserialization 1", "duration": "20:01 min" }
+                ]
+            },
+            {
+                "topic": "Chapter 8: Insecure Deserialization and Rate Limiting",
+                "videos": [
+                    { "number": "40", "title": "IDOR via Insecure Deserialization 2", "duration": "14:12 min" },
+                    { "number": "41", "title": "Insecure Deserialization Exploitation", "duration": "12:20 min" },
+                    { "number": "42", "title": "About No Rate Limiting in API", "duration": "07:36 min" },
+                    { "number": "43", "title": "No Rate Limiting in API Live Attack", "duration": "25:18 min" },
+                    { "number": "44", "title": "Exploit Development for Rate Limiting", "duration": "08:36 min" }
+                ]
+            },
+            {
+                "topic": "Chapter 9: Authentication, Session Management, and CVE-2017-5487",
+                "videos": [
+                    { "number": "45", "title": "About CVE-2017-5487 in API", "duration": "04:10 min" },
+                    { "number": "46", "title": "Exploitation of CVE-2017-5487", "duration": "04:50 min" },
+                    { "number": "47", "title": "OWASP Broken Authentication", "duration": "10:01 min" },
+                    { "number": "48", "title": "About Session Management Attack", "duration": "10:00 min" },
+                    { "number": "49", "title": "Practical Session Management", "duration": "06:34 min" }
+                ]
+            },
+            {
+                "topic": "Chapter 10: Path Traversal, Data Exposure, ReDoS, and Secure Coding",
+                "videos": [
+                    { "number": "50", "title": "About Path Traversal Bug", "duration": "04:43 min" },
+                    { "number": "51", "title": "Practical Path Traversal Bug", "duration": "07:47 min" },
+                    { "number": "52", "title": "API Excessive Data Exposure", "duration": "04:07 min" },
+                    { "number": "53", "title": "Practical API Excessive Data Exposure", "duration": "08:10 min" },
+                    { "number": "54", "title": "About Regular Expression DoS Attack", "duration": "04:38 min" }
+                ]
+            },
+            {
+                "topic": "Chapter 11: Secure Coding Practices and Regular Expression DoS",
+                "videos": [
+                    { "number": "55", "title": "Regular Expression DoS Attack 1", "duration": "05:41 min" },
+                    { "number": "56", "title": "Regular Expression DoS Attack 2", "duration": "08:01 min" },
+                    { "number": "57", "title": "BOLA Attack Secure Code Development", "duration": "10:00 min" },
+                    { "number": "58", "title": "API Command Injection Secure Code Development", "duration": "05:19 min" },
+                    { "number": "59", "title": "Secure Code Development for Session Management", "duration": "15:29 min" }
+                ]
+            },
+            {
+                "topic": "Chapter 12: Additional Secure Coding Practices and Command Injection",
+                "videos": [
+                    { "number": "60", "title": "Secure Code Development for Path Traversal", "duration": "07:32 min" },
+                    { "number": "61", "title": "Blind Command Injection DNS Exfiltration OOB", "duration": "21:08 min" },
+                    { "number": "62", "title": "Gaining Shell from Command Injection", "duration": "08:27 min" }
+                ]
+            }
+        ]
     }
 }

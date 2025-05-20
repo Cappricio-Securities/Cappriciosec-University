@@ -10,6 +10,7 @@
     ],
     "CEHPT": {
         "title": "Certified Ethical Hacking & Penetration Testing",
+        "Tag" : ['CyberSecurity'],
         "banner": "https://university.cappriciosecurities.com/android/images-new/CEHPT.webp",
         "Language": "தமிழ்",
         "Short Description": "A beginner to advanced course on ethical hacking and penetration testing.",
@@ -23,6 +24,7 @@
         "offer price": 3500,
         "offer percentage": "25%",
         "PREREQUISITES": "Basic PC/Laptop familiarity. No coding experience needed.",
+        "Pay Now" : "https://university.cappriciosec.com/",
         "Enroll now": "https://university.cappriciosec.com/",
         "Cert_img": "https://university.cappriciosec.com/images/cert.svg",
         "What you'll learn": [
@@ -139,6 +141,7 @@
     },
     "OJIPT": {
     "title": "Offensive Java and IoT Penetration Testing",
+    "Tag" : ['CyberSecurity','Coding'],
     "banner": "https://university.cappriciosecurities.com/android/images-new/OJIPT.webp",
     "Language": "தமிழ்",
     "Short Description": "A deep-dive into offensive Java applications and IoT device penetration testing techniques.",
@@ -395,6 +398,7 @@
   },
    "CAPBB": {
         "title": "Certified API Pentesting and Bug Bounty",
+       "Tag" : ['CyberSecurity','Bugbounty','Api','Coding'],
         "banner": "https://university.cappriciosecurities.com/android/images-new/capbb.webp",
         "Language": "தமிழ்",
         "Short Description": "Master API penetration testing techniques and bug bounty hunting skills with a certified course focused on real-world vulnerabilities, security best practices, and ethical hacking methodologies.",
@@ -560,6 +564,7 @@
     },
     "CMABP": {
     "title": "Certified Mobile Apps Bug-Bounty and Pen-Testing",
+    "Tag" : ['CyberSecurity','Bugbounty','Api','Coding'],
     "banner": "https://university.cappriciosecurities.com/android/images-new/CMABP.webp",
     "Language": "தமிழ்",
     "Short Description": "A practical course on offensive mobile app security, bug bounty hunting, and real-world pen-testing techniques",

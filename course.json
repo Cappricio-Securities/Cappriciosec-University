@@ -1,147 +1,152 @@
 {
-    "Course": [
-        "CEHPT",
-        "CCI",
-        "CWBP",
-        "CAPBB",
-        "CMABP",
-        "CHID",
-        "OJIPT"
+  "Course": [
+    "CEHPT",
+    "CCI",
+    "CWBP",
+    "CAPBB",
+    "CMABP",
+    "CHID",
+    "OJIPT"
+  ],
+  "CEHPT": {
+    "title": "Certified Ethical Hacking & Penetration Testing",
+    "Tag": [
+      "CyberSecurity"
     ],
-    "CEHPT": {
-        "title": "Certified Ethical Hacking & Penetration Testing",
-        "Tag" : ['CyberSecurity'],
-        "banner": "https://university.cappriciosecurities.com/android/images-new/CEHPT.webp",
-        "Language": "தமிழ்",
-        "Short Description": "A beginner to advanced course on ethical hacking and penetration testing.",
-        "Description": "This Course Is Aimed At Beginners Who Want To Learn Hacking And Pen-Testing From Basics. After This Course , You Will Have Good Understanding Of How To Approach A Machine And You Can Develop Your Own Methodology.",
-        "Duration": "9h 12 min",
-        "preview": "https://youtu.be/BLwR_YOCpzA?si=QHWCDG7zTb3WipAs",
-        "Access": "lifetime",
-        "Starts": 4.7,
-        "students enrolled count": 1324,
-        "price": 5500,
-        "offer price": 3500,
-        "offer percentage": "25%",
-        "PREREQUISITES": "Basic PC/Laptop familiarity. No coding experience needed.",
-        "Pay Now" : "https://university.cappriciosec.com/",
-        "Enroll now": "https://university.cappriciosec.com/",
-        "Cert_img": "https://university.cappriciosec.com/images/cert.svg",
-        "What you'll learn": [
-            "Networking",
-            "Web Development (DNS Setup, PHP) & Hacking",
-            "Social media Hacking",
-            "Linux",
-            "Android studio",
-            "Android hacking",
-            "System hacking",
-            "Back Door Development",
-            "IoT development & hacking",
-            "Hardware & Microcontroller development (Arduino, Raspberry Pi, PiCo, ESP8266, NodeMCU, some sensors)"
-        ],
-        "Mentor": {
-            "name": "karthithehacker",
-            "title": "Founder and CEO of Cappricio Securities , Ethical Hacker, Cybersecurity Researcher",
-            "url": "https://karthithehacker.com/",
-            "image": "https://avatars.githubusercontent.com/u/33289300?v=4",
-            "description": "👨‍🏫 Meet Your Mentor: Karthikeyan V (a.k.a. Karthithehacker) Karthikeyan V is a renowned ethical hacker, cybersecurity researcher, and the founder of Cappricio Securities, a company dedicated to practical cybersecurity education. With a track record of reporting vulnerabilities in top platforms like Google, Pinterest, Android OS, and Upwork, he brings real-world experience directly into the classroom. He is the creator of several popular open-source security tools including Gh0stR3c0n, CRLFi, and Poseidon. His expertise ranges from bug bounty hunting and OSINT to advanced penetration testing and red teaming. Karthikeyan is also a popular cybersecurity content creator, known for breaking down complex topics in Tamil, making learning accessible to a wider audience. Despite coming from a modest background, his journey from a self-taught hacker to an industry leader has inspired thousands. As your mentor for the CEHPT course, he focuses on hands-on training, real-time attack simulations, and helping students develop the mindset of a professional ethical hacker. 🔐 “In this course, I won’t just teach you tools — I’ll show you how to think like a hacker.” — Karthikeyan V"
-        },
-        "content": [
-            {
-              "topic": "Linux",
-              "videos": [
-                {
-                  "number": "01",
-                  "title": "Linux Introduction",
-                  "duration": "03:30 min"
-                },
-                {
-                  "number": "02",
-                  "title": "Linux File System",
-                  "duration": "05:10 min"
-                },
-                {
-                  "number": "03",
-                  "title": "Linux Permissions",
-                  "duration": "04:45 min"
-                },
-                {
-                  "number": "04",
-                  "title": "Linux Networking Basics",
-                  "duration": "06:20 min"
-                },
-                {
-                  "number": "05",
-                  "title": "Linux Command Line",
-                  "duration": "07:00 min"
-                }
-              ]
-            },
-            {
-              "topic": "Networking",
-              "videos": [
-                {
-                  "number": "01",
-                  "title": "Introduction to Networking",
-                  "duration": "04:15 min"
-                },
-                {
-                  "number": "02",
-                  "title": "OSI Model Explained",
-                  "duration": "06:10 min"
-                },
-                {
-                  "number": "03",
-                  "title": "IP Addressing and Subnetting",
-                  "duration": "07:45 min"
-                },
-                {
-                  "number": "04",
-                  "title": "TCP vs UDP",
-                  "duration": "05:30 min"
-                },
-                {
-                  "number": "05",
-                  "title": "Practical Networking Tools",
-                  "duration": "08:00 min"
-                }
-              ]
-            },
-            {
-              "topic": "Python",
-              "videos": [
-                {
-                  "number": "01",
-                  "title": "Python Basics",
-                  "duration": "05:00 min"
-                },
-                {
-                  "number": "02",
-                  "title": "Variables and Data Types",
-                  "duration": "04:40 min"
-                },
-                {
-                  "number": "03",
-                  "title": "Conditional Statements",
-                  "duration": "06:00 min"
-                },
-                {
-                  "number": "04",
-                  "title": "Loops in Python",
-                  "duration": "05:50 min"
-                },
-                {
-                  "number": "05",
-                  "title": "Functions and Modules",
-                  "duration": "07:20 min"
-                }
-              ]
-            }
-          ]
+    "banner": "https://university.cappriciosecurities.com/android/images-new/CEHPT.webp",
+    "Language": "தமிழ்",
+    "Short Description": "A beginner to advanced course on ethical hacking and penetration testing.",
+    "Description": "This Course Is Aimed At Beginners Who Want To Learn Hacking And Pen-Testing From Basics. After This Course , You Will Have Good Understanding Of How To Approach A Machine And You Can Develop Your Own Methodology.",
+    "Duration": "9h 12 min",
+    "preview": "https://youtu.be/BLwR_YOCpzA?si=QHWCDG7zTb3WipAs",
+    "Access": "lifetime",
+    "Starts": 4.7,
+    "students enrolled count": 1324,
+    "price": 5500,
+    "offer price": 3500,
+    "offer percentage": "25%",
+    "PREREQUISITES": "Basic PC/Laptop familiarity. No coding experience needed.",
+    "Pay Now": "https://university.cappriciosec.com/",
+    "Enroll now": "https://university.cappriciosec.com/",
+    "Cert_img": "https://university.cappriciosec.com/images/cert.svg",
+    "What you'll learn": [
+      "Networking",
+      "Web Development (DNS Setup, PHP) & Hacking",
+      "Social media Hacking",
+      "Linux",
+      "Android studio",
+      "Android hacking",
+      "System hacking",
+      "Back Door Development",
+      "IoT development & hacking",
+      "Hardware & Microcontroller development (Arduino, Raspberry Pi, PiCo, ESP8266, NodeMCU, some sensors)"
+    ],
+    "Mentor": {
+      "name": "karthithehacker",
+      "title": "Founder and CEO of Cappricio Securities , Ethical Hacker, Cybersecurity Researcher",
+      "url": "https://karthithehacker.com/",
+      "image": "https://avatars.githubusercontent.com/u/33289300?v=4",
+      "description": "👨‍🏫 Meet Your Mentor: Karthikeyan V (a.k.a. Karthithehacker) Karthikeyan V is a renowned ethical hacker, cybersecurity researcher, and the founder of Cappricio Securities, a company dedicated to practical cybersecurity education. With a track record of reporting vulnerabilities in top platforms like Google, Pinterest, Android OS, and Upwork, he brings real-world experience directly into the classroom. He is the creator of several popular open-source security tools including Gh0stR3c0n, CRLFi, and Poseidon. His expertise ranges from bug bounty hunting and OSINT to advanced penetration testing and red teaming. Karthikeyan is also a popular cybersecurity content creator, known for breaking down complex topics in Tamil, making learning accessible to a wider audience. Despite coming from a modest background, his journey from a self-taught hacker to an industry leader has inspired thousands. As your mentor for the CEHPT course, he focuses on hands-on training, real-time attack simulations, and helping students develop the mindset of a professional ethical hacker. 🔐 “In this course, I won’t just teach you tools — I’ll show you how to think like a hacker.” — Karthikeyan V"
     },
-    "OJIPT": {
+    "content": [
+      {
+        "topic": "Linux",
+        "videos": [
+          {
+            "number": "01",
+            "title": "Linux Introduction",
+            "duration": "03:30 min"
+          },
+          {
+            "number": "02",
+            "title": "Linux File System",
+            "duration": "05:10 min"
+          },
+          {
+            "number": "03",
+            "title": "Linux Permissions",
+            "duration": "04:45 min"
+          },
+          {
+            "number": "04",
+            "title": "Linux Networking Basics",
+            "duration": "06:20 min"
+          },
+          {
+            "number": "05",
+            "title": "Linux Command Line",
+            "duration": "07:00 min"
+          }
+        ]
+      },
+      {
+        "topic": "Networking",
+        "videos": [
+          {
+            "number": "01",
+            "title": "Introduction to Networking",
+            "duration": "04:15 min"
+          },
+          {
+            "number": "02",
+            "title": "OSI Model Explained",
+            "duration": "06:10 min"
+          },
+          {
+            "number": "03",
+            "title": "IP Addressing and Subnetting",
+            "duration": "07:45 min"
+          },
+          {
+            "number": "04",
+            "title": "TCP vs UDP",
+            "duration": "05:30 min"
+          },
+          {
+            "number": "05",
+            "title": "Practical Networking Tools",
+            "duration": "08:00 min"
+          }
+        ]
+      },
+      {
+        "topic": "Python",
+        "videos": [
+          {
+            "number": "01",
+            "title": "Python Basics",
+            "duration": "05:00 min"
+          },
+          {
+            "number": "02",
+            "title": "Variables and Data Types",
+            "duration": "04:40 min"
+          },
+          {
+            "number": "03",
+            "title": "Conditional Statements",
+            "duration": "06:00 min"
+          },
+          {
+            "number": "04",
+            "title": "Loops in Python",
+            "duration": "05:50 min"
+          },
+          {
+            "number": "05",
+            "title": "Functions and Modules",
+            "duration": "07:20 min"
+          }
+        ]
+      }
+    ]
+  },
+  "OJIPT": {
     "title": "Offensive Java and IoT Penetration Testing",
-    "Tag" : ['CyberSecurity','Coding'],
+    "Tag": [
+      "CyberSecurity",
+      "Coding"
+    ],
     "banner": "https://university.cappriciosecurities.com/android/images-new/OJIPT.webp",
     "Language": "தமிழ்",
     "Short Description": "A deep-dive into offensive Java applications and IoT device penetration testing techniques.",
@@ -170,19 +175,13 @@
       "CSRF/XSRF Attacks",
       "Cross-Site Scripting (XSS)"
     ],
-     "Mentor": {
-            "name": "karthithehacker",
-            "title": "Founder and CEO of Cappricio Securities , Ethical Hacker, Cybersecurity Researcher",
-            "url": "https://karthithehacker.com/",
-            "image": "https://avatars.githubusercontent.com/u/33289300?v=4",
-            "description": "👨‍🏫 Meet Your Mentor: Karthikeyan V (a.k.a. Karthithehacker) Karthikeyan V is a renowned ethical hacker, cybersecurity researcher, and the founder of Cappricio Securities, a company dedicated to practical cybersecurity education. With a track record of reporting vulnerabilities in top platforms like Google, Pinterest, Android OS, and Upwork, he brings real-world experience directly into the classroom. He is the creator of several popular open-source security tools including Gh0stR3c0n, CRLFi, and Poseidon. His expertise ranges from bug bounty hunting and OSINT to advanced penetration testing and red teaming. Karthikeyan is also a popular cybersecurity content creator, known for breaking down complex topics in Tamil, making learning accessible to a wider audience. Despite coming from a modest background, his journey from a self-taught hacker to an industry leader has inspired thousands. As your mentor for the CEHPT course, he focuses on hands-on training, real-time attack simulations, and helping students develop the mindset of a professional ethical hacker. 🔐 “In this course, I won’t just teach you tools — I’ll show you how to think like a hacker.” — Karthikeyan V"
-        }, "Mentor": {
-            "name": "karthithehacker",
-            "title": "Founder and CEO of Cappricio Securities , Ethical Hacker, Cybersecurity Researcher",
-            "url": "https://karthithehacker.com/",
-            "image": "https://avatars.githubusercontent.com/u/33289300?v=4",
-            "description": "👨‍🏫 Meet Your Mentor: Karthikeyan V (a.k.a. Karthithehacker) Karthikeyan V is a renowned ethical hacker, cybersecurity researcher, and the founder of Cappricio Securities, a company dedicated to practical cybersecurity education. With a track record of reporting vulnerabilities in top platforms like Google, Pinterest, Android OS, and Upwork, he brings real-world experience directly into the classroom. He is the creator of several popular open-source security tools including Gh0stR3c0n, CRLFi, and Poseidon. His expertise ranges from bug bounty hunting and OSINT to advanced penetration testing and red teaming. Karthikeyan is also a popular cybersecurity content creator, known for breaking down complex topics in Tamil, making learning accessible to a wider audience. Despite coming from a modest background, his journey from a self-taught hacker to an industry leader has inspired thousands. As your mentor for the CEHPT course, he focuses on hands-on training, real-time attack simulations, and helping students develop the mindset of a professional ethical hacker. 🔐 “In this course, I won’t just teach you tools — I’ll show you how to think like a hacker.” — Karthikeyan V"
-        },
+    "Mentor": {
+      "name": "karthithehacker",
+      "title": "Founder and CEO of Cappricio Securities , Ethical Hacker, Cybersecurity Researcher",
+      "url": "https://karthithehacker.com/",
+      "image": "https://avatars.githubusercontent.com/u/33289300?v=4",
+      "description": "👨‍🏫 Meet Your Mentor: Karthikeyan V (a.k.a. Karthithehacker) Karthikeyan V is a renowned ethical hacker, cybersecurity researcher, and the founder of Cappricio Securities, a company dedicated to practical cybersecurity education. With a track record of reporting vulnerabilities in top platforms like Google, Pinterest, Android OS, and Upwork, he brings real-world experience directly into the classroom. He is the creator of several popular open-source security tools including Gh0stR3c0n, CRLFi, and Poseidon. His expertise ranges from bug bounty hunting and OSINT to advanced penetration testing and red teaming. Karthikeyan is also a popular cybersecurity content creator, known for breaking down complex topics in Tamil, making learning accessible to a wider audience. Despite coming from a modest background, his journey from a self-taught hacker to an industry leader has inspired thousands. As your mentor for the CEHPT course, he focuses on hands-on training, real-time attack simulations, and helping students develop the mindset of a professional ethical hacker. 🔐 “In this course, I won’t just teach you tools — I’ll show you how to think like a hacker.” — Karthikeyan V"
+    },
     "content": [
       {
         "topic": "Module Overview",
@@ -396,182 +395,440 @@
       }
     ]
   },
-   "CAPBB": {
-        "title": "Certified API Pentesting and Bug Bounty",
-       "Tag" : ['CyberSecurity','Bugbounty','Api','Coding'],
-        "banner": "https://university.cappriciosecurities.com/android/images-new/capbb.webp",
-        "Language": "தமிழ்",
-        "Short Description": "Master API penetration testing techniques and bug bounty hunting skills with a certified course focused on real-world vulnerabilities, security best practices, and ethical hacking methodologies.",
-        "Description": "The Certified API Pentesting and Bug Bounty course is designed for cybersecurity enthusiasts and professionals aiming to specialize in API security. This course provides in-depth training on identifying, exploiting, and reporting API vulnerabilities using industry-standard tools and methodologies.",
-        "Duration": "22h 23min",
-        "price": 5500,
-        "offer price": 3500,
-        "offer percentage": "25%",
-        "Access": "lifetime",
-        "students enrolled count": 1324,
-        "PREREQUISITES": "Basic PC/Laptop familiarity. No coding experience needed.",
-        "Enroll now": "https://university.cappriciosec.com/",
-        "Cert_img": "https://university.cappriciosec.com/images/cert.svg",
-        "What you'll learn": [
-            "Burp Suite",
-            "Recon",
-            "API Exploitation",
-            "OWASP API Bugs",
-            "API Development",
-            "API Penetration Testing",
-            "Python for API",
-            "FastAPI",
-            "Linux",
-            "Postman",
-            "Source Code Analysis",
-            "Unique Bugs with High Impact",
-            "GraphQL",
-            "Secure Code Development",
-            "Swagger API",
-            "Report Writing"
-        ],
-        "Mentor": {
-            "name": "karthithehacker",
-            "title": "Founder and CEO of Cappricio Securities , Ethical Hacker, Cybersecurity Researcher",
-            "url": "https://karthithehacker.com/",
-            "image": "https://avatars.githubusercontent.com/u/33289300?v=4",
-            "description": "👨‍🏫 Meet Your Mentor: Karthikeyan V (a.k.a. Karthithehacker) Karthikeyan V is a renowned ethical hacker, cybersecurity researcher, and the founder of Cappricio Securities, a company dedicated to practical cybersecurity education. With a track record of reporting vulnerabilities in top platforms like Google, Pinterest, Android OS, and Upwork, he brings real-world experience directly into the classroom. He is the creator of several popular open-source security tools including Gh0stR3c0n, CRLFi, and Poseidon. His expertise ranges from bug bounty hunting and OSINT to advanced penetration testing and red teaming. Karthikeyan is also a popular cybersecurity content creator, known for breaking down complex topics in Tamil, making learning accessible to a wider audience. Despite coming from a modest background, his journey from a self-taught hacker to an industry leader has inspired thousands. As your mentor for the CEHPT course, he focuses on hands-on training, real-time attack simulations, and helping students develop the mindset of a professional ethical hacker. 🔐 “In this course, I won’t just teach you tools — I’ll show you how to think like a hacker.” — Karthikeyan V"
-        },
-        "content": [
-            {
-                "topic": "Chapter 1: Introduction and Fundamentals",
-                "videos": [
-                    { "number": "01", "title": "About Mentor", "duration": "08:00 min" },
-                    { "number": "02", "title": "About API", "duration": "24:40 min" },
-                    { "number": "03", "title": "About API", "duration": "21:36 min" },
-                    { "number": "04", "title": "About GraphQL", "duration": "06:27 min" }
-                ]
-            },
-            {
-                "topic": "Chapter 2: Environment and Tool Setup",
-                "videos": [
-                    { "number": "05", "title": "Postman Installation", "duration": "06:28 min" },
-                    { "number": "06", "title": "Burp-Suite", "duration": "07:02 min" },
-                    { "number": "07", "title": "Understanding Burpsuite", "duration": "10:15 min" }
-                ]
-            },
-            {
-                "topic": "Chapter 3: FastAPI Development and Authentication",
-                "videos": [
-                    { "number": "08", "title": "Fast API Setup and Hello World", "duration": "10:09 min" },
-                    { "number": "09", "title": "FastAPI & SQL", "duration": "14:35 min" },
-                    { "number": "10", "title": "FastAPI POST Handling & DB", "duration": "22:40 min" },
-                    { "number": "11", "title": "FastAPI GET HTTP & Read DB", "duration": "14:16 min" },
-                    { "number": "12", "title": "FastAPI PUT HTTP & Update DB 1", "duration": "22:33 min" },
-                    { "number": "13", "title": "FastAPI PUT HTTP & Update DB 2", "duration": "04:26 min" },
-                    { "number": "14", "title": "FastAPI DELETE HTTP & Delete DB", "duration": "10:43 min" },
-                    { "number": "15", "title": "API Headers Authentication & Authorization", "duration": "07:34 min" },
-                    { "number": "16", "title": "FastAPI HTTP Headers & Authentication", "duration": "08:38 min" }
-                ]
-            },
-            {
-                "topic": "Chapter 4: API Testing and Tools",
-                "videos": [
-                    { "number": "17", "title": "Burpsuite & Postman", "duration": "07:37 min" },
-                    { "number": "18", "title": "CURL Command and API CRUD 1", "duration": "14:48 min" },
-                    { "number": "19", "title": "CURL Command and API CRUD 2", "duration": "01:25 min" },
-                    { "number": "20", "title": "Swagger UI for API Testing", "duration": "15:28 min" },
-                    { "number": "21", "title": "Creating API Collections", "duration": "17:28 min" },
-                    { "number": "22", "title": "Postman Variables", "duration": "12:11 min" },
-                    { "number": "23", "title": "API Authorization Basic Auth", "duration": "12:57 min" },
-                    { "number": "24", "title": "API Parser for Burpsuite", "duration": "04:24 min" }
-                ]
-            },
-            {
-                "topic": "Chapter 5: BOLA and Initial Command Injection",
-                "videos": [
-                    { "number": "25", "title": "OWASP BOLA Bug Understanding", "duration": "14:47 min" },
-                    { "number": "26", "title": "BOLA Live Hacking 1", "duration": "14:11 min" },
-                    { "number": "27", "title": "BOLA Live Hacking 2", "duration": "11:38 min" },
-                    { "number": "28", "title": "BOLA Attack Bypass", "duration": "06:27 min" },
-                    { "number": "29", "title": "API Command Injection P1 Bug", "duration": "10:23 min" }
-                ]
-            },
-            {
-                "topic": "Chapter 6: Advanced Command Injection",
-                "videos": [
-                    { "number": "30", "title": "API Command Injection Code Analysis", "duration": "15:37 min" },
-                    { "number": "31", "title": "API Command Injection Attack", "duration": "19:18 min" },
-                    { "number": "32", "title": "Blind Command Injection 1", "duration": "16:02 min" },
-                    { "number": "33", "title": "Blind Command Injection 2", "duration": "07:00 min" },
-                    { "number": "34", "title": "Blind Command Injection to File Stealing", "duration": "10:33 min" }
-                ]
-            },
-            {
-                "topic": "Chapter 7: Insecure Deserialization Basics",
-                "videos": [
-                    { "number": "35", "title": "OWASP API Insecure Deserialization", "duration": "17:55 min" },
-                    { "number": "36", "title": "Python Class & Object Coding", "duration": "09:23 min" },
-                    { "number": "37", "title": "Python Serialization & Deserialization", "duration": "06:20 min" },
-                    { "number": "38", "title": "Insecure Deserialization Exploit Development", "duration": "12:45 min" },
-                    { "number": "39", "title": "IDOR via Insecure Deserialization 1", "duration": "20:01 min" }
-                ]
-            },
-            {
-                "topic": "Chapter 8: Insecure Deserialization and Rate Limiting",
-                "videos": [
-                    { "number": "40", "title": "IDOR via Insecure Deserialization 2", "duration": "14:12 min" },
-                    { "number": "41", "title": "Insecure Deserialization Exploitation", "duration": "12:20 min" },
-                    { "number": "42", "title": "About No Rate Limiting in API", "duration": "07:36 min" },
-                    { "number": "43", "title": "No Rate Limiting in API Live Attack", "duration": "25:18 min" },
-                    { "number": "44", "title": "Exploit Development for Rate Limiting", "duration": "08:36 min" }
-                ]
-            },
-            {
-                "topic": "Chapter 9: Authentication, Session Management, and CVE-2017-5487",
-                "videos": [
-                    { "number": "45", "title": "About CVE-2017-5487 in API", "duration": "04:10 min" },
-                    { "number": "46", "title": "Exploitation of CVE-2017-5487", "duration": "04:50 min" },
-                    { "number": "47", "title": "OWASP Broken Authentication", "duration": "10:01 min" },
-                    { "number": "48", "title": "About Session Management Attack", "duration": "10:00 min" },
-                    { "number": "49", "title": "Practical Session Management", "duration": "06:34 min" }
-                ]
-            },
-            {
-                "topic": "Chapter 10: Path Traversal, Data Exposure, ReDoS, and Secure Coding",
-                "videos": [
-                    { "number": "50", "title": "About Path Traversal Bug", "duration": "04:43 min" },
-                    { "number": "51", "title": "Practical Path Traversal Bug", "duration": "07:47 min" },
-                    { "number": "52", "title": "API Excessive Data Exposure", "duration": "04:07 min" },
-                    { "number": "53", "title": "Practical API Excessive Data Exposure", "duration": "08:10 min" },
-                    { "number": "54", "title": "About Regular Expression DoS Attack", "duration": "04:38 min" }
-                ]
-            },
-            {
-                "topic": "Chapter 11: Secure Coding Practices and Regular Expression DoS",
-                "videos": [
-                    { "number": "55", "title": "Regular Expression DoS Attack 1", "duration": "05:41 min" },
-                    { "number": "56", "title": "Regular Expression DoS Attack 2", "duration": "08:01 min" },
-                    { "number": "57", "title": "BOLA Attack Secure Code Development", "duration": "10:00 min" },
-                    { "number": "58", "title": "API Command Injection Secure Code Development", "duration": "05:19 min" },
-                    { "number": "59", "title": "Secure Code Development for Session Management", "duration": "15:29 min" }
-                ]
-            },
-            {
-                "topic": "Chapter 12: Additional Secure Coding Practices and Command Injection",
-                "videos": [
-                    { "number": "60", "title": "Secure Code Development for Path Traversal", "duration": "07:32 min" },
-                    { "number": "61", "title": "Blind Command Injection DNS Exfiltration OOB", "duration": "21:08 min" },
-                    { "number": "62", "title": "Gaining Shell from Command Injection", "duration": "08:27 min" }
-                ]
-            }
-        ]
+  "CAPBB": {
+    "title": "Certified API Pentesting and Bug Bounty",
+    "Tag": [
+      "CyberSecurity",
+      "Bugbounty",
+      "Api",
+      "Coding"
+    ],
+    "banner": "https://university.cappriciosecurities.com/android/images-new/capbb.webp",
+    "Language": "தமிழ்",
+    "Short Description": "Master API penetration testing techniques and bug bounty hunting skills with a certified course focused on real-world vulnerabilities, security best practices, and ethical hacking methodologies.",
+    "Description": "The Certified API Pentesting and Bug Bounty course is designed for cybersecurity enthusiasts and professionals aiming to specialize in API security. This course provides in-depth training on identifying, exploiting, and reporting API vulnerabilities using industry-standard tools and methodologies.",
+    "Duration": "22h 23min",
+    "price": 5500,
+    "offer price": 3500,
+    "offer percentage": "25%",
+    "Access": "lifetime",
+    "students enrolled count": 1324,
+    "PREREQUISITES": "Basic PC/Laptop familiarity. No coding experience needed.",
+    "Enroll now": "https://university.cappriciosec.com/",
+    "Cert_img": "https://university.cappriciosec.com/images/cert.svg",
+    "What you'll learn": [
+      "Burp Suite",
+      "Recon",
+      "API Exploitation",
+      "OWASP API Bugs",
+      "API Development",
+      "API Penetration Testing",
+      "Python for API",
+      "FastAPI",
+      "Linux",
+      "Postman",
+      "Source Code Analysis",
+      "Unique Bugs with High Impact",
+      "GraphQL",
+      "Secure Code Development",
+      "Swagger API",
+      "Report Writing"
+    ],
+    "Mentor": {
+      "name": "karthithehacker",
+      "title": "Founder and CEO of Cappricio Securities , Ethical Hacker, Cybersecurity Researcher",
+      "url": "https://karthithehacker.com/",
+      "image": "https://avatars.githubusercontent.com/u/33289300?v=4",
+      "description": "👨‍🏫 Meet Your Mentor: Karthikeyan V (a.k.a. Karthithehacker) Karthikeyan V is a renowned ethical hacker, cybersecurity researcher, and the founder of Cappricio Securities, a company dedicated to practical cybersecurity education. With a track record of reporting vulnerabilities in top platforms like Google, Pinterest, Android OS, and Upwork, he brings real-world experience directly into the classroom. He is the creator of several popular open-source security tools including Gh0stR3c0n, CRLFi, and Poseidon. His expertise ranges from bug bounty hunting and OSINT to advanced penetration testing and red teaming. Karthikeyan is also a popular cybersecurity content creator, known for breaking down complex topics in Tamil, making learning accessible to a wider audience. Despite coming from a modest background, his journey from a self-taught hacker to an industry leader has inspired thousands. As your mentor for the CEHPT course, he focuses on hands-on training, real-time attack simulations, and helping students develop the mindset of a professional ethical hacker. 🔐 “In this course, I won’t just teach you tools — I’ll show you how to think like a hacker.” — Karthikeyan V"
     },
-    "CMABP": {
+    "content": [
+      {
+        "topic": "Chapter 1: Introduction and Fundamentals",
+        "videos": [
+          {
+            "number": "01",
+            "title": "About Mentor",
+            "duration": "08:00 min"
+          },
+          {
+            "number": "02",
+            "title": "About API",
+            "duration": "24:40 min"
+          },
+          {
+            "number": "03",
+            "title": "About API",
+            "duration": "21:36 min"
+          },
+          {
+            "number": "04",
+            "title": "About GraphQL",
+            "duration": "06:27 min"
+          }
+        ]
+      },
+      {
+        "topic": "Chapter 2: Environment and Tool Setup",
+        "videos": [
+          {
+            "number": "05",
+            "title": "Postman Installation",
+            "duration": "06:28 min"
+          },
+          {
+            "number": "06",
+            "title": "Burp-Suite",
+            "duration": "07:02 min"
+          },
+          {
+            "number": "07",
+            "title": "Understanding Burpsuite",
+            "duration": "10:15 min"
+          }
+        ]
+      },
+      {
+        "topic": "Chapter 3: FastAPI Development and Authentication",
+        "videos": [
+          {
+            "number": "08",
+            "title": "Fast API Setup and Hello World",
+            "duration": "10:09 min"
+          },
+          {
+            "number": "09",
+            "title": "FastAPI & SQL",
+            "duration": "14:35 min"
+          },
+          {
+            "number": "10",
+            "title": "FastAPI POST Handling & DB",
+            "duration": "22:40 min"
+          },
+          {
+            "number": "11",
+            "title": "FastAPI GET HTTP & Read DB",
+            "duration": "14:16 min"
+          },
+          {
+            "number": "12",
+            "title": "FastAPI PUT HTTP & Update DB 1",
+            "duration": "22:33 min"
+          },
+          {
+            "number": "13",
+            "title": "FastAPI PUT HTTP & Update DB 2",
+            "duration": "04:26 min"
+          },
+          {
+            "number": "14",
+            "title": "FastAPI DELETE HTTP & Delete DB",
+            "duration": "10:43 min"
+          },
+          {
+            "number": "15",
+            "title": "API Headers Authentication & Authorization",
+            "duration": "07:34 min"
+          },
+          {
+            "number": "16",
+            "title": "FastAPI HTTP Headers & Authentication",
+            "duration": "08:38 min"
+          }
+        ]
+      },
+      {
+        "topic": "Chapter 4: API Testing and Tools",
+        "videos": [
+          {
+            "number": "17",
+            "title": "Burpsuite & Postman",
+            "duration": "07:37 min"
+          },
+          {
+            "number": "18",
+            "title": "CURL Command and API CRUD 1",
+            "duration": "14:48 min"
+          },
+          {
+            "number": "19",
+            "title": "CURL Command and API CRUD 2",
+            "duration": "01:25 min"
+          },
+          {
+            "number": "20",
+            "title": "Swagger UI for API Testing",
+            "duration": "15:28 min"
+          },
+          {
+            "number": "21",
+            "title": "Creating API Collections",
+            "duration": "17:28 min"
+          },
+          {
+            "number": "22",
+            "title": "Postman Variables",
+            "duration": "12:11 min"
+          },
+          {
+            "number": "23",
+            "title": "API Authorization Basic Auth",
+            "duration": "12:57 min"
+          },
+          {
+            "number": "24",
+            "title": "API Parser for Burpsuite",
+            "duration": "04:24 min"
+          }
+        ]
+      },
+      {
+        "topic": "Chapter 5: BOLA and Initial Command Injection",
+        "videos": [
+          {
+            "number": "25",
+            "title": "OWASP BOLA Bug Understanding",
+            "duration": "14:47 min"
+          },
+          {
+            "number": "26",
+            "title": "BOLA Live Hacking 1",
+            "duration": "14:11 min"
+          },
+          {
+            "number": "27",
+            "title": "BOLA Live Hacking 2",
+            "duration": "11:38 min"
+          },
+          {
+            "number": "28",
+            "title": "BOLA Attack Bypass",
+            "duration": "06:27 min"
+          },
+          {
+            "number": "29",
+            "title": "API Command Injection P1 Bug",
+            "duration": "10:23 min"
+          }
+        ]
+      },
+      {
+        "topic": "Chapter 6: Advanced Command Injection",
+        "videos": [
+          {
+            "number": "30",
+            "title": "API Command Injection Code Analysis",
+            "duration": "15:37 min"
+          },
+          {
+            "number": "31",
+            "title": "API Command Injection Attack",
+            "duration": "19:18 min"
+          },
+          {
+            "number": "32",
+            "title": "Blind Command Injection 1",
+            "duration": "16:02 min"
+          },
+          {
+            "number": "33",
+            "title": "Blind Command Injection 2",
+            "duration": "07:00 min"
+          },
+          {
+            "number": "34",
+            "title": "Blind Command Injection to File Stealing",
+            "duration": "10:33 min"
+          }
+        ]
+      },
+      {
+        "topic": "Chapter 7: Insecure Deserialization Basics",
+        "videos": [
+          {
+            "number": "35",
+            "title": "OWASP API Insecure Deserialization",
+            "duration": "17:55 min"
+          },
+          {
+            "number": "36",
+            "title": "Python Class & Object Coding",
+            "duration": "09:23 min"
+          },
+          {
+            "number": "37",
+            "title": "Python Serialization & Deserialization",
+            "duration": "06:20 min"
+          },
+          {
+            "number": "38",
+            "title": "Insecure Deserialization Exploit Development",
+            "duration": "12:45 min"
+          },
+          {
+            "number": "39",
+            "title": "IDOR via Insecure Deserialization 1",
+            "duration": "20:01 min"
+          }
+        ]
+      },
+      {
+        "topic": "Chapter 8: Insecure Deserialization and Rate Limiting",
+        "videos": [
+          {
+            "number": "40",
+            "title": "IDOR via Insecure Deserialization 2",
+            "duration": "14:12 min"
+          },
+          {
+            "number": "41",
+            "title": "Insecure Deserialization Exploitation",
+            "duration": "12:20 min"
+          },
+          {
+            "number": "42",
+            "title": "About No Rate Limiting in API",
+            "duration": "07:36 min"
+          },
+          {
+            "number": "43",
+            "title": "No Rate Limiting in API Live Attack",
+            "duration": "25:18 min"
+          },
+          {
+            "number": "44",
+            "title": "Exploit Development for Rate Limiting",
+            "duration": "08:36 min"
+          }
+        ]
+      },
+      {
+        "topic": "Chapter 9: Authentication, Session Management, and CVE-2017-5487",
+        "videos": [
+          {
+            "number": "45",
+            "title": "About CVE-2017-5487 in API",
+            "duration": "04:10 min"
+          },
+          {
+            "number": "46",
+            "title": "Exploitation of CVE-2017-5487",
+            "duration": "04:50 min"
+          },
+          {
+            "number": "47",
+            "title": "OWASP Broken Authentication",
+            "duration": "10:01 min"
+          },
+          {
+            "number": "48",
+            "title": "About Session Management Attack",
+            "duration": "10:00 min"
+          },
+          {
+            "number": "49",
+            "title": "Practical Session Management",
+            "duration": "06:34 min"
+          }
+        ]
+      },
+      {
+        "topic": "Chapter 10: Path Traversal, Data Exposure, ReDoS, and Secure Coding",
+        "videos": [
+          {
+            "number": "50",
+            "title": "About Path Traversal Bug",
+            "duration": "04:43 min"
+          },
+          {
+            "number": "51",
+            "title": "Practical Path Traversal Bug",
+            "duration": "07:47 min"
+          },
+          {
+            "number": "52",
+            "title": "API Excessive Data Exposure",
+            "duration": "04:07 min"
+          },
+          {
+            "number": "53",
+            "title": "Practical API Excessive Data Exposure",
+            "duration": "08:10 min"
+          },
+          {
+            "number": "54",
+            "title": "About Regular Expression DoS Attack",
+            "duration": "04:38 min"
+          }
+        ]
+      },
+      {
+        "topic": "Chapter 11: Secure Coding Practices and Regular Expression DoS",
+        "videos": [
+          {
+            "number": "55",
+            "title": "Regular Expression DoS Attack 1",
+            "duration": "05:41 min"
+          },
+          {
+            "number": "56",
+            "title": "Regular Expression DoS Attack 2",
+            "duration": "08:01 min"
+          },
+          {
+            "number": "57",
+            "title": "BOLA Attack Secure Code Development",
+            "duration": "10:00 min"
+          },
+          {
+            "number": "58",
+            "title": "API Command Injection Secure Code Development",
+            "duration": "05:19 min"
+          },
+          {
+            "number": "59",
+            "title": "Secure Code Development for Session Management",
+            "duration": "15:29 min"
+          }
+        ]
+      },
+      {
+        "topic": "Chapter 12: Additional Secure Coding Practices and Command Injection",
+        "videos": [
+          {
+            "number": "60",
+            "title": "Secure Code Development for Path Traversal",
+            "duration": "07:32 min"
+          },
+          {
+            "number": "61",
+            "title": "Blind Command Injection DNS Exfiltration OOB",
+            "duration": "21:08 min"
+          },
+          {
+            "number": "62",
+            "title": "Gaining Shell from Command Injection",
+            "duration": "08:27 min"
+          }
+        ]
+      }
+    ]
+  },
+  "CMABP": {
     "title": "Certified Mobile Apps Bug-Bounty and Pen-Testing",
-    "Tag" : ['CyberSecurity','Bugbounty','Api','Coding'],
+    "Tag": [
+      "CyberSecurity",
+      "Bugbounty",
+      "Api",
+      "Coding"
+    ],
     "banner": "https://university.cappriciosecurities.com/android/images-new/CMABP.webp",
     "Language": "தமிழ்",
     "Short Description": "A practical course on offensive mobile app security, bug bounty hunting, and real-world pen-testing techniques",
     "Description": "This course is designed for learners aiming to master mobile application security through offensive testing techniques. You'll dive into real-world mobile threat scenarios, exploit common and advanced vulnerabilities, and develop practical skills to assess and attack mobile apps (ethically). By the end of the course, you'll be equipped to perform structured mobile app security assessments and contribute effectively to bug bounty programs..",
     "Duration": "12hr 26min",
-     "price": 5500,
-     "offer price": 3500,
+    "price": 5500,
+    "offer price": 3500,
     "offer percentage": "25%",
     "Access": "lifetime",
     "students enrolled count": 1324,
@@ -596,163 +853,547 @@
       "Understand the penetration testing process",
       "Report writing"
     ],
-     "Mentor": {
-            "name": "karthithehacker",
-            "title": "Founder and CEO of Cappricio Securities , Ethical Hacker, Cybersecurity Researcher",
-            "url": "https://karthithehacker.com/",
-            "image": "https://avatars.githubusercontent.com/u/33289300?v=4",
-            "description": "👨‍🏫 Meet Your Mentor: Karthikeyan V (a.k.a. Karthithehacker) Karthikeyan V is a renowned ethical hacker, cybersecurity researcher, and the founder of Cappricio Securities, a company dedicated to practical cybersecurity education. With a track record of reporting vulnerabilities in top platforms like Google, Pinterest, Android OS, and Upwork, he brings real-world experience directly into the classroom. He is the creator of several popular open-source security tools including Gh0stR3c0n, CRLFi, and Poseidon. His expertise ranges from bug bounty hunting and OSINT to advanced penetration testing and red teaming. Karthikeyan is also a popular cybersecurity content creator, known for breaking down complex topics in Tamil, making learning accessible to a wider audience. Despite coming from a modest background, his journey from a self-taught hacker to an industry leader has inspired thousands. As your mentor for the CEHPT course, he focuses on hands-on training, real-time attack simulations, and helping students develop the mindset of a professional ethical hacker. 🔐 “In this course, I won’t just teach you tools — I’ll show you how to think like a hacker.” — Karthikeyan V"
-        },
+    "Mentor": {
+      "name": "karthithehacker",
+      "title": "Founder and CEO of Cappricio Securities , Ethical Hacker, Cybersecurity Researcher",
+      "url": "https://karthithehacker.com/",
+      "image": "https://avatars.githubusercontent.com/u/33289300?v=4",
+      "description": "👨‍🏫 Meet Your Mentor: Karthikeyan V (a.k.a. Karthithehacker) Karthikeyan V is a renowned ethical hacker, cybersecurity researcher, and the founder of Cappricio Securities, a company dedicated to practical cybersecurity education. With a track record of reporting vulnerabilities in top platforms like Google, Pinterest, Android OS, and Upwork, he brings real-world experience directly into the classroom. He is the creator of several popular open-source security tools including Gh0stR3c0n, CRLFi, and Poseidon. His expertise ranges from bug bounty hunting and OSINT to advanced penetration testing and red teaming. Karthikeyan is also a popular cybersecurity content creator, known for breaking down complex topics in Tamil, making learning accessible to a wider audience. Despite coming from a modest background, his journey from a self-taught hacker to an industry leader has inspired thousands. As your mentor for the CEHPT course, he focuses on hands-on training, real-time attack simulations, and helping students develop the mindset of a professional ethical hacker. 🔐 “In this course, I won’t just teach you tools — I’ll show you how to think like a hacker.” — Karthikeyan V"
+    },
     "content": [
       {
         "topic": "Chapter 1: Setting up Environment",
         "videos": [
-          { "number": "01", "title": "About Course", "duration": "06:12" },
-          { "number": "02", "title": "About mentor", "duration": "03:53" },
-          { "number": "03", "title": "Requirements", "duration": "06:06" },
-          { "number": "04", "title": "Emulator setup 01", "duration": "06:11" },
-          { "number": "05", "title": "Emulator setup 02", "duration": "02:52" },
-          { "number": "06", "title": "Android studio overview", "duration": "06:57" },
-          { "number": "07", "title": "Exploring android studio", "duration": "08:31" },
-          { "number": "08", "title": "Developing first app frontend", "duration": "05:01" },
-          { "number": "09", "title": "Developing first App Backend", "duration": "08:19" },
-          { "number": "10", "title": "Testing app via ADB", "duration": "02:34" },
-          { "number": "11", "title": "All about intent", "duration": "04:07" },
-          { "number": "12", "title": "Mobsf setup", "duration": "05:20" },
-          { "number": "13", "title": "Hunting with mobsf", "duration": "12:30" },
-          { "number": "14", "title": "Hunting with JADX", "duration": "04:12" }
+          {
+            "number": "01",
+            "title": "About Course",
+            "duration": "06:12"
+          },
+          {
+            "number": "02",
+            "title": "About mentor",
+            "duration": "03:53"
+          },
+          {
+            "number": "03",
+            "title": "Requirements",
+            "duration": "06:06"
+          },
+          {
+            "number": "04",
+            "title": "Emulator setup 01",
+            "duration": "06:11"
+          },
+          {
+            "number": "05",
+            "title": "Emulator setup 02",
+            "duration": "02:52"
+          },
+          {
+            "number": "06",
+            "title": "Android studio overview",
+            "duration": "06:57"
+          },
+          {
+            "number": "07",
+            "title": "Exploring android studio",
+            "duration": "08:31"
+          },
+          {
+            "number": "08",
+            "title": "Developing first app frontend",
+            "duration": "05:01"
+          },
+          {
+            "number": "09",
+            "title": "Developing first App Backend",
+            "duration": "08:19"
+          },
+          {
+            "number": "10",
+            "title": "Testing app via ADB",
+            "duration": "02:34"
+          },
+          {
+            "number": "11",
+            "title": "All about intent",
+            "duration": "04:07"
+          },
+          {
+            "number": "12",
+            "title": "Mobsf setup",
+            "duration": "05:20"
+          },
+          {
+            "number": "13",
+            "title": "Hunting with mobsf",
+            "duration": "12:30"
+          },
+          {
+            "number": "14",
+            "title": "Hunting with JADX",
+            "duration": "04:12"
+          }
         ]
       },
       {
         "topic": "Chapter 2: Scoping & Sensitive Info",
         "videos": [
-          { "number": "15", "title": "Getting our scope data", "duration": "08:31" },
-          { "number": "16", "title": "Sensitive Information Disclosure 1", "duration": "02:57" },
-          { "number": "17", "title": "Sensitive Information Disclosure 2", "duration": "10:11" },
-          { "number": "18", "title": "Sensitive Information Disclosure 3", "duration": "10:16" },
-          { "number": "19", "title": "Sensitive Information Disclosure 4", "duration": "08:52" },
-          { "number": "20", "title": "Firebase misconfigured", "duration": "02:34" }
+          {
+            "number": "15",
+            "title": "Getting our scope data",
+            "duration": "08:31"
+          },
+          {
+            "number": "16",
+            "title": "Sensitive Information Disclosure 1",
+            "duration": "02:57"
+          },
+          {
+            "number": "17",
+            "title": "Sensitive Information Disclosure 2",
+            "duration": "10:11"
+          },
+          {
+            "number": "18",
+            "title": "Sensitive Information Disclosure 3",
+            "duration": "10:16"
+          },
+          {
+            "number": "19",
+            "title": "Sensitive Information Disclosure 4",
+            "duration": "08:52"
+          },
+          {
+            "number": "20",
+            "title": "Firebase misconfigured",
+            "duration": "02:34"
+          }
         ]
       },
       {
         "topic": "Chapter 3: Insecure WebView Attacks",
         "videos": [
-          { "number": "21", "title": "About Insecure webview", "duration": "05:16" },
-          { "number": "22", "title": "Insecure webview attack 01", "duration": "10:08" },
-          { "number": "23", "title": "Insecure webview attack 02", "duration": "08:36" },
-          { "number": "24", "title": "Insecure webview malware(Dev)", "duration": "08:17" },
-          { "number": "25", "title": "Live Insecure webview attack 01", "duration": "14:19" },
-          { "number": "26", "title": "Live insecure webview attack 02", "duration": "04:30" },
-          { "number": "27", "title": "Insecure webview OPPO POC 1", "duration": "07:01" },
-          { "number": "28", "title": "Insecure webview POC 2", "duration": "04:32" },
-          { "number": "29", "title": "Insecure webview POC 3", "duration": "07:22" },
-          { "number": "30", "title": "Insecure webview POC 4", "duration": "04:59" },
-          { "number": "31", "title": "Insecure webview POC 5", "duration": "07:54" }
+          {
+            "number": "21",
+            "title": "About Insecure webview",
+            "duration": "05:16"
+          },
+          {
+            "number": "22",
+            "title": "Insecure webview attack 01",
+            "duration": "10:08"
+          },
+          {
+            "number": "23",
+            "title": "Insecure webview attack 02",
+            "duration": "08:36"
+          },
+          {
+            "number": "24",
+            "title": "Insecure webview malware(Dev)",
+            "duration": "08:17"
+          },
+          {
+            "number": "25",
+            "title": "Live Insecure webview attack 01",
+            "duration": "14:19"
+          },
+          {
+            "number": "26",
+            "title": "Live insecure webview attack 02",
+            "duration": "04:30"
+          },
+          {
+            "number": "27",
+            "title": "Insecure webview OPPO POC 1",
+            "duration": "07:01"
+          },
+          {
+            "number": "28",
+            "title": "Insecure webview POC 2",
+            "duration": "04:32"
+          },
+          {
+            "number": "29",
+            "title": "Insecure webview POC 3",
+            "duration": "07:22"
+          },
+          {
+            "number": "30",
+            "title": "Insecure webview POC 4",
+            "duration": "04:59"
+          },
+          {
+            "number": "31",
+            "title": "Insecure webview POC 5",
+            "duration": "07:54"
+          }
         ]
       },
       {
         "topic": "Chapter 4: Browsable Intent Attacks",
         "videos": [
-          { "number": "32", "title": "About Browsable Intent Attack", "duration": "05:45" },
-          { "number": "33", "title": "Live Browsable Intent Attack 1", "duration": "10:58" },
-          { "number": "34", "title": "Live Browsable Intent Attack 2", "duration": "03:22" },
-          { "number": "35", "title": "Live Browsable Intent Attack 3", "duration": "19:09" },
-          { "number": "36", "title": "Live Browsable Intent Attack 4", "duration": "07:57" },
-          { "number": "37", "title": "Live Browsable Intent Attack 5", "duration": "12:59" },
-          { "number": "38", "title": "Malware DEV", "duration": "05:50" },
-          { "number": "39", "title": "Exploit Browsable Intent Attack 7", "duration": "13:19" },
-          { "number": "40", "title": "POC Browsable Intent Attack", "duration": "08:18" }
+          {
+            "number": "32",
+            "title": "About Browsable Intent Attack",
+            "duration": "05:45"
+          },
+          {
+            "number": "33",
+            "title": "Live Browsable Intent Attack 1",
+            "duration": "10:58"
+          },
+          {
+            "number": "34",
+            "title": "Live Browsable Intent Attack 2",
+            "duration": "03:22"
+          },
+          {
+            "number": "35",
+            "title": "Live Browsable Intent Attack 3",
+            "duration": "19:09"
+          },
+          {
+            "number": "36",
+            "title": "Live Browsable Intent Attack 4",
+            "duration": "07:57"
+          },
+          {
+            "number": "37",
+            "title": "Live Browsable Intent Attack 5",
+            "duration": "12:59"
+          },
+          {
+            "number": "38",
+            "title": "Malware DEV",
+            "duration": "05:50"
+          },
+          {
+            "number": "39",
+            "title": "Exploit Browsable Intent Attack 7",
+            "duration": "13:19"
+          },
+          {
+            "number": "40",
+            "title": "POC Browsable Intent Attack",
+            "duration": "08:18"
+          }
         ]
       },
       {
         "topic": "Chapter 5: Exported Activity & Cam Hacking",
         "videos": [
-          { "number": "41", "title": "Exported Activity Attack 1", "duration": "07:22" },
-          { "number": "42", "title": "Cam Hacking via Exported Activity", "duration": "10:19" },
-          { "number": "43", "title": "Malware Developing CAM Hacking", "duration": "04:30" },
-          { "number": "44", "title": "Live Bug Submission (Bugcrowd)", "duration": "03:41" },
-          { "number": "45", "title": "Malware Facecam Hacking POC", "duration": "03:14" }
+          {
+            "number": "41",
+            "title": "Exported Activity Attack 1",
+            "duration": "07:22"
+          },
+          {
+            "number": "42",
+            "title": "Cam Hacking via Exported Activity",
+            "duration": "10:19"
+          },
+          {
+            "number": "43",
+            "title": "Malware Developing CAM Hacking",
+            "duration": "04:30"
+          },
+          {
+            "number": "44",
+            "title": "Live Bug Submission (Bugcrowd)",
+            "duration": "03:41"
+          },
+          {
+            "number": "45",
+            "title": "Malware Facecam Hacking POC",
+            "duration": "03:14"
+          }
         ]
       },
       {
         "topic": "Chapter 6: Insecure Deeplink Attacks",
         "videos": [
-          { "number": "46", "title": "About Deep Link", "duration": "12:47" },
-          { "number": "47", "title": "Insecure Deeplink Attack 1", "duration": "05:41" },
-          { "number": "48", "title": "Twitter Insecure Deeplink Attack", "duration": "06:30" },
-          { "number": "49", "title": "Twitter Deeplink Bug Report Live", "duration": "02:44" },
-          { "number": "50", "title": "Twitter Insecure Deeplink POC", "duration": "07:32" }
+          {
+            "number": "46",
+            "title": "About Deep Link",
+            "duration": "12:47"
+          },
+          {
+            "number": "47",
+            "title": "Insecure Deeplink Attack 1",
+            "duration": "05:41"
+          },
+          {
+            "number": "48",
+            "title": "Twitter Insecure Deeplink Attack",
+            "duration": "06:30"
+          },
+          {
+            "number": "49",
+            "title": "Twitter Deeplink Bug Report Live",
+            "duration": "02:44"
+          },
+          {
+            "number": "50",
+            "title": "Twitter Insecure Deeplink POC",
+            "duration": "07:32"
+          }
         ]
       },
       {
         "topic": "Chapter 7: SSL Bypass & Frida Tools (Android)",
         "videos": [
-          { "number": "51", "title": "BURP setup Android", "duration": "16:19" },
-          { "number": "52", "title": "SSL unpinning on any application", "duration": "08:22" },
-          { "number": "53", "title": "Live Hunting", "duration": "10:48" },
-          { "number": "54", "title": "Frida Server Setup", "duration": "11:08" },
-          { "number": "55", "title": "SSL Bypass via Frida Server 1", "duration": "04:21" },
-          { "number": "56", "title": "SSL bypass via Objection 1", "duration": "11:00" },
-          { "number": "57", "title": "SSL Bypass via Frida Server 2", "duration": "16:18" },
-          { "number": "58", "title": "SSL Bypass via Frida Server 3", "duration": "06:07" },
-          { "number": "59", "title": "SSL bypass via objection 2", "duration": "13:59" },
-          { "number": "60", "title": "Root Bypass using Frida", "duration": "04:57" },
-          { "number": "61", "title": "Root Bypass using Objection", "duration": "02:38" },
-          { "number": "62", "title": "Live Hunting Android App", "duration": "11:18" }
+          {
+            "number": "51",
+            "title": "BURP setup Android",
+            "duration": "16:19"
+          },
+          {
+            "number": "52",
+            "title": "SSL unpinning on any application",
+            "duration": "08:22"
+          },
+          {
+            "number": "53",
+            "title": "Live Hunting",
+            "duration": "10:48"
+          },
+          {
+            "number": "54",
+            "title": "Frida Server Setup",
+            "duration": "11:08"
+          },
+          {
+            "number": "55",
+            "title": "SSL Bypass via Frida Server 1",
+            "duration": "04:21"
+          },
+          {
+            "number": "56",
+            "title": "SSL bypass via Objection 1",
+            "duration": "11:00"
+          },
+          {
+            "number": "57",
+            "title": "SSL Bypass via Frida Server 2",
+            "duration": "16:18"
+          },
+          {
+            "number": "58",
+            "title": "SSL Bypass via Frida Server 3",
+            "duration": "06:07"
+          },
+          {
+            "number": "59",
+            "title": "SSL bypass via objection 2",
+            "duration": "13:59"
+          },
+          {
+            "number": "60",
+            "title": "Root Bypass using Frida",
+            "duration": "04:57"
+          },
+          {
+            "number": "61",
+            "title": "Root Bypass using Objection",
+            "duration": "02:38"
+          },
+          {
+            "number": "62",
+            "title": "Live Hunting Android App",
+            "duration": "11:18"
+          }
         ]
       },
       {
         "topic": "Chapter 8: No Rate Limiting & DB/Logging",
         "videos": [
-          { "number": "63", "title": "No Rate Limiting POC", "duration": "01:55" },
-          { "number": "64", "title": "No Rate Limiting POC Explanation", "duration": "02:55" },
-          { "number": "65", "title": "Insecure DB Hunting 1", "duration": "07:11" },
-          { "number": "66", "title": "Insecure DB Hunting 2", "duration": "10:08" },
-          { "number": "67", "title": "Insecure DB Hunting 3", "duration": "23:31" },
-          { "number": "68", "title": "Insecure DB Hunting 4", "duration": "18:32" },
-          { "number": "69", "title": "Indeed Insecure DB", "duration": "08:08" },
-          { "number": "70", "title": "Insecure Logging Hunting 1", "duration": "03:52" },
-          { "number": "71", "title": "Insecure Logging Hunting 2", "duration": "05:24" },
-          { "number": "72", "title": "Insecure Logging POC", "duration": "07:49" }
+          {
+            "number": "63",
+            "title": "No Rate Limiting POC",
+            "duration": "01:55"
+          },
+          {
+            "number": "64",
+            "title": "No Rate Limiting POC Explanation",
+            "duration": "02:55"
+          },
+          {
+            "number": "65",
+            "title": "Insecure DB Hunting 1",
+            "duration": "07:11"
+          },
+          {
+            "number": "66",
+            "title": "Insecure DB Hunting 2",
+            "duration": "10:08"
+          },
+          {
+            "number": "67",
+            "title": "Insecure DB Hunting 3",
+            "duration": "23:31"
+          },
+          {
+            "number": "68",
+            "title": "Insecure DB Hunting 4",
+            "duration": "18:32"
+          },
+          {
+            "number": "69",
+            "title": "Indeed Insecure DB",
+            "duration": "08:08"
+          },
+          {
+            "number": "70",
+            "title": "Insecure Logging Hunting 1",
+            "duration": "03:52"
+          },
+          {
+            "number": "71",
+            "title": "Insecure Logging Hunting 2",
+            "duration": "05:24"
+          },
+          {
+            "number": "72",
+            "title": "Insecure Logging POC",
+            "duration": "07:49"
+          }
         ]
       },
       {
         "topic": "Chapter 9: Game & Google App Exploits",
         "videos": [
-          { "number": "73", "title": "Game Reverse Engineering", "duration": "18:10" },
-          { "number": "74", "title": "1.6 Billion Data Leaking Google POC", "duration": "04:58" },
-          { "number": "75", "title": "Google Hangout Android App POC", "duration": "15:06" },
-          { "number": "76", "title": "No Rate Limiting POC", "duration": "05:09" },
-          { "number": "77", "title": "Weak Password Function POC", "duration": "02:43" },
-          { "number": "78", "title": "FB SDK misconfigured POC", "duration": "00:57" },
-          { "number": "79", "title": "About IOS Hacking", "duration": "02:43" },
-          { "number": "80", "title": "Jail Breaking IOS", "duration": "04:53" },
-          { "number": "81", "title": "Installing Frida Server", "duration": "03:51" },
-          { "number": "82", "title": "Communication with Frida", "duration": "01:44" },
-          { "number": "83", "title": "Installing BURP CA on iPhone", "duration": "03:44" },
-          { "number": "84", "title": "SSL Bypass using Frida on IOS", "duration": "04:26" },
-          { "number": "85", "title": "SSH Into IOS", "duration": "04:19" },
-          { "number": "86", "title": "SSL Bypass iPhone OS 1", "duration": "12:38" },
-          { "number": "87", "title": "SSL Bypass iPhone OS 2", "duration": "03:35" },
-          { "number": "88", "title": "Recon for IOS", "duration": "03:50" }
+          {
+            "number": "73",
+            "title": "Game Reverse Engineering",
+            "duration": "18:10"
+          },
+          {
+            "number": "74",
+            "title": "1.6 Billion Data Leaking Google POC",
+            "duration": "04:58"
+          },
+          {
+            "number": "75",
+            "title": "Google Hangout Android App POC",
+            "duration": "15:06"
+          },
+          {
+            "number": "76",
+            "title": "No Rate Limiting POC",
+            "duration": "05:09"
+          },
+          {
+            "number": "77",
+            "title": "Weak Password Function POC",
+            "duration": "02:43"
+          },
+          {
+            "number": "78",
+            "title": "FB SDK misconfigured POC",
+            "duration": "00:57"
+          },
+          {
+            "number": "79",
+            "title": "About IOS Hacking",
+            "duration": "02:43"
+          },
+          {
+            "number": "80",
+            "title": "Jail Breaking IOS",
+            "duration": "04:53"
+          },
+          {
+            "number": "81",
+            "title": "Installing Frida Server",
+            "duration": "03:51"
+          },
+          {
+            "number": "82",
+            "title": "Communication with Frida",
+            "duration": "01:44"
+          },
+          {
+            "number": "83",
+            "title": "Installing BURP CA on iPhone",
+            "duration": "03:44"
+          },
+          {
+            "number": "84",
+            "title": "SSL Bypass using Frida on IOS",
+            "duration": "04:26"
+          },
+          {
+            "number": "85",
+            "title": "SSH Into IOS",
+            "duration": "04:19"
+          },
+          {
+            "number": "86",
+            "title": "SSL Bypass iPhone OS 1",
+            "duration": "12:38"
+          },
+          {
+            "number": "87",
+            "title": "SSL Bypass iPhone OS 2",
+            "duration": "03:35"
+          },
+          {
+            "number": "88",
+            "title": "Recon for IOS",
+            "duration": "03:50"
+          }
         ]
       },
       {
         "topic": "Chapter 10: iOS Hacking & Exploits",
         "videos": [
-          { "number": "89", "title": "Hunting iPhone OS", "duration": "05:33" },
-          { "number": "90", "title": "Account Takeover on IOS App", "duration": "23:44" },
-          { "number": "91", "title": "Account Takeover POC 1 (IOS)", "duration": "02:24" },
-          { "number": "92", "title": "Account Takeover POC 2 (IOS)", "duration": "04:20" }
+          {
+            "number": "89",
+            "title": "Hunting iPhone OS",
+            "duration": "05:33"
+          },
+          {
+            "number": "90",
+            "title": "Account Takeover on IOS App",
+            "duration": "23:44"
+          },
+          {
+            "number": "91",
+            "title": "Account Takeover POC 1 (IOS)",
+            "duration": "02:24"
+          },
+          {
+            "number": "92",
+            "title": "Account Takeover POC 2 (IOS)",
+            "duration": "04:20"
+          }
         ]
       },
       {
         "topic": "Chapter 11: Internal & Live Hunting",
         "videos": [
-          { "number": "93", "title": "Company Internal PIL", "duration": "05:38" },
-          { "number": "94", "title": "Exporting IPA", "duration": "02:23" },
-          { "number": "95", "title": "Live Hunting 01", "duration": "02:06" },
-          { "number": "96", "title": "Live Hunting 02", "duration": "14:33" }
+          {
+            "number": "93",
+            "title": "Company Internal PIL",
+            "duration": "05:38"
+          },
+          {
+            "number": "94",
+            "title": "Exporting IPA",
+            "duration": "02:23"
+          },
+          {
+            "number": "95",
+            "title": "Live Hunting 01",
+            "duration": "02:06"
+          },
+          {
+            "number": "96",
+            "title": "Live Hunting 02",
+            "duration": "14:33"
+          }
         ]
       }
     ]

@@ -1,6 +1,11 @@
 {
   "header_logo": "https://university.cappriciosec.com/university-logo.png",
   "App_Link": "https://play.google.com/store/apps/details?id=com.cappriciosec.university",
+  "banner_imgs": [
+    "https://",
+    "https://",
+    "https",
+  ],
   "academic_colabration": [
     {
       "award": [

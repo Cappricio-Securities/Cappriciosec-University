@@ -115,7 +115,7 @@
       {
         "title": "Quick Links",
         "links": [
-          { "text": "Home", "href": "/" },
+          { "text": "Home", "href": "https://university.cappriciosec.com/" },
           { "text": "Courses", "href": "#courses" },
           { "text": "Categories", "href": "#categories" },
           { "text": "About Us", "href": "#about" },

@@ -105,5 +105,42 @@
     "16.png", "17.png", "18.png", "19.png", "20.png",
     "21.png", "22.png", "23.jpg", "24.jpg", "25.jpg",
     "26.jpeg", "27.svg", "28.webp"
-  ]
+  ],
+  "footer": {
+    "about": {
+      "title": "Cappriciosec University",
+      "description": "We provide high-quality courses in cyber security, development, and hardware to help you advance your career and stay ahead in the rapidly evolving tech landscape."
+    },
+    "sections": [
+      {
+        "title": "Quick Links",
+        "links": [
+          { "text": "Home", "href": "/" },
+          { "text": "Courses", "href": "#courses" },
+          { "text": "Categories", "href": "#categories" },
+          { "text": "About Us", "href": "#about" },
+          { "text": "Contact", "href": "#" }
+        ]
+      },
+      {
+        "title": "Categories",
+        "links": [
+          { "text": "Cyber Security", "filter": "cybersecurity" },
+          { "text": "Development", "filter": "development" },
+          { "text": "Hardware", "filter": "hardware" },
+          { "text": "Networking", "filter": "networking" }
+        ]
+      },
+      {
+        "title": "Contact Us",
+        "links": [
+          { "text": "university@cappriciosec.com", "type": "email" },
+          { "text": "+91 82709 13635", "type": "phone" },
+          { "text": "Our Founder", "url": "https://karthithehacker.com/" },
+          { "text": "FAQ", "href": "#" }
+        ]
+      }
+    ],
+    "bottom": "© 2025 Cappriciosec University. All rights reserved."
+  }
 }

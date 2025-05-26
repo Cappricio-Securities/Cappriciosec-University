@@ -175,260 +175,75 @@
         ]
       },
       {
-        "topic": "Ethical Hacking",
-        "videos": [
-          {
-            "number": "22",
-            "title": "Instagram Hacking",
-            "duration": "02:58 min"
-          },
-          {
-            "number": "23",
-            "title": "Live Demo Netflix Hacking",
-            "duration": "03:39 min"
-          },
-          {
-            "number": "24",
-            "title": "Fitbit account takeover POC",
-            "duration": "03:09 min"
-          },
-          {
-            "number": "25",
-            "title": "Social Media Hacking End",
-            "duration": "01:03 min"
-          },
-          {
-            "number": "26",
-            "title": "Mobile Hacking",
-            "duration": "02:04 min"
-          },
-          {
-            "number": "27",
-            "title": "Creating Trojan",
-            "duration": "03:13 min"
-          },
-          {
-            "number": "28",
-            "title": "Getting Trojan",
-            "duration": "03:26 min"
-          },
-          {
-            "number": "29",
-            "title": "Understanding console",
-            "duration": "02:56 min"
-          },
-          {
-            "number": "30",
-            "title": "Mobile shell",
-            "duration": "02:00 min"
-          },
-          {
-            "number": "31",
-            "title": "Activity starting",
-            "duration": "01:47 min"
-          },
-          {
-            "number": "32",
-            "title": "SMS hacking",
-            "duration": "01:27 min"
-          },
-          {
-            "number": "33",
-            "title": "Path explore",
-            "duration": "05:05 min"
-          },
-          {
-            "number": "34",
-            "title": "Webcam Hacking",
-            "duration": "01:34 min"
-          },
-          {
-            "number": "35",
-            "title": "Port forwarding",
-            "duration": "03:43 min"
-          },
-          {
-            "number": "36",
-            "title": "Getting connection(OTI)",
-            "duration": "02:46 min"
-          },
-          {
-            "number": "37",
-            "title": "Static IP",
-            "duration": "02:01 min"
-          },
-          {
-            "number": "38",
-            "title": "Static IP setup",
-            "duration": "02:03 min"
-          },
-          {
-            "number": "39",
-            "title": "Payload with Static IP",
-            "duration": "01:42 min"
-          },
-          {
-            "number": "40",
-            "title": "Getting Connection(SIP)",
-            "duration": "02:53 min"
-          },
-          {
-            "number": "41",
-            "title": "Auomated Hacking",
-            "duration": "04:07 min"
-          },
-          {
-            "number": "42",
-            "title": "Mobile Hacking End",
-            "duration": "01:09 min"
-          },
-          {
-            "number": "43",
-            "title": "System Hacking",
-            "duration": "01:32 min"
-          },
-          {
-            "number": "44",
-            "title": "System Hacking Live",
-            "duration": "04:06 min"
-          },
-          {
-            "number": "45",
-            "title": "Backdoor with PYTHON",
-            "duration": "03:42 min"
-          },
-          {
-            "number": "46",
-            "title": "Backdoor with PHP",
-            "duration": "01:50 min"
-          },
-          {
-            "number": "47",
-            "title": "Backdoor with BASH",
-            "duration": "01:47 min"
-          },
-          {
-            "number": "48",
-            "title": "System Hacking End",
-            "duration": "01:50 min"
-          },
-          {
-            "number": "49",
-            "title": "Intro to Web Hacking",
-            "duration": "04:05 min"
-          },
-          {
-            "number": "50",
-            "title": "Playing with BURP",
-            "duration": "16:52 min"
-          },
-          {
-            "number": "51",
-            "title": "Recon",
-            "duration": "08:10 min"
-          },
-          {
-            "number": "52",
-            "title": "Subs Recon",
-            "duration": "06:22 min"
-          },
-          {
-            "number": "53",
-            "title": "Subs crawling",
-            "duration": "05:38 min"
-          },
-          {
-            "number": "54",
-            "title": "Subs brute",
-            "duration": "09:43 min"
-          },
-          {
-            "number": "55",
-            "title": "Subs Dork",
-            "duration": "10:12 min"
-          },
-          {
-            "number": "56",
-            "title": "Removing Dups",
-            "duration": "03:36 min"
-          },
-          {
-            "number": "57",
-            "title": "Finding live",
-            "duration": "05:01 min"
-          },
-          {
-            "number": "58",
-            "title": "Open Ports and IP",
-            "duration": "13:56 min"
-          },
-          {
-            "number": "59",
-            "title": "Finding status code",
-            "duration": "07:32 min"
-          },
-          {
-            "number": "60",
-            "title": "SS and Dir-Brute",
-            "duration": "08:31 min"
-          },
-          {
-            "number": "61",
-            "title": "HTTP header attack 01",
-            "duration": "12:15 min"
-          },
-          {
-            "number": "62",
-            "title": "HTTP header attack 02",
-            "duration": "06:02 min"
-          },
-          {
-            "number": "63",
-            "title": "DNS attack",
-            "duration": "05:33 min"
-          },
-          {
-            "number": "64",
-            "title": "Password reset attack",
-            "duration": "11:29 min"
-          },
-          {
-            "number": "65",
-            "title": "Web cache attack",
-            "duration": "08:13 min"
-          },
-          {
-            "number": "66",
-            "title": "Webcache attack automation",
-            "duration": "19:02 min"
-          },
-          {
-            "number": "67",
-            "title": "Header based XSS",
-            "duration": "03:07 min"
-          },
-          {
-            "number": "68",
-            "title": "SSRF attack 01",
-            "duration": "14:53 min"
-          },
-          {
-            "number": "69",
-            "title": "SSRF attack 02",
-            "duration": "02:39 min"
-          },
-          {
-            "number": "70",
-            "title": "SSRF attack POC",
-            "duration": "01:43 min"
-          },
-          {
-            "number": "71",
-            "title": "Web Hacking End",
-            "duration": "00:28 min"
-          }
-        ]
-      },
+    "topic": "Social Media Hacking",
+    "videos": [
+      { "number": "22", "title": "Instagram Hacking", "duration": "02:58 min" },
+      { "number": "23", "title": "Live Demo Netflix Hacking", "duration": "03:39 min" },
+      { "number": "24", "title": "Fitbit account takeover POC", "duration": "03:09 min" },
+      { "number": "25", "title": "Social Media Hacking End", "duration": "01:03 min" }
+    ]
+  },
+  {
+    "topic": "Mobile Hacking",
+    "videos": [
+      { "number": "26", "title": "Mobile Hacking", "duration": "02:04 min" },
+      { "number": "27", "title": "Creating Trojan", "duration": "03:13 min" },
+      { "number": "28", "title": "Getting Trojan", "duration": "03:26 min" },
+      { "number": "29", "title": "Understanding console", "duration": "02:56 min" },
+      { "number": "30", "title": "Mobile shell", "duration": "02:00 min" },
+      { "number": "31", "title": "Activity starting", "duration": "01:47 min" },
+      { "number": "32", "title": "SMS hacking", "duration": "01:27 min" },
+      { "number": "33", "title": "Path explore", "duration": "05:05 min" },
+      { "number": "34", "title": "Webcam Hacking", "duration": "01:34 min" },
+      { "number": "35", "title": "Port forwarding", "duration": "03:43 min" },
+      { "number": "36", "title": "Getting connection(OTI)", "duration": "02:46 min" },
+      { "number": "37", "title": "Static IP", "duration": "02:01 min" },
+      { "number": "38", "title": "Static IP setup", "duration": "02:03 min" },
+      { "number": "39", "title": "Payload with Static IP", "duration": "01:42 min" },
+      { "number": "40", "title": "Getting Connection(SIP)", "duration": "02:53 min" },
+      { "number": "41", "title": "Auomated Hacking", "duration": "04:07 min" },
+      { "number": "42", "title": "Mobile Hacking End", "duration": "01:09 min" }
+    ]
+  },
+  {
+    "topic": "System Hacking",
+    "videos": [
+      { "number": "43", "title": "System Hacking", "duration": "01:32 min" },
+      { "number": "44", "title": "System Hacking Live", "duration": "04:06 min" },
+      { "number": "45", "title": "Backdoor with PYTHON", "duration": "03:42 min" },
+      { "number": "46", "title": "Backdoor with PHP", "duration": "01:50 min" },
+      { "number": "47", "title": "Backdoor with BASH", "duration": "01:47 min" },
+      { "number": "48", "title": "System Hacking End", "duration": "01:50 min" }
+    ]
+  },
+  {
+    "topic": "Web Hacking",
+    "videos": [
+      { "number": "49", "title": "Intro to Web Hacking", "duration": "04:05 min" },
+      { "number": "50", "title": "Playing with BURP", "duration": "16:52 min" },
+      { "number": "51", "title": "Recon", "duration": "08:10 min" },
+      { "number": "52", "title": "Subs Recon", "duration": "06:22 min" },
+      { "number": "53", "title": "Subs crawling", "duration": "05:38 min" },
+      { "number": "54", "title": "Subs brute", "duration": "09:43 min" },
+      { "number": "55", "title": "Subs Dork", "duration": "10:12 min" },
+      { "number": "56", "title": "Removing Dups", "duration": "03:36 min" },
+      { "number": "57", "title": "Finding live", "duration": "05:01 min" },
+      { "number": "58", "title": "Open Ports and IP", "duration": "13:56 min" },
+      { "number": "59", "title": "Finding status code", "duration": "07:32 min" },
+      { "number": "60", "title": "SS and Dir-Brute", "duration": "08:31 min" },
+      { "number": "61", "title": "HTTP header attack 01", "duration": "12:15 min" },
+      { "number": "62", "title": "HTTP header attack 02", "duration": "06:02 min" },
+      { "number": "63", "title": "DNS attack", "duration": "05:33 min" },
+      { "number": "64", "title": "Password reset attack", "duration": "11:29 min" },
+      { "number": "65", "title": "Web cache attack", "duration": "08:13 min" },
+      { "number": "66", "title": "Webcache attack automation", "duration": "19:02 min" },
+      { "number": "67", "title": "Header based XSS", "duration": "03:07 min" },
+      { "number": "68", "title": "SSRF attack 01", "duration": "14:53 min" },
+      { "number": "69", "title": "SSRF attack 02", "duration": "02:39 min" },
+      { "number": "70", "title": "SSRF attack POC", "duration": "01:43 min" },
+      { "number": "71", "title": "Web Hacking End", "duration": "00:28 min" }
+    ]
+  },
       { 
         "topic": "Hardware Development & Arduino Projects",
         "videos": [

@@ -110,80 +110,170 @@
     "title": "Success Stories from Our Students",
     "subtitle": "Hear from our graduates who have transformed their careers with our courses"
   },
-  "testimonials": [
-    {
-      "name": "Sarah Johnson",
-      "achievement": "Certified Ethical Hacker",
-      "rating": "★★★★★",
-      "quote": "The Ethical Hacking Masterclass completely transformed my career. Within three months of completing the course, I landed a job as a security analyst at a major tech company with a 40% salary increase!",
-      "company": "TechSecure Inc.",
-      "position": "Security Analyst",
-      "image": "https://avatars.githubusercontent.com/u/33289300?v=4"
-    },
-    {
-      "name": "Michael Chen",
-      "achievement": "Network Security Specialist",
-      "rating": "★★★★★",
-      "quote": "I had no prior experience in cybersecurity when I started. The structured curriculum and hands-on labs gave me practical skills that I use daily in my new role. I now lead a team of security professionals!",
-      "company": "Global Networks",
-      "position": "Security Team Lead",
-      "image": "/placeholder.svg?height=200&width=200"
-    },
-    {
-      "name": "Emily Rodriguez",
-      "achievement": "Secure Software Developer",
-      "rating": "★★★★★",
-      "quote": "The Secure Web Development course helped me transition from a regular developer to a security-focused role. The instructors were incredibly knowledgeable and supportive throughout my learning journey.",
-      "company": "FinTech Solutions",
-      "position": "Lead Developer",
-      "image": "/placeholder.svg?height=200&width=200"
-    },
-    {
-      "name": "David Wilson",
-      "achievement": "IoT Security Expert",
-      "rating": "★★★★☆",
-      "quote": "The IoT Security course was exactly what I needed to specialize in this growing field. The practical projects allowed me to build a portfolio that impressed my current employer during the interview process.",
-      "company": "Smart Systems Inc.",
-      "position": "Security Architect",
-      "image": "/placeholder.svg?height=200&width=200"
-    },
-    {
-      "name": "Jennifer Lee",
-      "achievement": "Cloud Security Specialist",
-      "rating": "★★★★★",
-      "quote": "After completing the Cloud Security course, I was able to implement robust security measures for my company's cloud infrastructure. This led to a promotion and a significant salary increase within six months!",
-      "company": "CloudTech Solutions",
-      "position": "Senior Security Engineer",
-      "image": "/placeholder.svg?height=200&width=200"
-    },
-    {
-      "name": "Robert Taylor",
-      "achievement": "Digital Forensics Investigator",
-      "rating": "★★★★☆",
-      "quote": "The Digital Forensics course provided me with the specialized skills I needed to transition from general IT to forensic investigation. The certification helped me secure a position with a government agency.",
-      "company": "Government Agency",
-      "position": "Forensic Analyst",
-      "image": "/placeholder.svg?height=200&width=200"
-    },
-    {
-      "name": "Sophia Martinez",
-      "achievement": "Security Compliance Manager",
-      "rating": "★★★★★",
-      "quote": "The Security Compliance course gave me a comprehensive understanding of regulatory frameworks. I was able to implement compliant security practices that saved my company from potential fines and penalties.",
-      "company": "Healthcare Systems",
-      "position": "Compliance Director",
-      "image": "/placeholder.svg?height=200&width=200"
-    },
-    {
-      "name": "James Thompson",
-      "achievement": "Blockchain Security Expert",
-      "rating": "★★★★★",
-      "quote": "The Blockchain Security course was cutting-edge and provided me with skills that are in high demand. I now work as a consultant for multiple blockchain projects, earning three times my previous salary.",
-      "company": "Blockchain Ventures",
-      "position": "Security Consultant",
-      "image": "/placeholder.svg?height=200&width=200"
-    }
-  ],
+"testimonials": [
+  {
+    "name": "Sara Karthikeyan",
+    "achievement": "Certified in Ethical Hacking",
+    "rating": "★★★★★",
+    "quote": "Completed 75 hours of immersive, hands-on Ethical Hacking training, acquiring in-depth knowledge and familiarity with key cybersecurity concepts and terminologies.",
+    "College": "SVCE",
+    "position": "STUDENT",
+    "image": "https://karthithehacker.com/assets/profile-BfWXpxNO.webp"
+  },
+  {
+    "name": "Sibi Kumar",
+    "achievement": "Certified in Ethical Hacking",
+    "rating": "★★★★★",
+    "quote": "Hi sir, I am Sibikumar from psvpec. Like to share my experience about our ethical hacking class, the ethical hacking class was very useful and for the first time I learned about ethical hacking. It satisfied as I expected. The way of your teaching is also very interactive and practical session helped me a lot. These classes made me interested to learn about ethical hacking.",
+    "College": "PSVPEC",
+    "position": "STUDENT",
+    "image": "https://karthithehacker.com/assets/profile-BfWXpxNO.webp"
+  },
+  {
+    "name": "Dinesh Kumar K",
+    "achievement": "Certified in mobile app penetration testing and web bug bounty.",
+    "rating": "★★★★★",
+    "quote": "I recently earned a $500 bounty from a HackerOne program. I come from a commerce background, and the courses at Cappriciosec University have been instrumental in helping me start a career in the cybersecurity field. I am currently working at a Chennai-based startup cybersecurity company and have enrolled in courses on mobile app penetration testing and web bug bounty.",
+    "image": "https://i.ibb.co/ydpv23W/testimonial-img-4.webp"
+  },
+  {
+    "name": "Sai Venkat G",
+    "achievement": "Certified in Ethical Hacking",
+    "rating": "★★★★★",
+    "quote": "First of all a heartfelt thanks to you Bro and I’m grateful for the passion and hard work you bring every day. I have chosen a Ethical Hacking (cybersecurity) course to improve the skills. You are teaching more than a teacher, guiding like a friend. I have learned newly detailed concepts about cybersecurity and ethical hacking because of you bro. Thank you. You made complex concepts simple and easy to understand. More than technical skills, you've instilled a mindset of vigilance, responsibility, and ethics that will stay with me.",
+    "college": "PSVPEC",
+    "position": "STUDENT",
+    "image": "https://i.ibb.co/ydpv23W/testimonial-img-4.webp"
+  },
+  {
+    "name": "Jayesri A",
+    "achievement": "Certified Mobile Application Pen-testing",
+    "rating": "★★★★☆",
+    "quote": "I discovered a code injection bug in one of Google's Android apps, and Google acknowledged my work by providing me with a place in their Hall of Fame. Encouraged by this recognition, I enrolled in Cappricio University's Mobile Application Pen-Testing course. In this course, I delved deep into concepts such as Android static code analysis, iOS dynamic hacking, and malware exploit development.",
+    "image": "https://i.ibb.co/p1J6Zvj/testimonial-img-3.webp"
+  },
+  {
+    "name": "Pranav Kataria",
+    "achievement": "Certified Cyber Crime Investigator course",
+    "rating": "★★★★★",
+    "quote": "My name is Pranav Kataria, Assistant Commissioner of Gujarat Police. I have learned many valuable skills from Cappriciosec University, but my favorite topics are RF hacking, mobile tracking, Internet Protocol Detail Records, hacking social accounts and mobile devices, tracking cyber criminals, ATM card cloning, and more. These topics have given me insights into how cybercriminals take advantage of cybercrime and how to track them. I enrolled in the Cyber Crime Investigation course. Thank you for offering this course.",
+    "company": "Gujarat Police",
+    "position": "Assistant Commissioner",
+    "image": "https://i.ibb.co/tDgWr8Y/testimonial-img-2.webp"
+  },
+  {
+    "name": "Sandiyo Christan",
+    "achievement": "Earned $200 for finding a bug",
+    "rating": "★★★★★",
+    "quote": "I discovered an authentication bypass and earned $200 for finding a bug in one of Bugcrowd's programs. Afterward, I enrolled in web app penetration testing and bug bounty, as well as mobile application bug bounty courses at Cappriciosec University. These courses significantly enhanced my knowledge and provided me with real-time experience in cybersecurity.",
+    "position": "STUDENT",
+    "image": "https://i.ibb.co/k8TmS87/testimonial-img-1.webp"
+  },
+  {
+    "name": "Anonymous",
+    "achievement": "Ethical Hacking (cybersecurity) course",
+    "rating": "★★★★★",
+    "quote": "I have chosen a Ethical Hacking (cybersecurity) course to improve the skills. You are teaching more than a teacher, guiding like a friend. I have learned newly detailed concepts about cybersecurity and ethical hacking because of you bro. Thank you. You made complex concepts simple and easy to understand. More than technical skills, you've instilled a mindset of vigilance, responsibility, and ethics that will stay with me.",
+    "position": "STUDENT",
+    "image": "https://karthithehacker.com/assets/profile-BfWXpxNO.webp"
+  },
+  {
+    "name": "Farheen Fathima N K",
+    "achievement": "IOT and Hardware",
+    "rating": "★★★★★",
+    "quote": "This IoT and hardware development course exceeded my expectations! It offered a perfect balance of hands-on projects and foundational knowledge, making complex topics easy to understand. The instructor was exceptional—clear, incredibly knowledgeable, and dedicated to ensuring we fully grasped each concept. From day one, I felt engaged and empowered to build real-world IoT solutions. If you’re looking to gain practical IoT skills from the ground up, this course is an excellent choice!",
+    "image": "https://karthithehacker.com/assets/profile-BfWXpxNO.webp"
+  },
+  {
+    "name": "Anonymous",
+    "achievement": "Ethical Hacking",
+    "rating": "★★★★★",
+    "quote": "Your teachings made us gain knowledge not only in ethical hacking but also helped us learn what happens behind every system process. Your classes enabled us to change our perspective on day-to-day tasks.",
+    "image": "https://karthithehacker.com/assets/profile-BfWXpxNO.webp"
+  }
+]
+"testimonials": [
+  {
+    "name": "Sara Karthikeyan",
+    "achievement": "Certified in Ethical Hacking",
+    "rating": "★★★★★",
+    "quote": "Completed 75 hours of immersive, hands-on Ethical Hacking training, acquiring in-depth knowledge and familiarity with key cybersecurity concepts and terminologies.",
+    "College": "SVCE",
+    "position": "STUDENT",
+    "image": "https://karthithehacker.com/assets/profile-BfWXpxNO.webp"
+  },
+  {
+    "name": "Sibi Kumar",
+    "achievement": "Certified in Ethical Hacking",
+    "rating": "★★★★★",
+    "quote": "Hi sir, I am Sibikumar from psvpec. Like to share my experience about our ethical hacking class, the ethical hacking class was very useful and for the first time I learned about ethical hacking. It satisfied as I expected. The way of your teaching is also very interactive and practical session helped me a lot. These classes made me interested to learn about ethical hacking.",
+    "College": "PSVPEC",
+    "position": "STUDENT",
+    "image": "https://karthithehacker.com/assets/profile-BfWXpxNO.webp"
+  },
+  {
+    "name": "Dinesh Kumar K",
+    "achievement": "Certified in mobile app penetration testing and web bug bounty.",
+    "rating": "★★★★★",
+    "quote": "I recently earned a $500 bounty from a HackerOne program. I come from a commerce background, and the courses at Cappriciosec University have been instrumental in helping me start a career in the cybersecurity field. I am currently working at a Chennai-based startup cybersecurity company and have enrolled in courses on mobile app penetration testing and web bug bounty.",
+    "image": "https://i.ibb.co/ydpv23W/testimonial-img-4.webp"
+  },
+  {
+    "name": "Sai Venkat G",
+    "achievement": "Certified in Ethical Hacking",
+    "rating": "★★★★★",
+    "quote": "First of all a heartfelt thanks to you Bro and I’m grateful for the passion and hard work you bring every day. I have chosen a Ethical Hacking (cybersecurity) course to improve the skills. You are teaching more than a teacher, guiding like a friend. I have learned newly detailed concepts about cybersecurity and ethical hacking because of you bro. Thank you. You made complex concepts simple and easy to understand. More than technical skills, you've instilled a mindset of vigilance, responsibility, and ethics that will stay with me.",
+    "college": "PSVPEC",
+    "position": "STUDENT",
+    "image": "https://i.ibb.co/ydpv23W/testimonial-img-4.webp"
+  },
+  {
+    "name": "Jayesri A",
+    "achievement": "Certified Mobile Application Pen-testing",
+    "rating": "★★★★☆",
+    "quote": "I discovered a code injection bug in one of Google's Android apps, and Google acknowledged my work by providing me with a place in their Hall of Fame. Encouraged by this recognition, I enrolled in Cappricio University's Mobile Application Pen-Testing course. In this course, I delved deep into concepts such as Android static code analysis, iOS dynamic hacking, and malware exploit development.",
+    "image": "https://i.ibb.co/p1J6Zvj/testimonial-img-3.webp"
+  },
+  {
+    "name": "Pranav Kataria",
+    "achievement": "Certified Cyber Crime Investigator course",
+    "rating": "★★★★★",
+    "quote": "My name is Pranav Kataria, Assistant Commissioner of Gujarat Police. I have learned many valuable skills from Cappriciosec University, but my favorite topics are RF hacking, mobile tracking, Internet Protocol Detail Records, hacking social accounts and mobile devices, tracking cyber criminals, ATM card cloning, and more. These topics have given me insights into how cybercriminals take advantage of cybercrime and how to track them. I enrolled in the Cyber Crime Investigation course. Thank you for offering this course.",
+    "company": "Gujarat Police",
+    "position": "Assistant Commissioner",
+    "image": "https://i.ibb.co/tDgWr8Y/testimonial-img-2.webp"
+  },
+  {
+    "name": "Sandiyo Christan",
+    "achievement": "Earned $200 for finding a bug",
+    "rating": "★★★★★",
+    "quote": "I discovered an authentication bypass and earned $200 for finding a bug in one of Bugcrowd's programs. Afterward, I enrolled in web app penetration testing and bug bounty, as well as mobile application bug bounty courses at Cappriciosec University. These courses significantly enhanced my knowledge and provided me with real-time experience in cybersecurity.",
+    "position": "STUDENT",
+    "image": "https://i.ibb.co/k8TmS87/testimonial-img-1.webp"
+  },
+  {
+    "name": "Anonymous",
+    "achievement": "Ethical Hacking (cybersecurity) course",
+    "rating": "★★★★★",
+    "quote": "I have chosen a Ethical Hacking (cybersecurity) course to improve the skills. You are teaching more than a teacher, guiding like a friend. I have learned newly detailed concepts about cybersecurity and ethical hacking because of you bro. Thank you. You made complex concepts simple and easy to understand. More than technical skills, you've instilled a mindset of vigilance, responsibility, and ethics that will stay with me.",
+    "position": "STUDENT",
+    "image": "https://karthithehacker.com/assets/profile-BfWXpxNO.webp"
+  },
+  {
+    "name": "Farheen Fathima N K",
+    "achievement": "IOT and Hardware",
+    "rating": "★★★★★",
+    "quote": "This IoT and hardware development course exceeded my expectations! It offered a perfect balance of hands-on projects and foundational knowledge, making complex topics easy to understand. The instructor was exceptional—clear, incredibly knowledgeable, and dedicated to ensuring we fully grasped each concept. From day one, I felt engaged and empowered to build real-world IoT solutions. If you’re looking to gain practical IoT skills from the ground up, this course is an excellent choice!",
+    "image": "https://karthithehacker.com/assets/profile-BfWXpxNO.webp"
+  },
+  {
+    "name": "Anonymous",
+    "achievement": "Ethical Hacking",
+    "rating": "★★★★★",
+    "quote": "Your teachings made us gain knowledge not only in ethical hacking but also helped us learn what happens behind every system process. Your classes enabled us to change our perspective on day-to-day tasks.",
+    "image": "https://karthithehacker.com/assets/profile-BfWXpxNO.webp"
+  }
+],
   "footer": {
     "about": {
       "title": "Cappriciosec University",

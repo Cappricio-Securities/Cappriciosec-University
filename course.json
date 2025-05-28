@@ -2730,12 +2730,12 @@
       }
     ]
   },
-  "CWPBB": {
+  "CWBP": {
     "title": "Certified Web Apps Pen-Testing & Bug-Bounty",
     "Tag": [
       "CyberSecurity","Bug Bounty", "Web Application Security", "Reconnaissance", "Enumeration", "Burp Suite","Ethical Hacking", "Vulnerability Assessment", "SSRF", "EXIF Injection", "SVG Exploits", "Session Hijacking", "CSRF", "Cloud App Security"
     ],
-    "banner": "https://university.cappriciosecurities.com/android/images-new/CEHPT.webp",
+    "banner": "https://university.cappriciosecurities.com/android/images-new/CWBP.webp",
     "Language": "தமிழ்",
     "Short Description": "A beginner to advanced course on Web Apps Pen-Testing & Bug-Bounty",
     "Description": "This Course Is Aimed At Beginners Who Want To Learn Hacking And Pen-Testing From Basics. After This Course , You Will Have Good Understanding Of How To Approach A Machine And You Can Develop Your Own Methodology.",

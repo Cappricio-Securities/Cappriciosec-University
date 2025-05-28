@@ -106,6 +106,84 @@
     "21.png", "22.png", "23.jpg", "24.jpg", "25.jpg",
     "26.jpeg", "27.svg", "28.webp"
   ],
+  "feedback_header": {
+    "title": "Success Stories from Our Students",
+    "subtitle": "Hear from our graduates who have transformed their careers with our courses"
+  },
+  "testimonials": [
+    {
+      "name": "Sarah Johnson",
+      "achievement": "Certified Ethical Hacker",
+      "rating": "★★★★★",
+      "quote": "The Ethical Hacking Masterclass completely transformed my career. Within three months of completing the course, I landed a job as a security analyst at a major tech company with a 40% salary increase!",
+      "company": "TechSecure Inc.",
+      "position": "Security Analyst",
+      "image": "https://avatars.githubusercontent.com/u/33289300?v=4"
+    },
+    {
+      "name": "Michael Chen",
+      "achievement": "Network Security Specialist",
+      "rating": "★★★★★",
+      "quote": "I had no prior experience in cybersecurity when I started. The structured curriculum and hands-on labs gave me practical skills that I use daily in my new role. I now lead a team of security professionals!",
+      "company": "Global Networks",
+      "position": "Security Team Lead",
+      "image": "/placeholder.svg?height=200&width=200"
+    },
+    {
+      "name": "Emily Rodriguez",
+      "achievement": "Secure Software Developer",
+      "rating": "★★★★★",
+      "quote": "The Secure Web Development course helped me transition from a regular developer to a security-focused role. The instructors were incredibly knowledgeable and supportive throughout my learning journey.",
+      "company": "FinTech Solutions",
+      "position": "Lead Developer",
+      "image": "/placeholder.svg?height=200&width=200"
+    },
+    {
+      "name": "David Wilson",
+      "achievement": "IoT Security Expert",
+      "rating": "★★★★☆",
+      "quote": "The IoT Security course was exactly what I needed to specialize in this growing field. The practical projects allowed me to build a portfolio that impressed my current employer during the interview process.",
+      "company": "Smart Systems Inc.",
+      "position": "Security Architect",
+      "image": "/placeholder.svg?height=200&width=200"
+    },
+    {
+      "name": "Jennifer Lee",
+      "achievement": "Cloud Security Specialist",
+      "rating": "★★★★★",
+      "quote": "After completing the Cloud Security course, I was able to implement robust security measures for my company's cloud infrastructure. This led to a promotion and a significant salary increase within six months!",
+      "company": "CloudTech Solutions",
+      "position": "Senior Security Engineer",
+      "image": "/placeholder.svg?height=200&width=200"
+    },
+    {
+      "name": "Robert Taylor",
+      "achievement": "Digital Forensics Investigator",
+      "rating": "★★★★☆",
+      "quote": "The Digital Forensics course provided me with the specialized skills I needed to transition from general IT to forensic investigation. The certification helped me secure a position with a government agency.",
+      "company": "Government Agency",
+      "position": "Forensic Analyst",
+      "image": "/placeholder.svg?height=200&width=200"
+    },
+    {
+      "name": "Sophia Martinez",
+      "achievement": "Security Compliance Manager",
+      "rating": "★★★★★",
+      "quote": "The Security Compliance course gave me a comprehensive understanding of regulatory frameworks. I was able to implement compliant security practices that saved my company from potential fines and penalties.",
+      "company": "Healthcare Systems",
+      "position": "Compliance Director",
+      "image": "/placeholder.svg?height=200&width=200"
+    },
+    {
+      "name": "James Thompson",
+      "achievement": "Blockchain Security Expert",
+      "rating": "★★★★★",
+      "quote": "The Blockchain Security course was cutting-edge and provided me with skills that are in high demand. I now work as a consultant for multiple blockchain projects, earning three times my previous salary.",
+      "company": "Blockchain Ventures",
+      "position": "Security Consultant",
+      "image": "/placeholder.svg?height=200&width=200"
+    }
+  ],
   "footer": {
     "about": {
       "title": "Cappriciosec University",

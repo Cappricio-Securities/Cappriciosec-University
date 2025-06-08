@@ -1,6 +1,9 @@
 {
   "header_logo": "https://university.cappriciosec.com/university-logo.png",
   "App_Link": "https://play.google.com/store/apps/details?id=com.cappriciosec.university",
+  "win_Link": "https://play.google.com/store/apps/details?id=com.cappriciosec.university",
+  "linux_Link": "https://play.google.com/store/apps/details?id=com.cappriciosec.university",
+  "Mac_Link": "https://play.google.com/store/apps/details?id=com.cappriciosec.university",
   "banner_imgs": [
     "https://raw.githubusercontent.com/Cappricio-Securities/Cappriciosec-University/refs/heads/main/images/Web_Banner1.webp",
     "https://raw.githubusercontent.com/Cappricio-Securities/Cappriciosec-University/refs/heads/main/images/Web_Banner2.webp",

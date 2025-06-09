@@ -11,12 +11,15 @@
     "CHIP",
     "CTDPJ",
     "CPPI"
-    
   ],
   "CEHPT": {
     "title": "Certified Ethical Hacking & Penetration Testing",
     "Tag": [
-      "CyberSecurity", "Hacking", "pentesting", "Networking", "Linux" 
+      "CyberSecurity",
+      "Hacking",
+      "pentesting",
+      "Networking",
+      "Linux"
     ],
     "banner": "https://university.cappriciosecurities.com/android/images-new/CEHPT.webp",
     "Language": "தமிழ்",
@@ -31,7 +34,7 @@
     "offer price": 3500,
     "offer percentage": "25%",
     "PREREQUISITES": "Basic PC/Laptop familiarity. No coding experience needed.",
-    "Pay Now": "https://university.cappriciosec.com/",
+    "Pay Now": "https://university.cappriciosec.com/payment/?cid=CEHPT",
     "Enroll now": "https://university.cappriciosec.com/CEHPT.html",
     "Cert_img": "https://university.cappriciosec.com/images/cert.svg",
     "What you'll learn": [
@@ -175,76 +178,276 @@
         ]
       },
       {
-    "topic": "Social Media Hacking",
-    "videos": [
-      { "number": "22", "title": "Instagram Hacking", "duration": "02:58 min" },
-      { "number": "23", "title": "Live Demo Netflix Hacking", "duration": "03:39 min" },
-      { "number": "24", "title": "Fitbit account takeover POC", "duration": "03:09 min" },
-      { "number": "25", "title": "Social Media Hacking End", "duration": "01:03 min" }
-    ]
-  },
-  {
-    "topic": "Mobile Hacking",
-    "videos": [
-      { "number": "26", "title": "Mobile Hacking", "duration": "02:04 min" },
-      { "number": "27", "title": "Creating Trojan", "duration": "03:13 min" },
-      { "number": "28", "title": "Getting Trojan", "duration": "03:26 min" },
-      { "number": "29", "title": "Understanding console", "duration": "02:56 min" },
-      { "number": "30", "title": "Mobile shell", "duration": "02:00 min" },
-      { "number": "31", "title": "Activity starting", "duration": "01:47 min" },
-      { "number": "32", "title": "SMS hacking", "duration": "01:27 min" },
-      { "number": "33", "title": "Path explore", "duration": "05:05 min" },
-      { "number": "34", "title": "Webcam Hacking", "duration": "01:34 min" },
-      { "number": "35", "title": "Port forwarding", "duration": "03:43 min" },
-      { "number": "36", "title": "Getting connection(OTI)", "duration": "02:46 min" },
-      { "number": "37", "title": "Static IP", "duration": "02:01 min" },
-      { "number": "38", "title": "Static IP setup", "duration": "02:03 min" },
-      { "number": "39", "title": "Payload with Static IP", "duration": "01:42 min" },
-      { "number": "40", "title": "Getting Connection(SIP)", "duration": "02:53 min" },
-      { "number": "41", "title": "Auomated Hacking", "duration": "04:07 min" },
-      { "number": "42", "title": "Mobile Hacking End", "duration": "01:09 min" }
-    ]
-  },
-  {
-    "topic": "System Hacking",
-    "videos": [
-      { "number": "43", "title": "System Hacking", "duration": "01:32 min" },
-      { "number": "44", "title": "System Hacking Live", "duration": "04:06 min" },
-      { "number": "45", "title": "Backdoor with PYTHON", "duration": "03:42 min" },
-      { "number": "46", "title": "Backdoor with PHP", "duration": "01:50 min" },
-      { "number": "47", "title": "Backdoor with BASH", "duration": "01:47 min" },
-      { "number": "48", "title": "System Hacking End", "duration": "01:50 min" }
-    ]
-  },
-  {
-    "topic": "Web Hacking",
-    "videos": [
-      { "number": "49", "title": "Intro to Web Hacking", "duration": "04:05 min" },
-      { "number": "50", "title": "Playing with BURP", "duration": "16:52 min" },
-      { "number": "51", "title": "Recon", "duration": "08:10 min" },
-      { "number": "52", "title": "Subs Recon", "duration": "06:22 min" },
-      { "number": "53", "title": "Subs crawling", "duration": "05:38 min" },
-      { "number": "54", "title": "Subs brute", "duration": "09:43 min" },
-      { "number": "55", "title": "Subs Dork", "duration": "10:12 min" },
-      { "number": "56", "title": "Removing Dups", "duration": "03:36 min" },
-      { "number": "57", "title": "Finding live", "duration": "05:01 min" },
-      { "number": "58", "title": "Open Ports and IP", "duration": "13:56 min" },
-      { "number": "59", "title": "Finding status code", "duration": "07:32 min" },
-      { "number": "60", "title": "SS and Dir-Brute", "duration": "08:31 min" },
-      { "number": "61", "title": "HTTP header attack 01", "duration": "12:15 min" },
-      { "number": "62", "title": "HTTP header attack 02", "duration": "06:02 min" },
-      { "number": "63", "title": "DNS attack", "duration": "05:33 min" },
-      { "number": "64", "title": "Password reset attack", "duration": "11:29 min" },
-      { "number": "65", "title": "Web cache attack", "duration": "08:13 min" },
-      { "number": "66", "title": "Webcache attack automation", "duration": "19:02 min" },
-      { "number": "67", "title": "Header based XSS", "duration": "03:07 min" },
-      { "number": "68", "title": "SSRF attack 01", "duration": "14:53 min" },
-      { "number": "69", "title": "SSRF attack 02", "duration": "02:39 min" },
-      { "number": "70", "title": "SSRF attack POC", "duration": "01:43 min" },
-      { "number": "71", "title": "Web Hacking End", "duration": "00:28 min" }
-    ]
-  },
-      { 
+        "topic": "Social Media Hacking",
+        "videos": [
+          {
+            "number": "22",
+            "title": "Instagram Hacking",
+            "duration": "02:58 min"
+          },
+          {
+            "number": "23",
+            "title": "Live Demo Netflix Hacking",
+            "duration": "03:39 min"
+          },
+          {
+            "number": "24",
+            "title": "Fitbit account takeover POC",
+            "duration": "03:09 min"
+          },
+          {
+            "number": "25",
+            "title": "Social Media Hacking End",
+            "duration": "01:03 min"
+          }
+        ]
+      },
+      {
+        "topic": "Mobile Hacking",
+        "videos": [
+          {
+            "number": "26",
+            "title": "Mobile Hacking",
+            "duration": "02:04 min"
+          },
+          {
+            "number": "27",
+            "title": "Creating Trojan",
+            "duration": "03:13 min"
+          },
+          {
+            "number": "28",
+            "title": "Getting Trojan",
+            "duration": "03:26 min"
+          },
+          {
+            "number": "29",
+            "title": "Understanding console",
+            "duration": "02:56 min"
+          },
+          {
+            "number": "30",
+            "title": "Mobile shell",
+            "duration": "02:00 min"
+          },
+          {
+            "number": "31",
+            "title": "Activity starting",
+            "duration": "01:47 min"
+          },
+          {
+            "number": "32",
+            "title": "SMS hacking",
+            "duration": "01:27 min"
+          },
+          {
+            "number": "33",
+            "title": "Path explore",
+            "duration": "05:05 min"
+          },
+          {
+            "number": "34",
+            "title": "Webcam Hacking",
+            "duration": "01:34 min"
+          },
+          {
+            "number": "35",
+            "title": "Port forwarding",
+            "duration": "03:43 min"
+          },
+          {
+            "number": "36",
+            "title": "Getting connection(OTI)",
+            "duration": "02:46 min"
+          },
+          {
+            "number": "37",
+            "title": "Static IP",
+            "duration": "02:01 min"
+          },
+          {
+            "number": "38",
+            "title": "Static IP setup",
+            "duration": "02:03 min"
+          },
+          {
+            "number": "39",
+            "title": "Payload with Static IP",
+            "duration": "01:42 min"
+          },
+          {
+            "number": "40",
+            "title": "Getting Connection(SIP)",
+            "duration": "02:53 min"
+          },
+          {
+            "number": "41",
+            "title": "Auomated Hacking",
+            "duration": "04:07 min"
+          },
+          {
+            "number": "42",
+            "title": "Mobile Hacking End",
+            "duration": "01:09 min"
+          }
+        ]
+      },
+      {
+        "topic": "System Hacking",
+        "videos": [
+          {
+            "number": "43",
+            "title": "System Hacking",
+            "duration": "01:32 min"
+          },
+          {
+            "number": "44",
+            "title": "System Hacking Live",
+            "duration": "04:06 min"
+          },
+          {
+            "number": "45",
+            "title": "Backdoor with PYTHON",
+            "duration": "03:42 min"
+          },
+          {
+            "number": "46",
+            "title": "Backdoor with PHP",
+            "duration": "01:50 min"
+          },
+          {
+            "number": "47",
+            "title": "Backdoor with BASH",
+            "duration": "01:47 min"
+          },
+          {
+            "number": "48",
+            "title": "System Hacking End",
+            "duration": "01:50 min"
+          }
+        ]
+      },
+      {
+        "topic": "Web Hacking",
+        "videos": [
+          {
+            "number": "49",
+            "title": "Intro to Web Hacking",
+            "duration": "04:05 min"
+          },
+          {
+            "number": "50",
+            "title": "Playing with BURP",
+            "duration": "16:52 min"
+          },
+          {
+            "number": "51",
+            "title": "Recon",
+            "duration": "08:10 min"
+          },
+          {
+            "number": "52",
+            "title": "Subs Recon",
+            "duration": "06:22 min"
+          },
+          {
+            "number": "53",
+            "title": "Subs crawling",
+            "duration": "05:38 min"
+          },
+          {
+            "number": "54",
+            "title": "Subs brute",
+            "duration": "09:43 min"
+          },
+          {
+            "number": "55",
+            "title": "Subs Dork",
+            "duration": "10:12 min"
+          },
+          {
+            "number": "56",
+            "title": "Removing Dups",
+            "duration": "03:36 min"
+          },
+          {
+            "number": "57",
+            "title": "Finding live",
+            "duration": "05:01 min"
+          },
+          {
+            "number": "58",
+            "title": "Open Ports and IP",
+            "duration": "13:56 min"
+          },
+          {
+            "number": "59",
+            "title": "Finding status code",
+            "duration": "07:32 min"
+          },
+          {
+            "number": "60",
+            "title": "SS and Dir-Brute",
+            "duration": "08:31 min"
+          },
+          {
+            "number": "61",
+            "title": "HTTP header attack 01",
+            "duration": "12:15 min"
+          },
+          {
+            "number": "62",
+            "title": "HTTP header attack 02",
+            "duration": "06:02 min"
+          },
+          {
+            "number": "63",
+            "title": "DNS attack",
+            "duration": "05:33 min"
+          },
+          {
+            "number": "64",
+            "title": "Password reset attack",
+            "duration": "11:29 min"
+          },
+          {
+            "number": "65",
+            "title": "Web cache attack",
+            "duration": "08:13 min"
+          },
+          {
+            "number": "66",
+            "title": "Webcache attack automation",
+            "duration": "19:02 min"
+          },
+          {
+            "number": "67",
+            "title": "Header based XSS",
+            "duration": "03:07 min"
+          },
+          {
+            "number": "68",
+            "title": "SSRF attack 01",
+            "duration": "14:53 min"
+          },
+          {
+            "number": "69",
+            "title": "SSRF attack 02",
+            "duration": "02:39 min"
+          },
+          {
+            "number": "70",
+            "title": "SSRF attack POC",
+            "duration": "01:43 min"
+          },
+          {
+            "number": "71",
+            "title": "Web Hacking End",
+            "duration": "00:28 min"
+          }
+        ]
+      },
+      {
         "topic": "Hardware Development & Arduino Projects",
         "videos": [
           {
@@ -447,16 +650,20 @@
             "title": "Course End",
             "duration": "02:45 min"
           }
-        ]  
+        ]
       }
     ]
   },
-
   "OJIPT": {
     "title": "Offensive Java and IoT Penetration Testing",
     "Tag": [
       "CyberSecurity",
-      "Coding","pentesting", "Ethical Hacking", "IoT Security", "Hardware Security", "Network Security"
+      "Coding",
+      "pentesting",
+      "Ethical Hacking",
+      "IoT Security",
+      "Hardware Security",
+      "Network Security"
     ],
     "banner": "https://university.cappriciosecurities.com/android/images-new/OJIPT.webp",
     "Language": "தமிழ்",
@@ -469,7 +676,7 @@
     "students_enrolled_count": 980,
     "price": 3500,
     "PREREQUISITES": "Basic understanding of networking and HTTP. Familiarity with Linux is a plus.",
-    "Pay Now": "https://university.cappriciosec.com/",
+    "Pay Now": "https://university.cappriciosec.com/payment/?cid=OJIPT",
     "Enroll now": "https://university.cappriciosec.com/OJIPT.html",
     "Cert_img": "https://university.cappriciosec.com/images/cert.svg",
     "What you'll learn": [
@@ -484,8 +691,6 @@
       "OS Hacking with Java",
       "IoT hacking with Java",
       "Hardware & Microcontroller development using Java"
-
-
     ],
     "Mentor": {
       "name": "karthithehacker",
@@ -778,7 +983,12 @@
       "CyberSecurity",
       "Bugbounty",
       "Api",
-      "Coding","pentesting","Live Hacking", "python", "DNS", "BOLA"
+      "Coding",
+      "pentesting",
+      "Live Hacking",
+      "python",
+      "DNS",
+      "BOLA"
     ],
     "banner": "https://university.cappriciosecurities.com/android/images-new/capbb.webp",
     "Language": "தமிழ்",
@@ -791,6 +1001,7 @@
     "Access": "lifetime",
     "students enrolled count": 1324,
     "PREREQUISITES": "Basic PC/Laptop familiarity. No coding experience needed.",
+    "Pay Now": "https://university.cappriciosec.com/payment/?cid=CAPBB",
     "Enroll now": "https://university.cappriciosec.com/CAPBB.html",
     "Cert_img": "https://university.cappriciosec.com/images/cert.svg",
     "What you'll learn": [
@@ -805,7 +1016,6 @@
       "Insecure Deserialization",
       "Rate Limiting and GraphQL",
       "Understand and exploit CVE-2017-5487 in API contexts"
-
     ],
     "Mentor": {
       "name": "karthithehacker",
@@ -833,7 +1043,6 @@
             "title": "About API",
             "duration": "21:36 min"
           }
-      
         ]
       },
       {
@@ -1009,7 +1218,6 @@
             "title": "Blind Command Injection 1",
             "duration": "16:02 min"
           },
-          
           {
             "number": "34",
             "title": "Blind Command Injection 2",
@@ -1019,7 +1227,7 @@
             "number": "35",
             "title": "Blind Command Injection to File Stealing",
             "duration": "10:33 min"
-          }, 
+          },
           {
             "number": "36",
             "title": "Blind Command Injection DNS Exfiltration OOB",
@@ -1165,7 +1373,7 @@
             "title": "About Regular Expression DoS Attack",
             "duration": "04:38 min"
           },
-           {
+          {
             "number": "61",
             "title": "Regular Expression DoS Attack 1",
             "duration": "05:41 min"
@@ -1185,7 +1393,12 @@
       "CyberSecurity",
       "Bugbounty",
       "Api",
-      "Coding", " Deeplinks", "Frida", "ADB", "JADX", "Hunting"
+      "Coding",
+      " Deeplinks",
+      "Frida",
+      "ADB",
+      "JADX",
+      "Hunting"
     ],
     "banner": "https://university.cappriciosecurities.com/android/images-new/CMABP.webp",
     "Language": "தமிழ்",
@@ -1198,6 +1411,7 @@
     "Access": "lifetime",
     "students enrolled count": 1324,
     "PREREQUISITES": "Basic PC/Laptop familiarity. No coding experience needed, Android studio for malware development.",
+    "Pay Now": "https://university.cappriciosec.com/payment/?cid=CMABP",
     "Enroll now": "https://university.cappriciosec.com/CMABP.html",
     "Cert_img": "https://university.cappriciosec.com/images/cert.svg",
     "What you'll learn": [
@@ -1766,8 +1980,13 @@
   "CCI": {
     "title": "Certified Cyber Crime Investigation",
     "Tag": [
-      "CyberSecurity", "Hacking", "Exploitation", "Investigation", "Networking", "Tracking", "Forensics"
-      
+      "CyberSecurity",
+      "Hacking",
+      "Exploitation",
+      "Investigation",
+      "Networking",
+      "Tracking",
+      "Forensics"
     ],
     "banner": "https://university.cappriciosecurities.com/android/images-new/CCI.webp",
     "Language": "தமிழ்",
@@ -1780,6 +1999,7 @@
     "students enrolled count": 1324,
     "price": 10000,
     "PREREQUISITES": "Basic PC/Laptop familiarity. No coding experience needed.",
+    "Pay Now": "https://university.cappriciosec.com/payment/?cid=CCI",
     "Enroll now": "https://university.cappriciosec.com/CCI.html",
     "Cert_img": "https://university.cappriciosec.com/images/cert.svg",
     "What you'll learn": [
@@ -1853,7 +2073,6 @@
             "title": "Android Hacking (POC)",
             "duration": "11:15 min"
           }
-        
         ]
       },
       {
@@ -2380,7 +2599,16 @@
   },
   "CHID": {
     "title": "Certified Hardware & IOT Developmental Hacking",
-    "Tag": ["CyberSecurity","Arduino","IoT","Bluetooth", "NODEMCU", "IR Sensor","Raspberry Pi Pico", "Sensors"],
+    "Tag": [
+      "CyberSecurity",
+      "Arduino",
+      "IoT",
+      "Bluetooth",
+      "NODEMCU",
+      "IR Sensor",
+      "Raspberry Pi Pico",
+      "Sensors"
+    ],
     "banner": "https://university.cappriciosecurities.com/android/images-new/CHID.webp",
     "Language": "தமிழ்",
     "Short Description": "This course is aimed at beginners who want to learn how Hardware works and IoT Development from basics.",
@@ -2392,6 +2620,7 @@
     "students enrolled count": 1324,
     "price": 3500,
     "PREREQUISITES": "Basic PC/Laptop familiarity. No coding experience needed.",
+    "Pay Now": "https://university.cappriciosec.com/payment/?cid=CHID",
     "Enroll now": "https://university.cappriciosec.com/CHID.html",
     "Cert_img": "https://university.cappriciosec.com/images/cert.svg",
     "What you'll learn": [
@@ -2475,7 +2704,6 @@
             "title": "Learn to code 1",
             "duration": "06:30 min"
           },
-      
           {
             "number": "11",
             "title": "Learn to code 2",
@@ -2531,7 +2759,6 @@
             "title": "About Servo Moto",
             "duration": "00:30 min"
           },
-      
           {
             "number": "21",
             "title": "Coding the Arduino for Servo",
@@ -2734,7 +2961,20 @@
   "CWBP": {
     "title": "Certified Web Apps Pen-Testing & Bug-Bounty",
     "Tag": [
-      "CyberSecurity","Bug Bounty", "Web Application Security", "Reconnaissance", "Enumeration", "Burp Suite","Ethical Hacking", "Vulnerability Assessment", "SSRF", "EXIF Injection", "SVG Exploits", "Session Hijacking", "CSRF", "Cloud App Security"
+      "CyberSecurity",
+      "Bug Bounty",
+      "Web Application Security",
+      "Reconnaissance",
+      "Enumeration",
+      "Burp Suite",
+      "Ethical Hacking",
+      "Vulnerability Assessment",
+      "SSRF",
+      "EXIF Injection",
+      "SVG Exploits",
+      "Session Hijacking",
+      "CSRF",
+      "Cloud App Security"
     ],
     "banner": "https://university.cappriciosecurities.com/android/images-new/CWBP.webp",
     "Language": "தமிழ்",
@@ -2749,13 +2989,13 @@
     "offer price": 3500,
     "offer percentage": "25%",
     "PREREQUISITES": "Basic PC/Laptop familiarity. No coding experience needed.",
-    "Pay Now": "https://university.cappriciosec.com/",
+    "Pay Now": "https://university.cappriciosec.com/payment/?cid=CWBP",
     "Enroll now": "https://university.cappriciosec.com/CWBP.html",
     "Cert_img": "https://university.cappriciosec.com/images/cert.svg",
     "What you'll learn": [
       "Understanding the bug bounty",
       "Burp Suite, domain recon tools",
-      "HTTP status codes and headers", 
+      "HTTP status codes and headers",
       "Real-world attack chains",
       "Identifying and exploiting misconfigured HTTP headers",
       "Real-world PoCs ",
@@ -2764,7 +3004,6 @@
       "Identifying CSRF on real-world web applications",
       "DOM-based XSS exploitation",
       "Hands-on proof-of-concept demos for each vulnerability"
-
     ],
     "Mentor": {
       "name": "karthithehacker",
@@ -2802,7 +3041,6 @@
             "title": "Subs Enumeration",
             "duration": "06:22 min"
           },
-        
           {
             "number": "06",
             "title": "Subs Brute",
@@ -2850,9 +3088,9 @@
           }
         ]
       },
-      { 
+      {
         "topic": "Open Redirect Vulnerabilities",
-         "videos": [ 
+        "videos": [
           {
             "number": "14",
             "title": "About Open Redirect",
@@ -2889,7 +3127,6 @@
             "duration": "03:16 min"
           },
           {
-       
             "number": "21",
             "title": "PoC 4 Microsoft Web Cam Hacking",
             "duration": "05:57 min"
@@ -2900,10 +3137,10 @@
             "duration": "01:54 min"
           }
         ]
-      },  
-          {
-          "topic":"HTTP Header Vulnerabilities",
-          "videos": [
+      },
+      {
+        "topic": "HTTP Header Vulnerabilities",
+        "videos": [
           {
             "number": "23",
             "title": "About HTTP Header Attack",
@@ -2921,7 +3158,8 @@
           }
         ]
       },
-      { "topic": "Web Cache Poisoning",
+      {
+        "topic": "Web Cache Poisoning",
         "videos": [
           {
             "number": "26",
@@ -2953,7 +3191,7 @@
       {
         "topic": "SSRF (Server Side Request Forgery)",
         "videos": [
-        {
+          {
             "number": "31",
             "title": "PoC 1 Blind SSRF/DNS PingBack Apple",
             "duration": "02:34 min"
@@ -3055,9 +3293,9 @@
           }
         ]
       },
-      { "topic": " Broken Authentication / Session Fixation",
+      {
+        "topic": " Broken Authentication / Session Fixation",
         "videos": [
-
           {
             "number": "50",
             "title": "About Broken Auth",
@@ -3115,9 +3353,9 @@
           }
         ]
       },
-      {   "topic": "EXIF & File Upload Attacks",
+      {
+        "topic": "EXIF & File Upload Attacks",
         "videos": [
-
           {
             "number": "61",
             "title": "About EXIF",
@@ -3175,7 +3413,8 @@
           }
         ]
       },
-      {   "topic": "Cloud Attacks & PDF Injection",
+      {
+        "topic": "Cloud Attacks & PDF Injection",
         "videos": [
           {
             "number": "72",
@@ -3187,7 +3426,6 @@
             "title": "HTML to PDF Live Attack",
             "duration": "09:35 min"
           },
-        
           {
             "number": "74",
             "title": "PoC 1 Sejda BLIND XSS to SSRF",
@@ -3195,8 +3433,9 @@
           }
         ]
       },
-      {   "topic": " JSON Attacks & 2FA Bypass",
-          "videos": [
+      {
+        "topic": " JSON Attacks & 2FA Bypass",
+        "videos": [
           {
             "number": "75",
             "title": "About JSON Response",
@@ -3231,11 +3470,12 @@
             "number": "81",
             "title": "PoC 4 Canva Password Panel Bypass",
             "duration": "01:26 min"
-           }
+          }
         ]
       },
-      {   "topic": " CSRF (Cross-Site Request Forgery)",
-          "videos": [
+      {
+        "topic": " CSRF (Cross-Site Request Forgery)",
+        "videos": [
           {
             "number": "82",
             "title": "About CSRF",
@@ -3260,11 +3500,12 @@
             "number": "86",
             "title": "PoC 2 TransferWise CSRF",
             "duration": "14:03 min"
-           }
+          }
         ]
       },
-      {   "topic": " XSS (Cross-Site Scripting)",
-          "videos": [
+      {
+        "topic": " XSS (Cross-Site Scripting)",
+        "videos": [
           {
             "number": "87",
             "title": "About XSS",
@@ -3298,7 +3539,14 @@
     "title": "Certified Hardware & IOT Pen-Testing",
     "Tag": [
       "CyberSecurity",
-      "Coding","pentesting", "Reconnaissance", "Exploitation", "Security", "Simulation", "Packet Sniffers", "Network Traffic Analysis"
+      "Coding",
+      "pentesting",
+      "Reconnaissance",
+      "Exploitation",
+      "Security",
+      "Simulation",
+      "Packet Sniffers",
+      "Network Traffic Analysis"
     ],
     "banner": "https://university.cappriciosecurities.com/android/images-new/CIPT.webp",
     "Language": "English",
@@ -3311,6 +3559,7 @@
     "students_enrolled_count": 980,
     "price": 10,
     "PREREQUISITES": "Basic understanding of networking and HTTP. Familiarity with Linux is a plus.",
+    "Pay Now": "https://university.cappriciosec.com/payment/?cid=CHIP",
     "Enroll now": "https://university.cappriciosec.com/CHIP.html",
     "Cert_img": "https://university.cappriciosec.com/images/cert.svg",
     "What you'll learn": [
@@ -3354,17 +3603,17 @@
             "number": "04",
             "title": "Hardware confg",
             "duration": "02:19 min"
-           }
+          }
         ]
       },
-      {   "topic": " Sniffing & Reconnaissance",
-          "videos": [
+      {
+        "topic": " Sniffing & Reconnaissance",
+        "videos": [
           {
             "number": "05",
             "title": "Sniffing data",
             "duration": "09:34 min"
           },
-      
           {
             "number": "06",
             "title": "IoT Recon 01",
@@ -3392,8 +3641,9 @@
           }
         ]
       },
-      {   "topic": "Remote Exploitation & Tool Development",
-          "videos": [
+      {
+        "topic": "Remote Exploitation & Tool Development",
+        "videos": [
           {
             "number": "11",
             "title": "Critical remote attack IoT",
@@ -3403,11 +3653,12 @@
             "number": "12",
             "title": "Remote attack tool development",
             "duration": "02:03 min"
-           }
+          }
         ]
       },
-      {   "topic": "Real-World Proof of Concepts (PoCs)",
-          "videos": [
+      {
+        "topic": "Real-World Proof of Concepts (PoCs)",
+        "videos": [
           {
             "number": "13",
             "title": "PoC 01",
@@ -3418,20 +3669,30 @@
             "title": "PoC 02",
             "duration": "05:46 min"
           }
-          
         ]
       }
     ]
   },
-   "CSMM": {
+  "CSMM": {
     "title": "Certified Social Media & Mobile Hacking",
     "Tag": [
       "CyberSecurity",
-      "Coding","SocialEngineering", "Keylogger", "SessionHijacking", "BurpSuite", "Bruteforce", "Exploitation", "CyberAttack", "SpearPhishing","SocialMedia","Netcat","Phishing"
+      "Coding",
+      "SocialEngineering",
+      "Keylogger",
+      "SessionHijacking",
+      "BurpSuite",
+      "Bruteforce",
+      "Exploitation",
+      "CyberAttack",
+      "SpearPhishing",
+      "SocialMedia",
+      "Netcat",
+      "Phishing"
     ],
     "banner": "https://university.cappriciosecurities.com/android/images-new/COSM.webp",
     "Language": "தமிழ்",
-    "Short Description": "This course focuses on Offensive Social Media and Mobile Hacking", 
+    "Short Description": "This course focuses on Offensive Social Media and Mobile Hacking",
     "Description": "This course is aimed at beginners who want to learn hacking and pen testing from basics. After this course you will have good understanding of how to approach a machine and you can Develop your own methodology.",
     "Duration": "4h 33min",
     "preview": "https://youtu.be/OJIPT_course_preview_link",
@@ -3442,6 +3703,7 @@
     "offer price": 3500,
     "offer percentage": "25%",
     "PREREQUISITES": "Basic understanding of networking and HTTP. Familiarity with Linux is a plus.",
+    "Pay Now": "https://university.cappriciosec.com/payment/?cid=CSMM",
     "Enroll now": "https://university.cappriciosec.com/COSM.html",
     "Cert_img": "https://university.cappriciosec.com/images/cert.svg",
     "What you'll learn": [
@@ -3455,7 +3717,6 @@
       "Netcat (NC)",
       "System hacking",
       "real-world scenarios and tools"
-      
     ],
     "Mentor": {
       "name": "karthithehacker",
@@ -3482,11 +3743,12 @@
             "number": "03",
             "title": "HTML Basic 2",
             "duration": "09:07min"
-           }
+          }
         ]
       },
-      {   "topic": "Web Server Setup & Development",
-          "videos": [
+      {
+        "topic": "Web Server Setup & Development",
+        "videos": [
           {
             "number": "04",
             "title": "PHP Web Server Setup",
@@ -3509,8 +3771,9 @@
           }
         ]
       },
-      {   "topic": "PHP Backend Development",
-          "videos": [
+      {
+        "topic": "PHP Backend Development",
+        "videos": [
           {
             "number": "08",
             "title": "PHP Basic 1",
@@ -3526,16 +3789,16 @@
             "title": "PHP Basic 2",
             "duration": "06:30 min"
           },
-      
           {
             "number": "11",
             "title": "PHP Basic 3",
             "duration": "01:09 min"
-           }
+          }
         ]
       },
-      {   "topic": "Hosting & Deployment",
-          "videos": [
+      {
+        "topic": "Hosting & Deployment",
+        "videos": [
           {
             "number": "12",
             "title": "Setting up Server & Live Attack",
@@ -3555,11 +3818,12 @@
             "number": "15",
             "title": "About DNS Server",
             "duration": "04:10 min"
-           }
+          }
         ]
       },
-      {   "topic": "Social Engineering & Phishing Attacks",
-          "videos": [
+      {
+        "topic": "Social Engineering & Phishing Attacks",
+        "videos": [
           {
             "number": "16",
             "title": "Ways to Attack Social Account",
@@ -3629,11 +3893,12 @@
             "number": "29",
             "title": "Spear Phishing Attack",
             "duration": "05:00 min"
-           }
+          }
         ]
       },
-      {   "topic": "Keyloggers",
-          "videos": [
+      {
+        "topic": "Keyloggers",
+        "videos": [
           {
             "number": "30",
             "title": "Python Keylogger",
@@ -3648,11 +3913,12 @@
             "number": "32",
             "title": "Live Keylogger Attack",
             "duration": "03:39 min"
-           }
+          }
         ]
       },
-      {   "topic": "Session Hijacking",
-          "videos": [
+      {
+        "topic": "Session Hijacking",
+        "videos": [
           {
             "number": "33",
             "title": "About Session Attack",
@@ -3680,8 +3946,9 @@
           }
         ]
       },
-      {   "topic": "Email Spoofing & SPF",
-          "videos": [
+      {
+        "topic": "Email Spoofing & SPF",
+        "videos": [
           {
             "number": "38",
             "title": "IDN Attack",
@@ -3699,8 +3966,9 @@
           }
         ]
       },
-      {   "topic": "Burp Suite & Counter-Hacking (Defensive Security)",
-          "videos": [
+      {
+        "topic": "Burp Suite & Counter-Hacking (Defensive Security)",
+        "videos": [
           {
             "number": "41",
             "title": "Attacking the Attacker",
@@ -3743,8 +4011,9 @@
           }
         ]
       },
-      {   "topic": "Mobile Exploitation",
-          "videos": [
+      {
+        "topic": "Mobile Exploitation",
+        "videos": [
           {
             "number": "49",
             "title": "Mobile Attacking & Defending",
@@ -3802,8 +4071,9 @@
           }
         ]
       },
-      {   "topic": "Static IP Attacks & APK Deployment",
-          "videos": [
+      {
+        "topic": "Static IP Attacks & APK Deployment",
+        "videos": [
           {
             "number": "60",
             "title": "All about Static IP",
@@ -3828,11 +4098,12 @@
             "number": "64",
             "title": "Automated Android Hacking",
             "duration": "04:07 min"
-           }
+          }
         ]
       },
-      {   "topic": "ADB (Android Debug Bridge) Attacks",
-          "videos": [
+      {
+        "topic": "ADB (Android Debug Bridge) Attacks",
+        "videos": [
           {
             "number": "65",
             "title": "All about ADB",
@@ -3852,11 +4123,12 @@
             "number": "68",
             "title": "Hacking Android with IP",
             "duration": "04:56 min"
-           }
+          }
         ]
       },
-      {   "topic": "Netcat (NC) Attacks",
-          "videos": [
+      {
+        "topic": "Netcat (NC) Attacks",
+        "videos": [
           {
             "number": "69",
             "title": "All about NC",
@@ -3866,11 +4138,12 @@
             "number": "70",
             "title": "SLive NC Shell",
             "duration": "01:43 min"
-           }
+          }
         ]
       },
-      {   "topic": "Android Hacking (via Links & Python)",
-          "videos": [
+      {
+        "topic": "Android Hacking (via Links & Python)",
+        "videos": [
           {
             "number": "71",
             "title": "Hack Android with Link",
@@ -3890,10 +4163,20 @@
       }
     ]
   },
-  "CTDPJ"  : {
+  "CTDPJ": {
     "title": "Cyber Security Tool Development Using Python & Js",
     "Tag": [
-      "CyberSecurity","Linux","python", "Node.js", "BugBounty", "Automation", "Security", "PoC", "FileHandling", "CLI", "Scripting"
+      "CyberSecurity",
+      "Linux",
+      "python",
+      "Node.js",
+      "BugBounty",
+      "Automation",
+      "Security",
+      "PoC",
+      "FileHandling",
+      "CLI",
+      "Scripting"
     ],
     "banner": "https://university.cappriciosecurities.com/android/images-new/CTD.webp",
     "Language": "English",
@@ -3908,7 +4191,7 @@
     "offer price": 999,
     "offer percentage": "67%",
     "PREREQUISITES": "Basic PC/Laptop familiarity. No coding experience needed.",
-    "Pay Now": "https://university.cappriciosec.com/",
+    "Pay Now": "https://university.cappriciosec.com/payment/?cid=CTDPJ",
     "Enroll now": "https://university.cappriciosec.com/CTD.html",
     "Cert_img": "https://university.cappriciosec.com/images/cert.svg",
     "What you'll learn": [
@@ -3919,7 +4202,7 @@
       "Build simple hacking tools",
       "CLI (Command Line Interface) Development",
       "Node.js",
-      "Proof of Concept (PoC) "  
+      "Proof of Concept (PoC) "
     ],
     "Mentor": {
       "name": "karthithehacker",
@@ -4071,7 +4354,7 @@
             "number": "26",
             "title": "NodeJs Solving errors",
             "duration": "03:27 min"
-           }
+          }
         ]
       },
       {
@@ -4126,10 +4409,19 @@
       }
     ]
   },
-  "CPPI" : {
+  "CPPI": {
     "title": "Certified Physical Device Pen-Testing & IOT Hacking",
     "Tag": [
-      "CyberSecurity","IoT Pentesting", "IoT Security", "hardware Hacking","Sniffing","Reconnaissance","FM Hacking", "Embedded Systems", "Network Protocols", "Offensive Security"
+      "CyberSecurity",
+      "IoT Pentesting",
+      "IoT Security",
+      "hardware Hacking",
+      "Sniffing",
+      "Reconnaissance",
+      "FM Hacking",
+      "Embedded Systems",
+      "Network Protocols",
+      "Offensive Security"
     ],
     "banner": "https://university.cappriciosecurities.com/android/images-new/CYPT.webp",
     "Language": "தமிழ்",
@@ -4144,7 +4436,7 @@
     "offer price": 699,
     "offer percentage": "85%",
     "PREREQUISITES": "Basic PC/Laptop familiarity. No coding experience needed.",
-    "Pay Now": "https://university.cappriciosec.com/",
+    "Pay Now": "https://university.cappriciosec.com/payment/?cid=CPPI",
     "Enroll now": "https://university.cappriciosec.com/CPPI.html",
     "Cert_img": "https://university.cappriciosec.com/images/cert.svg",
     "What you'll learn": [
@@ -4165,10 +4457,9 @@
       "description": "👨‍🏫 Meet Your Mentor: Karthikeyan V (a.k.a. Karthithehacker) Karthikeyan V is a renowned ethical hacker, cybersecurity researcher, and the founder of Cappricio Securities, a company dedicated to practical cybersecurity education. With a track record of reporting vulnerabilities in top platforms like Google, Pinterest, Android OS, and Upwork, he brings real-world experience directly into the classroom. He is the creator of several popular open-source security tools including Gh0stR3c0n, CRLFi, and Poseidon. His expertise ranges from bug bounty hunting and OSINT to advanced penetration testing and red teaming. Karthikeyan is also a popular cybersecurity content creator, known for breaking down complex topics in Tamil, making learning accessible to a wider audience. Despite coming from a modest background, his journey from a self-taught hacker to an industry leader has inspired thousands. As your mentor for the CEHPT course, he focuses on hands-on training, real-time attack simulations, and helping students develop the mindset of a professional ethical hacker. 🔐 “In this course, I won’t just teach you tools — I’ll show you how to think like a hacker.” — Karthikeyan V"
     },
     "content": [
-          {
+      {
         "topic": "Environment Setup",
         "videos": [
-        
           {
             "number": "01",
             "title": "About mentor",
@@ -4188,7 +4479,7 @@
             "number": "04",
             "title": "Hardware confg",
             "duration": "02:19 min"
-           }
+          }
         ]
       },
       {
@@ -4199,7 +4490,6 @@
             "title": "Sniffing data",
             "duration": "09:34 min"
           },
-    
           {
             "number": "06",
             "title": "IoT Recon 01",
@@ -4230,7 +4520,6 @@
             "title": "IoT exploit Development",
             "duration": "05:15 min"
           },
-    
           {
             "number": "11",
             "title": "Critical remote attack IoT",
@@ -4255,7 +4544,7 @@
             "number": "14",
             "title": "PoC 02",
             "duration": "05:46 min"
-           }
+          }
         ]
       },
       {

@@ -1,0 +1,34 @@
+{
+  "web" {
+        "title": "Cyber Security & Ethical Hacking Workshop",
+        "Tag": ["Cyber Security", "Ethical Hacking", "Workshop", "Beginner"],
+        "banner": "https://example.com/course-banner.jpg",
+        "Language": "English",
+        "Short Description": "Learn the basics of cybersecurity and ethical hacking in a 2-day workshop.",
+        "Description": "This workshop by Cappriciosec University introduces you to the world of cybersecurity. It covers Linux basics, Python scripting for hacking, social media exploitation techniques, password cracking methods, and web application penetration testing. Bonus modules include ATM card cloning and FM radio hacking.",
+        "Duration": "2 Days",
+        "Access": "Lifetime access",
+        "Starts": "2025-06-20",
+        "students enrolled count": 1200,
+        "price": 1999,
+        "offer price": 999,
+        "offer percentage": 50,
+        "PREREQUISITES": [
+          "Basic computer knowledge",
+          "Interest in cybersecurity",
+          "No programming experience required"
+        ],
+        "Pay Now": "https://example.com/pay-now",
+        "Enroll now": "https://example.com/enroll-now",
+        "Cert_img": "https://example.com/certificate-preview.png",
+        "What you'll learn": [
+          "Introduction to Linux for Hackers",
+          "Python Programming Basics for Security",
+          "How Social Media Hacking Works",
+          "Password Cracking Techniques",
+          "Real-world Web Pentesting Techniques",
+          "ATM Card Cloning Concepts (for awareness only)",
+          "FM Radio Hacking (Bonus module)"
+        ]
+  }
+}

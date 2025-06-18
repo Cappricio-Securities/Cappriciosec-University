@@ -1,35 +1,49 @@
 {
   "web": {
-    "title": "Cyber Security & Ethical Hacking Workshop",
-    "Tag": ["Cyber Security", "Ethical Hacking", "Workshop", "Beginner"],
+    "title": "AI in Cybersecurity: 2-Day Practical Workshop",
+    "Tag": [
+      "Cyber Security",
+      "Ethical Hacking",
+      "Artificial Intelligence",
+      "Machine learning",
+      "Model Training",
+      "Password Cracking",
+      "Hands On",
+      "Workshop",
+      "Beginner"
+    ],
     "banner": "https://example.com/course-banner.jpg",
-    "Language": "English",
-    "Short Description": "Learn the basics of cybersecurity and ethical hacking in a 2-day workshop.",
-    "Description": "This workshop by Cappriciosec University introduces you to the world of cybersecurity. It covers Linux basics, Python scripting for hacking, social media exploitation techniques, password cracking methods, and web application penetration testing. Bonus modules include ATM card cloning and FM radio hacking.",
+    "Language": "தமிழ்",
+    "Short Description": "Join us for a 02 days practical workshop on AI in Cybersecurity!",
+    "Description": "Learn how Artificial Intelligence, Machine Learning, and Deep Learning are reshaping the way we detect threats, respond to attacks, and secure systems. We’ll cover the latest trends like AI-powered penetration testing, phishing detection tools, and real-world applications. Plus, get hands-on with a live coding session on detecting malicious URLs using AI. Perfect for students, cybersecurity enthusiasts, and professionals looking to stay ahead in the AI-driven security era. A soft copy of the certificate, along with the source code, datasets, and other resources, will be provided to all participants.",
     "Duration": "2 Days",
-    "Access": "Lifetime access",
-    "Starts": "2025-06-20",
+    "Access": "(5.00pm - 7.00pm) - 02 Hours",
+    "Starts": "2025-06-28",
     "students enrolled count": 1200,
-    "price": 1999,
-    "offer price": 999,
-    "offer percentage": 50,
+    "price": 599,
+    "offer price": 399,
+    "offer percentage": 33,
     "PREREQUISITES": [
       "Basic computer knowledge",
       "Interest in cybersecurity",
-      "No programming experience required"
+      "No programming experience required",
+      "Kali linux",
+      "Python, php, nodejs",
+      "Burpsuite",
+      "Ollama"
     ],
     "Pay Now": "https://example.com/pay-now",
     "Enroll now": "https://example.com/enroll-now",
     "Cert_img": "https://example.com/certificate-preview.png",
     "What you'll learn": [
-      "Introduction to Linux for Hackers",
+      "Introduction to Artificial Intelligence",
       "Python Programming Basics for Security",
       "How Social Media Hacking Works",
       "Password Cracking Techniques",
-      "Real-world Web Pentesting Techniques",
-      "ATM Card Cloning Concepts (for awareness only)",
-      "FM Radio Hacking (Bonus module)"
+      "Wifi Pentesting Techniques",
+      "AI Malicious URL Detector",
+      "Vibe Hacking",
+      "Kali GPT"
     ]
   }
 }
-

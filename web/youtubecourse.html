@@ -1,0 +1,731 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registration Successful - Cappriciosec University</title>
+    <style>
+        * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+    background: white
+    color: white;
+    overflow-x: hidden;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+/* Header Styles */
+.header {
+    background: rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(10px);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+    padding: 15px 0;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+}
+
+.header .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.logo i {
+    color: #10B981;
+    font-size: 24px;
+}
+
+.nav-menu {
+    display: flex;
+    gap: 30px;
+}
+
+.nav-link {
+    color: white;
+    text-decoration: none;
+    font-weight: 500;
+    transition: color 0.3s ease;
+}
+
+.nav-link:hover {
+    color: #10B981;
+}
+
+.google-play-btn {
+    background: #1F2937;
+    border: none;
+    padding: 8px 15px;
+    border-radius: 8px;
+    color: white;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    cursor: pointer;
+    transition: background 0.3s ease;
+}
+
+.google-play-btn:hover {
+    background: #374151;
+}
+
+.google-play-btn i {
+    font-size: 20px;
+}
+
+.google-play-btn span {
+    font-size: 10px;
+    line-height: 1.2;
+}
+
+/* Success Section */
+.success-section {
+    padding: 80px 0;
+    position: relative;
+}
+
+.success-content {
+    text-align: center;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+/* Success Animation */
+.success-animation {
+    margin-bottom: 40px;
+}
+
+.checkmark-circle {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    background: linear-gradient(45deg, #10B981, #059669);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    animation: scaleIn 0.8s ease-out;
+    box-shadow: 0 20px 40px rgba(16, 185, 129, 0.3);
+}
+
+.checkmark {
+    font-size: 50px;
+    color: white;
+    animation: checkmarkAppear 0.6s ease-out 0.3s both;
+}
+
+@keyframes scaleIn {
+    0% {
+        transform: scale(0);
+        opacity: 0;
+    }
+    50% {
+        transform: scale(1.1);
+    }
+    100% {
+        transform: scale(1);
+        opacity: 1;
+    }
+}
+
+@keyframes checkmarkAppear {
+    0% {
+        transform: scale(0);
+        opacity: 0;
+    }
+    100% {
+        transform: scale(1);
+        opacity: 1;
+    }
+}
+
+/* Typography */
+.success-title {
+    font-size: 3rem;
+    font-weight: 700;
+    margin-bottom: 20px;
+    background: linear-gradient(45deg, #FBBF24, #F59E0B);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+
+.success-subtitle {
+    font-size: 1.2rem;
+    margin-bottom: 50px;
+    opacity: 0.9;
+}
+
+/* Message Cards */
+.success-message {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 30px;
+    margin-bottom: 50px;
+}
+
+.message-card {
+    background: rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(10px);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    border-radius: 15px;
+    padding: 30px;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.message-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.2);
+}
+
+.card-icon {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    background: linear-gradient(45deg, #10B981, #059669);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+}
+
+.card-icon i {
+    font-size: 24px;
+    color: white;
+}
+
+.card-content {
+    text-align: left;
+}
+
+.card-content h3 {
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+    color: #FBBF24;
+}
+
+.card-content p {
+    opacity: 0.9;
+    line-height: 1.5;
+}
+
+/* Social Share */
+.social-share {
+    margin-bottom: 50px;
+}
+
+.social-share h3 {
+    font-size: 1.5rem;
+    margin-bottom: 25px;
+    color: #FBBF24;
+}
+
+.social-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.social-btn {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 15px 25px;
+    border: none;
+    border-radius: 10px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    text-decoration: none;
+}
+
+.social-btn.linkedin {
+    background: #0077B5;
+    color: white;
+}
+
+.social-btn.linkedin:hover {
+    background: #005885;
+    transform: translateY(-2px);
+}
+
+.social-btn.instagram {
+    background: linear-gradient(45deg, #E4405F, #C13584, #833AB4);
+    color: white;
+}
+
+.social-btn.instagram:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 10px 20px rgba(196, 53, 132, 0.3);
+}
+
+/* Next Steps */
+.next-steps {
+    margin-bottom: 50px;
+}
+
+.next-steps h3 {
+    font-size: 1.5rem;
+    margin-bottom: 30px;
+    color: #FBBF24;
+}
+
+.steps-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 25px;
+}
+
+.step-item {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    background: rgba(255, 255, 255, 0.05);
+    padding: 25px;
+    border-radius: 12px;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.step-number {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background: linear-gradient(45deg, #10B981, #059669);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 700;
+    flex-shrink: 0;
+}
+
+.step-content {
+    text-align: left;
+}
+
+.step-content h4 {
+    margin-bottom: 8px;
+    color: #FBBF24;
+}
+
+.step-content p {
+    opacity: 0.8;
+    font-size: 0.9rem;
+}
+
+/* Action Buttons */
+.action-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.btn-primary, .btn-secondary {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 15px 30px;
+    border: none;
+    border-radius: 10px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    text-decoration: none;
+    font-size: 1rem;
+}
+
+.btn-primary {
+    background: linear-gradient(45deg, #10B981, #059669);
+    color: white;
+}
+
+.btn-primary:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 10px 20px rgba(16, 185, 129, 0.3);
+}
+
+.btn-secondary {
+    background: rgba(255, 255, 255, 0.1);
+    color: white;
+    border: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+.btn-secondary:hover {
+    background: rgba(255, 255, 255, 0.2);
+    transform: translateY(-2px);
+}
+
+/* Floating Particles */
+.particles {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+    z-index: -1;
+}
+
+.particle {
+    position: absolute;
+    width: 4px;
+    height: 4px;
+    background: rgba(255, 255, 255, 0.3);
+    border-radius: 50%;
+    animation: float 6s ease-in-out infinite;
+}
+
+.particle:nth-child(1) {
+    top: 20%;
+    left: 10%;
+    animation-delay: 0s;
+}
+
+.particle:nth-child(2) {
+    top: 60%;
+    left: 80%;
+    animation-delay: 2s;
+}
+
+.particle:nth-child(3) {
+    top: 80%;
+    left: 20%;
+    animation-delay: 4s;
+}
+
+.particle:nth-child(4) {
+    top: 30%;
+    left: 70%;
+    animation-delay: 1s;
+}
+
+.particle:nth-child(5) {
+    top: 70%;
+    left: 50%;
+    animation-delay: 3s;
+}
+
+@keyframes float {
+    0%, 100% {
+        transform: translateY(0px) rotate(0deg);
+        opacity: 0.3;
+    }
+    50% {
+        transform: translateY(-20px) rotate(180deg);
+        opacity: 0.8;
+    }
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .header .container {
+        flex-direction: column;
+        gap: 15px;
+    }
+    
+    .nav-menu {
+        gap: 20px;
+    }
+    
+    .success-title {
+        font-size: 2rem;
+    }
+    
+    .success-subtitle {
+        font-size: 1rem;
+    }
+    
+    .message-card {
+        flex-direction: column;
+        text-align: center;
+    }
+    
+    .card-content {
+        text-align: center;
+    }
+    
+    .step-item {
+        flex-direction: column;
+        text-align: center;
+    }
+    
+    .step-content {
+        text-align: center;
+    }
+    
+    .action-buttons {
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .btn-primary, .btn-secondary {
+        width: 100%;
+        max-width: 300px;
+        justify-content: center;
+    }
+}
+    </style>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!-- Header -->
+    
+
+    <!-- Success Section -->
+    <section class="success-section">
+        <div class="container">
+            <div class="success-content">
+                <div class="success-animation">
+                    <div class="checkmark-circle">
+                        <i class="fas fa-check checkmark"></i>
+                    </div>
+                </div>
+                
+                <h1 class="success-title">Registration Successful!</h1>
+                <p class="success-subtitle">Congratulations! You're now part of the Cappriciosec University community.</p>
+                
+                <div class="success-message">
+                    <div class="message-card">
+                        <div class="card-icon">
+                            <i class="fas fa-certificate"></i>
+                        </div>
+                        <div class="card-content">
+                            <h3>Certificate Information</h3>
+                            <p>Check your email for your certificate details and course access information.</p>
+                        </div>
+                    </div>
+                    
+                    <div class="message-card">
+                        <div class="card-icon">
+                            <i class="fas fa-share-alt"></i>
+                        </div>
+                        <div class="card-content">
+                            <h3>Share Your Achievement</h3>
+                            <p>Don't forget to share your success on LinkedIn and Instagram to inspire others!</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="social-share">
+                    <h3>Share on Social Media</h3>
+                    <div class="social-buttons">
+                        <button class="social-btn linkedin" onclick="shareOnLinkedIn()">
+                            <i class="fab fa-linkedin-in"></i>
+                            <span>Share on LinkedIn</span>
+                        </button>
+                        <button class="social-btn instagram" onclick="shareOnInstagram()">
+                            <i class="fab fa-instagram"></i>
+                            <span>Share on Instagram</span>
+                        </button>
+                    </div>
+                </div>
+
+        
+
+              
+            </div>
+        </div>
+    </section>
+
+    <!-- Floating Particles -->
+   
+
+    <script>
+        // Animation on page load
+document.addEventListener('DOMContentLoaded', function() {
+    // Add entrance animations to elements
+    const elements = document.querySelectorAll('.message-card, .step-item');
+    
+    elements.forEach((element, index) => {
+        element.style.opacity = '0';
+        element.style.transform = 'translateY(30px)';
+        
+        setTimeout(() => {
+            element.style.transition = 'all 0.6s ease';
+            element.style.opacity = '1';
+            element.style.transform = 'translateY(0)';
+        }, 500 + (index * 200));
+    });
+    
+    // Add floating animation to particles
+    createFloatingParticles();
+});
+
+// Social sharing functions
+function shareOnLinkedIn() {
+    const text = "🎉 Excited to announce that I've successfully registered for a cybersecurity course at Cappriciosec University! Ready to kickstart my cybersecurity career and lead the way to secure our digital world. 🔐💻 #Cybersecurity #Learning #CareerGrowth #CappriciosecUniversity";
+    const url = "https://university.cappriciosec.com/";
+    const linkedInUrl = `https://www.linkedin.com/sharing/share-offsite/?url=${encodeURIComponent(url)}&summary=${encodeURIComponent(text)}`;
+    
+    window.open(linkedInUrl, '_blank', 'width=600,height=400');
+}
+
+function shareOnInstagram() {
+    // Instagram doesn't support direct URL sharing, so we'll copy text to clipboard
+    const text = "🎉 Just registered for a cybersecurity course at Cappriciosec University! Ready to kickstart my cybersecurity career 🔐💻 #Cybersecurity #Learning #CareerGrowth #CappriciosecUniversity";
+    
+    if (navigator.clipboard) {
+        navigator.clipboard.writeText(text).then(() => {
+            showNotification('Text copied to clipboard! You can now paste it on Instagram.');
+        });
+    } else {
+        // Fallback for older browsers
+        const textArea = document.createElement('textarea');
+        textArea.value = text;
+        document.body.appendChild(textArea);
+        textArea.select();
+        document.execCommand('copy');
+        document.body.removeChild(textArea);
+        showNotification('Text copied to clipboard! You can now paste it on Instagram.');
+    }
+}
+
+// Navigation functions
+function goToDashboard() {
+    // Simulate navigation to dashboard
+    showNotification('Redirecting to your dashboard...');
+    setTimeout(() => {
+        window.location.href = '#dashboard'; // Replace with actual dashboard URL
+    }, 1500);
+}
+
+function goToHome() {
+    // Navigate to home page
+    window.location.href = 'https://university.cappriciosec.com/';
+}
+
+// Notification system
+function showNotification(message) {
+    // Create notification element
+    const notification = document.createElement('div');
+    notification.className = 'notification';
+    notification.innerHTML = `
+        <i class="fas fa-check-circle"></i>
+        <span>${message}</span>
+    `;
+    
+    // Add notification styles
+    notification.style.cssText = `
+        position: fixed;
+        top: 20px;
+        right: 20px;
+        background: linear-gradient(45deg, #10B981, #059669);
+        color: white;
+        padding: 15px 20px;
+        border-radius: 10px;
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        z-index: 1000;
+        animation: slideIn 0.3s ease;
+        box-shadow: 0 10px 20px rgba(16, 185, 129, 0.3);
+    `;
+    
+    // Add animation keyframes
+    if (!document.querySelector('#notification-styles')) {
+        const style = document.createElement('style');
+        style.id = 'notification-styles';
+        style.textContent = `
+            @keyframes slideIn {
+                from {
+                    transform: translateX(100%);
+                    opacity: 0;
+                }
+                to {
+                    transform: translateX(0);
+                    opacity: 1;
+                }
+            }
+            @keyframes slideOut {
+                from {
+                    transform: translateX(0);
+                    opacity: 1;
+                }
+                to {
+                    transform: translateX(100%);
+                    opacity: 0;
+                }
+            }
+        `;
+        document.head.appendChild(style);
+    }
+    
+    document.body.appendChild(notification);
+    
+    // Remove notification after 3 seconds
+    setTimeout(() => {
+        notification.style.animation = 'slideOut 0.3s ease';
+        setTimeout(() => {
+            if (notification.parentNode) {
+                notification.parentNode.removeChild(notification);
+            }
+        }, 300);
+    }, 3000);
+}
+
+// Create floating particles effect
+function createFloatingParticles() {
+    const particlesContainer = document.querySelector('.particles');
+    
+    // Add more particles dynamically
+    for (let i = 0; i < 10; i++) {
+        const particle = document.createElement('div');
+        particle.className = 'particle';
+        particle.style.left = Math.random() * 100 + '%';
+        particle.style.top = Math.random() * 100 + '%';
+        particle.style.animationDelay = Math.random() * 6 + 's';
+        particle.style.animationDuration = (Math.random() * 4 + 4) + 's';
+        particlesContainer.appendChild(particle);
+    }
+}
+
+// Add smooth scrolling for any internal links
+document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+    anchor.addEventListener('click', function (e) {
+        e.preventDefault();
+        const target = document.querySelector(this.getAttribute('href'));
+        if (target) {
+            target.scrollIntoView({
+                behavior: 'smooth',
+                block: 'start'
+            });
+        }
+    });
+});
+
+// Add hover effects to buttons
+document.querySelectorAll('.btn-primary, .btn-secondary, .social-btn').forEach(button => {
+    button.addEventListener('mouseenter', function() {
+        this.style.transform = 'translateY(-2px)';
+    });
+    
+    button.addEventListener('mouseleave', function() {
+        this.style.transform = 'translateY(0)';
+    });
+});
+    </script>
+</body>
+</html>

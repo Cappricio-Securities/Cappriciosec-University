@@ -1,0 +1,45 @@
+{
+  "Wifi": {
+    "title": "Certified WiFi Pentesting 101 (Deauth, Spam, and Captive Portal)",
+    "Tag": [
+      "Cyber Security",
+      "Ethical Hacking",
+      "WiFi Hacking",
+      "WiFi Pentesting Learning",
+      "Deauthentication Attack",
+      "Evil Twin",
+      "Hands-On Workshop",
+      "Beginner"
+    ],
+    "banner": "https://karthithehacker.com/blog/images/all-in-one-wifi-hacking-tool.png",
+    "Language": "தமிழ்",
+    "Short Description": "Join us for a practical workshop on WiFi Hacking & Pentesting!",
+    "Description": "Master the art of WiFi hacking in this beginner-friendly  workshop. You'll learn real-world techniques such as Deauthentication attacks, WiFi spam, Evil Twin attacks, and Captive Portal exploitation. This hands-on course is designed for students, cybersecurity enthusiasts, and ethical hackers looking to enhance their wireless pentesting skills. All participants will receive a soft copy of the certificate, course toolkit, and training materials.",
+    "Duration": "Life Time",
+    "Access": "24/7",
+    "Starts": "2025-07-07",
+    "students enrolled count": 1200,
+    "price": 599,
+    "offer price": free,
+    "offer percentage": 100,
+    "PREREQUISITES": [
+      "Basic computer knowledge",
+      "Interest in cybersecurity",
+      "No programming experience required",
+      "Kali Linux (pre-installed recommended)",
+      "WiFi Adapter (Monitor Mode supported)",
+      "Linux Terminal Basics",
+      "Curiosity to learn"
+    ],
+    "What you'll learn": [
+      "Basics of WiFi Communication and Encryption",
+      "How to Set Up Kali Linux for WiFi Pentesting",
+      "Deauthentication (Deauth) Attack using Tools",
+      "Creating Captive Portals for Credential Harvesting",
+      "Evil Twin Attack Setup and Execution",
+      "WiFi Spam using Beacon Flooding",
+      "How to Stay Anonymous During Attacks",
+      "Ethical Usage and Legal Boundaries of Wireless Hacking"
+    ]
+  }
+}

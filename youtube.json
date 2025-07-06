@@ -20,7 +20,7 @@
     "Starts": "2025-07-07",
     "students enrolled count": 1200,
     "price": 599,
-    "offer price": free,
+    "offer price": "free",
     "offer percentage": 100,
     "PREREQUISITES": [
       "Basic computer knowledge",

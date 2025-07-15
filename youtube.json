@@ -14,7 +14,7 @@
     "banner": "https://university.cappriciosec.com//free_courses/images/wifihacker.png",
     "Language": "தமிழ்",
     "Short Description": "Join us for a practical workshop on WiFi Hacking & Pentesting!",
-    "Description": "Master the art of WiFi hacking in this beginner-friendly  workshop. You'll learn real-world techniques such as Deauthentication attacks, WiFi spam, Evil Twin attacks, and Captive Portal exploitation. This hands-on course is designed for students, cybersecurity enthusiasts, and ethical hackers looking to enhance their wireless pentesting skills. All participants will receive a soft copy of the certificate, course toolkit, and training materials.",
+    "Description": "Master the art of WiFi hacking in this beginner-friendly workshop. You'll learn real-world techniques such as Deauthentication attacks, WiFi spam, Evil Twin attacks, and Captive Portal exploitation. This hands-on course is designed for students, cybersecurity enthusiasts, and ethical hackers looking to enhance their wireless pentesting skills. All participants will receive a soft copy of the certificate, course toolkit, and training materials.",
     "Duration": "Life Time",
     "Access": "24/7",
     "Starts": "2025-07-07",
@@ -40,6 +40,45 @@
       "WiFi Spam using Beacon Flooding",
       "How to Stay Anonymous During Attacks",
       "Ethical Usage and Legal Boundaries of Wireless Hacking"
+    ]
+  },
+  "Cybersecurity-Career-Webinar-101": {
+    "title": "Certified Cybersecurity Career Webinar 101 (Job Roles, Skills & Industry Requirements)",
+    "Tag": [
+      "Cyber Security",
+      "Ethical Hacking",
+      "Cybersecurity Career",
+      "Job Roles in Cybersecurity",
+      "Cyber Certifications",
+      "Beginner Friendly",
+      "CappricioSec Webinar"
+    ],
+    "banner": "https://university.cappriciosec.com/webinar/images/cybersecurity_career_webinar.png",
+    "Language": "English",
+    "Short Description": "Understand cybersecurity job roles, required skills, and roadmap in this career-focused webinar.",
+    "Description": "This free beginner-friendly webinar, conducted by CappricioSec University, will help you explore the various job roles in cybersecurity and understand the skills, tools, and certifications required to enter or switch to this booming industry. Learn from G.A. Harini (CBO, Cappricio Securities) as she breaks down the career roadmap, hiring expectations, and learning resources. All attendees will receive a soft copy of the certificate after completion.",
+    "Duration": "Life Time",
+    "Access": "24/7",
+    "Starts": "2025-07-15",
+    "students enrolled count": 1600,
+    "price": 299,
+    "offer price": "free",
+    "offer percentage": 100,
+    "PREREQUISITES": [
+      "Interest in cybersecurity",
+      "No prior experience required",
+      "Willingness to learn and explore",
+      "Basic understanding of computers"
+    ],
+    "What you'll learn": [
+      "Cybersecurity Domains & Fundamentals",
+      "Career Roadmap for Beginners",
+      "Cybersecurity Job Roles (SOC Analyst, Pen Tester, etc.)",
+      "Top Certifications and When to Pursue Them",
+      "Essential Tools & Skills for Each Role",
+      "How to Build a Strong Cybersecurity Resume",
+      "LinkedIn Profile Tips for Cyber Aspirants",
+      "Resources to Start Practicing"
     ]
   }
 }

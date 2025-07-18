@@ -1,0 +1,248 @@
+{
+ "CTDPJ": {
+    "title": "Cyber Security Tool Development Using Python & Js",
+    "Tag": [
+      "CyberSecurity",
+      "Linux",
+      "python",
+      "Node.js",
+      "BugBounty",
+      "Automation",
+      "Security",
+      "PoC",
+      "FileHandling",
+      "CLI",
+      "Scripting"
+    ],
+    "banner": "https://university.cappriciosecurities.com/android/images-new/CTD.webp",
+    "Language": "English",
+    "Short Description": "This course focuses on CLI Tool DEvelopment Using Python & Js.",
+    "Description": "In this course, you will learn to develop powerful CLI tools for cybersecurity using Python and Node.js. This hands-on program focuses on building command-line applications tailored for penetration testing, vulnerability assessment, and automation in security workflows.",
+    "Duration": "3h 50min",
+    "preview": "https://youtu.be/BLwR_YOCpzA?si=QHWCDG7zTb3WipAs",
+    "Access": "lifetime",
+    "Starts": 4.9,
+    "students enrolled count": 201,
+    "price": 3000,
+    "offer price": 999,
+    "offer percentage": "67%",
+    "PREREQUISITES": "Basic PC/Laptop familiarity. No coding experience needed.",
+    "Pay Now": "https://university.cappriciosec.com/payment/?cid=CTDPJ",
+    "Enroll now": "https://university.cappriciosec.com/CTD.html",
+    "Cert_img": "https://university.cappriciosec.com/images/cert.svg",
+    "What you'll learn": [
+      "Linux Basics with Python",
+      "Python Programming",
+      "Interact with the OS",
+      "HTTP requests",
+      "Build simple hacking tools",
+      "CLI (Command Line Interface) Development",
+      "Node.js",
+      "Proof of Concept (PoC) "
+    ],
+    "Mentor": {
+      "name": "karthithehacker",
+      "title": "Founder and CEO of Cappricio Securities , Ethical Hacker, Cybersecurity Researcher",
+      "url": "https://karthithehacker.com/",
+      "image": "https://avatars.githubusercontent.com/u/33289300?v=4",
+      "description": "👨‍🏫 Meet Your Mentor: Karthikeyan V (a.k.a. Karthithehacker) Karthikeyan V is a renowned ethical hacker, cybersecurity researcher, and the founder of Cappricio Securities, a company dedicated to practical cybersecurity education. With a track record of reporting vulnerabilities in top platforms like Google, Pinterest, Android OS, and Upwork, he brings real-world experience directly into the classroom. He is the creator of several popular open-source security tools including Gh0stR3c0n, CRLFi, and Poseidon. His expertise ranges from bug bounty hunting and OSINT to advanced penetration testing and red teaming. Karthikeyan is also a popular cybersecurity content creator, known for breaking down complex topics in Tamil, making learning accessible to a wider audience. Despite coming from a modest background, his journey from a self-taught hacker to an industry leader has inspired thousands. As your mentor for the CEHPT course, he focuses on hands-on training, real-time attack simulations, and helping students develop the mindset of a professional ethical hacker. 🔐 “In this course, I won’t just teach you tools — I’ll show you how to think like a hacker.” — Karthikeyan V"
+    },
+    "content": [
+      {
+        "topic": "Linux(Basic Python for Cybersecurity Foundation)",
+        "videos": [
+          {
+            "number": "01",
+            "title": "Python for Cyber Security",
+            "duration": "04:07 min"
+          },
+          {
+            "number": "02",
+            "title": "Python I/O",
+            "duration": "06:35 min"
+          },
+          {
+            "number": "03",
+            "title": "Python Comments",
+            "duration": "04:39 min"
+          },
+          {
+            "number": "04",
+            "title": "Python Variables",
+            "duration": "05:05 min"
+          },
+          {
+            "number": "05",
+            "title": "Python Casting",
+            "duration": "06:02 min"
+          }
+        ]
+      },
+      {
+        "topic": "Python Programming (Core Python scripting concepts)",
+        "videos": [
+          {
+            "number": "06",
+            "title": "Python Types",
+            "duration": "03:45 min"
+          },
+          {
+            "number": "07",
+            "title": "Cli login app",
+            "duration": "09:11 min"
+          },
+          {
+            "number": "08",
+            "title": "Python while loop",
+            "duration": "04:47 min"
+          },
+          {
+            "number": "09",
+            "title": "Python for loop & array",
+            "duration": "05:20 min"
+          },
+          {
+            "number": "10",
+            "title": "Python def cli app",
+            "duration": "11:54 min"
+          },
+          {
+            "number": "11",
+            "title": "Python file operations",
+            "duration": "06:24 min"
+          },
+          {
+            "number": "12",
+            "title": "Python error handeling",
+            "duration": "09:23 min"
+          },
+          {
+            "number": "13",
+            "title": "Python arguments",
+            "duration": "04:42 min"
+          },
+          {
+            "number": "14",
+            "title": "Python OS calls",
+            "duration": "04:30 min"
+          },
+          {
+            "number": "15",
+            "title": "Python Http request",
+            "duration": "04:30 min"
+          },
+          {
+            "number": "16",
+            "title": "Python password cracking tool",
+            "duration": "19:02 min"
+          }
+        ]
+      },
+      {
+        "topic": "Node.js Development",
+        "videos": [
+          {
+            "number": "17",
+            "title": "Nodejs For Bugbounty",
+            "duration": "03:21 min"
+          },
+          {
+            "number": "18",
+            "title": "NodeJs Setup",
+            "duration": "04:27 min"
+          },
+          {
+            "number": "19",
+            "title": "Creating NodeJs CLI app 1",
+            "duration": "13:40 min"
+          },
+          {
+            "number": "20",
+            "title": "Creating NodeJs CLI app 2",
+            "duration": "18:08 min"
+          },
+          {
+            "number": "21",
+            "title": "Creating NodeJs CLI app 3",
+            "duration": "07:25 min"
+          },
+          {
+            "number": "22",
+            "title": "NodeJs File Operation I/O 1",
+            "duration": "14:24 min"
+          },
+          {
+            "number": "23",
+            "title": "NodeJs File Operation I/O 2",
+            "duration": "06:42 min"
+          },
+          {
+            "number": "24",
+            "title": "NodeJs with HTTP Request 1",
+            "duration": "16:24 min"
+          },
+          {
+            "number": "25",
+            "title": "NodeJs with HTTP Request 2",
+            "duration": "03:20 min"
+          },
+          {
+            "number": "26",
+            "title": "NodeJs Solving errors",
+            "duration": "03:27 min"
+          }
+        ]
+      },
+      {
+        "topic": "Bug Bounty & PoC",
+        "videos": [
+          {
+            "number": "27",
+            "title": "Understanding PoC",
+            "duration": "02:51 min"
+          },
+          {
+            "number": "28",
+            "title": "(PoC) Open Redirect [Google]",
+            "duration": "01:34 min"
+          },
+          {
+            "number": "29",
+            "title": "(PoC) Open Redirect [Dutch Gov]",
+            "duration": "02:08 min"
+          },
+          {
+            "number": "30",
+            "title": "(PoC) Open Redirect [Uber]",
+            "duration": "02:53 min"
+          },
+          {
+            "number": "31",
+            "title": "(PoC) Open Redirect [SecNews]",
+            "duration": "02:04 min"
+          },
+          {
+            "number": "32",
+            "title": "(PoC) Open Redirect [Scotts]",
+            "duration": "02:38 min"
+          },
+          {
+            "number": "33",
+            "title": "(PoC) Open Redirect [Moralis]",
+            "duration": "02:37  min"
+          },
+          {
+            "number": "34",
+            "title": "(PoC) Open Redirect [Nl Gov]",
+            "duration": "01:50 min"
+          },
+          {
+            "number": "35",
+            "title": "(PoC) Open Redirect [Hey]",
+            "duration": "00:53 min"
+          }
+        ]
+      }
+    ]
+  }
+}

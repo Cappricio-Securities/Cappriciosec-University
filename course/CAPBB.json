@@ -1,0 +1,412 @@
+{
+ "CAPBB": {
+    "title": "Certified API Pentesting and Bug Bounty",
+    "Tag": [
+      "CyberSecurity",
+      "Bugbounty",
+      "Api",
+      "Coding",
+      "pentesting",
+      "Live Hacking",
+      "python",
+      "DNS",
+      "BOLA"
+    ],
+    "banner": "https://university.cappriciosecurities.com/android/images-new/capbb.webp",
+    "Language": "தமிழ்",
+    "Short Description": "Master API penetration testing techniques and bug bounty hunting skills with a certified course focused on real-world vulnerabilities, security best practices, and ethical hacking methodologies.",
+    "Description": "The Certified API Pentesting and Bug Bounty course is designed for cybersecurity enthusiasts and professionals aiming to specialize in API security. This course provides in-depth training on identifying, exploiting, and reporting API vulnerabilities using industry-standard tools and methodologies.",
+    "Duration": "22h 23min",
+    "price": 5500,
+    "offer price": 3500,
+    "offer percentage": "25%",
+    "Access": "lifetime",
+    "students enrolled count": 1324,
+    "PREREQUISITES": "Basic PC/Laptop familiarity. No coding experience needed.",
+    "Pay Now": "https://university.cappriciosec.com/payment/?cid=CAPBB",
+    "Enroll now": "https://university.cappriciosec.com/CAPBB.html",
+    "Cert_img": "https://university.cappriciosec.com/images/cert.svg",
+    "What you'll learn": [
+      "API Fundamentals",
+      "Install and configure API testing tools like Postman and Burp Suite",
+      "Use Swagger UI and CURL for testing and debugging APIs",
+      "FastAPI Development",
+      "Understand authorization and secure header practices",
+      "API Testing Techniques",
+      "OWASP API Vulnerabilities",
+      "Conduct blind injection, DNS exfiltration, and gain shell access",
+      "Insecure Deserialization",
+      "Rate Limiting and GraphQL",
+      "Understand and exploit CVE-2017-5487 in API contexts"
+    ],
+    "Mentor": {
+      "name": "karthithehacker",
+      "title": "Founder and CEO of Cappricio Securities , Ethical Hacker, Cybersecurity Researcher",
+      "url": "https://karthithehacker.com/",
+      "image": "https://avatars.githubusercontent.com/u/33289300?v=4",
+      "description": "👨‍🏫 Meet Your Mentor: Karthikeyan V (a.k.a. Karthithehacker) Karthikeyan V is a renowned ethical hacker, cybersecurity researcher, and the founder of Cappricio Securities, a company dedicated to practical cybersecurity education. With a track record of reporting vulnerabilities in top platforms like Google, Pinterest, Android OS, and Upwork, he brings real-world experience directly into the classroom. He is the creator of several popular open-source security tools including Gh0stR3c0n, CRLFi, and Poseidon. His expertise ranges from bug bounty hunting and OSINT to advanced penetration testing and red teaming. Karthikeyan is also a popular cybersecurity content creator, known for breaking down complex topics in Tamil, making learning accessible to a wider audience. Despite coming from a modest background, his journey from a self-taught hacker to an industry leader has inspired thousands. As your mentor for the CEHPT course, he focuses on hands-on training, real-time attack simulations, and helping students develop the mindset of a professional ethical hacker. 🔐 “In this course, I won’t just teach you tools — I’ll show you how to think like a hacker.” — Karthikeyan V"
+    },
+    "content": [
+      {
+        "topic": "Chapter 1: Introduction and Fundamentals",
+        "videos": [
+          {
+            "number": "01",
+            "title": "About Mentor",
+            "duration": "08:00 min"
+          },
+          {
+            "number": "02",
+            "title": "About API",
+            "duration": "24:40 min"
+          },
+          {
+            "number": "03",
+            "title": "About API",
+            "duration": "21:36 min"
+          }
+        ]
+      },
+      {
+        "topic": "Chapter 2: Environment and Tool Setup",
+        "videos": [
+          {
+            "number": "04",
+            "title": "Postman Installation",
+            "duration": "06:28 min"
+          },
+          {
+            "number": "05",
+            "title": "Burp-Suite",
+            "duration": "07:02 min"
+          },
+          {
+            "number": "06",
+            "title": "Understanding Burpsuite",
+            "duration": "10:15 min"
+          }
+        ]
+      },
+      {
+        "topic": "Chapter 3: FastAPI Development and Authentication",
+        "videos": [
+          {
+            "number": "07",
+            "title": "Fast API Setup and Hello World",
+            "duration": "10:09 min"
+          },
+          {
+            "number": "08",
+            "title": "FastAPI & SQL",
+            "duration": "14:35 min"
+          },
+          {
+            "number": "09",
+            "title": "FastAPI POST Handling & DB",
+            "duration": "22:40 min"
+          },
+          {
+            "number": "10",
+            "title": "FastAPI GET HTTP & Read DB",
+            "duration": "14:16 min"
+          },
+          {
+            "number": "11",
+            "title": "FastAPI PUT HTTP & Update DB 1",
+            "duration": "22:33 min"
+          },
+          {
+            "number": "12",
+            "title": "FastAPI PUT HTTP & Update DB 2",
+            "duration": "04:26 min"
+          },
+          {
+            "number": "13",
+            "title": "FastAPI DELETE HTTP & Delete DB",
+            "duration": "10:43 min"
+          },
+          {
+            "number": "14",
+            "title": "API Headers Authentication & Authorization",
+            "duration": "07:34 min"
+          },
+          {
+            "number": "15",
+            "title": "FastAPI HTTP Headers & Authentication",
+            "duration": "08:38 min"
+          }
+        ]
+      },
+      {
+        "topic": "Chapter 4: API Testing and Tools",
+        "videos": [
+          {
+            "number": "16",
+            "title": "Burpsuite & Postman",
+            "duration": "07:37 min"
+          },
+          {
+            "number": "17",
+            "title": "CURL Command and API CRUD 1",
+            "duration": "14:48 min"
+          },
+          {
+            "number": "18",
+            "title": "CURL Command and API CRUD 2",
+            "duration": "01:25 min"
+          },
+          {
+            "number": "19",
+            "title": "Swagger UI for API Testing",
+            "duration": "15:28 min"
+          },
+          {
+            "number": "20",
+            "title": "Creating API Collections",
+            "duration": "17:28 min"
+          },
+          {
+            "number": "21",
+            "title": "Postman Variables",
+            "duration": "12:11 min"
+          },
+          {
+            "number": "22",
+            "title": "API Authorization Basic Auth",
+            "duration": "12:57 min"
+          },
+          {
+            "number": "23",
+            "title": "API Parser for Burpsuite",
+            "duration": "04:24 min"
+          }
+        ]
+      },
+      {
+        "topic": "Chapter 5: BOLA and Initial Command Injection",
+        "videos": [
+          {
+            "number": "24",
+            "title": "OWASP BOLA Bug Understanding",
+            "duration": "14:47 min"
+          },
+          {
+            "number": "25",
+            "title": "BOLA Live Hacking 1",
+            "duration": "14:11 min"
+          },
+          {
+            "number": "26",
+            "title": "BOLA Live Hacking 2",
+            "duration": "11:38 min"
+          },
+          {
+            "number": "27",
+            "title": "BOLA Attack Bypass",
+            "duration": "06:27 min"
+          },
+          {
+            "number": "28",
+            "title": "BOLA Attack Secure Code Development",
+            "duration": "10:00 min"
+          }
+        ]
+      },
+      {
+        "topic": "Chapter 6: Advanced Command Injection",
+        "videos": [
+          {
+            "number": "29",
+            "title": "API Command Injection P1 Bug",
+            "duration": "10:23 min"
+          },
+          {
+            "number": "30",
+            "title": "API Command Injection Code Analysis",
+            "duration": "15:37 min"
+          },
+          {
+            "number": "31",
+            "title": "API Command Injection Attack",
+            "duration": "19:18 min"
+          },
+          {
+            "number": "32",
+            "title": "API Command Injection Secure Code Development",
+            "duration": "05:19 min"
+          },
+          {
+            "number": "33",
+            "title": "Blind Command Injection 1",
+            "duration": "16:02 min"
+          },
+          {
+            "number": "34",
+            "title": "Blind Command Injection 2",
+            "duration": "07:00 min"
+          },
+          {
+            "number": "35",
+            "title": "Blind Command Injection to File Stealing",
+            "duration": "10:33 min"
+          },
+          {
+            "number": "36",
+            "title": "Blind Command Injection DNS Exfiltration OOB",
+            "duration": "21:08 min"
+          },
+          {
+            "number": "37",
+            "title": "Gaining Shell from Command Injection",
+            "duration": "08:27 min"
+          }
+        ]
+      },
+      {
+        "topic": "Chapter 7: Insecure Deserialization and Eploit Development",
+        "videos": [
+          {
+            "number": "38",
+            "title": "OWASP API Insecure Deserialization",
+            "duration": "17:55 min"
+          },
+          {
+            "number": "39",
+            "title": "Python Class & Object Coding",
+            "duration": "09:23 min"
+          },
+          {
+            "number": "40",
+            "title": "Python Serialization & Deserialization",
+            "duration": "06:20 min"
+          },
+          {
+            "number": "41",
+            "title": "Insecure Deserialization Exploit Development",
+            "duration": "12:45 min"
+          },
+          {
+            "number": "42",
+            "title": "IDOR via Insecure Deserialization 1",
+            "duration": "20:01 min"
+          }
+        ]
+      },
+      {
+        "topic": "Chapter 8: Insecure Deserialization and Rate Limiting",
+        "videos": [
+          {
+            "number": "43",
+            "title": "IDOR via Insecure Deserialization 2",
+            "duration": "14:12 min"
+          },
+          {
+            "number": "44",
+            "title": "Insecure Deserialization Exploitation",
+            "duration": "12:20 min"
+          },
+          {
+            "number": "45",
+            "title": "About No Rate Limiting in API",
+            "duration": "07:36 min"
+          },
+          {
+            "number": "46",
+            "title": "About GraphQL",
+            "duration": "06:27 min"
+          },
+          {
+            "number": "47",
+            "title": "No Rate Limiting in API Live Attack",
+            "duration": "25:18 min"
+          },
+          {
+            "number": "48",
+            "title": "Exploit Development for Rate Limiting",
+            "duration": "08:36 min"
+          }
+        ]
+      },
+      {
+        "topic": "Chapter 9: Authentication, Session Management, and CVE-2017-5487",
+        "videos": [
+          {
+            "number": "49",
+            "title": "About CVE-2017-5487 in API",
+            "duration": "04:10 min"
+          },
+          {
+            "number": "50",
+            "title": "Exploitation of CVE-2017-5487",
+            "duration": "04:50 min"
+          },
+          {
+            "number": "51",
+            "title": "OWASP Broken Authentication",
+            "duration": "10:01 min"
+          },
+          {
+            "number": "52",
+            "title": "About Session Management Attack",
+            "duration": "10:00 min"
+          },
+          {
+            "number": "53",
+            "title": "Practical Session Management",
+            "duration": "06:34 min"
+          },
+          {
+            "number": "54",
+            "title": "Secure Code Development for Session Management",
+            "duration": "15:29 min"
+          }
+        ]
+      },
+      {
+        "topic": "Chapter 10: Path Traversal, Data Exposure, ReDoS, and Secure Coding",
+        "videos": [
+          {
+            "number": "55",
+            "title": "About Path Traversal Bug",
+            "duration": "04:43 min"
+          },
+          {
+            "number": "56",
+            "title": "Practical Path Traversal Bug",
+            "duration": "07:47 min"
+          },
+          {
+            "number": "57",
+            "title": "Secure Code Development for Path Traversal",
+            "duration": "07:32 min"
+          },
+          {
+            "number": "58",
+            "title": "API Excessive Data Exposure",
+            "duration": "04:07 min"
+          },
+          {
+            "number": "59",
+            "title": "Practical API Excessive Data Exposure",
+            "duration": "08:10 min"
+          },
+          {
+            "number": "60",
+            "title": "About Regular Expression DoS Attack",
+            "duration": "04:38 min"
+          },
+          {
+            "number": "61",
+            "title": "Regular Expression DoS Attack 1",
+            "duration": "05:41 min"
+          },
+          {
+            "number": "62",
+            "title": "Regular Expression DoS Attack 2",
+            "duration": "08:01 min"
+          }
+        ]
+      }
+    ]
+  }
+}

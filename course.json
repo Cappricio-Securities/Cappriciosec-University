@@ -1,16 +1,16 @@
 {
   "Course": [
-    "CEHPT",
-    "OJIPT",
-    "CAPBB",
-    "CMABP",
-    "CCI",
-    "CHID",
-    "CWBP",
-    "CSMM",
-    "CHIP",
-    "CTDPJ",
-    "CPPI"
+    "https://raw.githubusercontent.com/Cappricio-Securities/Cappriciosec-University/refs/heads/main/course/CAPBB.json",
+    "https://raw.githubusercontent.com/Cappricio-Securities/Cappriciosec-University/refs/heads/main/course/CCI.json",
+    "https://raw.githubusercontent.com/Cappricio-Securities/Cappriciosec-University/refs/heads/main/course/CEHPT.json",
+    "https://raw.githubusercontent.com/Cappricio-Securities/Cappriciosec-University/refs/heads/main/course/CHID.json",
+    "https://raw.githubusercontent.com/Cappricio-Securities/Cappriciosec-University/refs/heads/main/course/CHIP.json",
+    "https://raw.githubusercontent.com/Cappricio-Securities/Cappriciosec-University/refs/heads/main/course/CMABP.json",
+    "https://raw.githubusercontent.com/Cappricio-Securities/Cappriciosec-University/refs/heads/main/course/CPPI.json",
+    "https://raw.githubusercontent.com/Cappricio-Securities/Cappriciosec-University/refs/heads/main/course/CSMM.json",
+    "https://raw.githubusercontent.com/Cappricio-Securities/Cappriciosec-University/refs/heads/main/course/CTDPJ.json",
+    "https://raw.githubusercontent.com/Cappricio-Securities/Cappriciosec-University/refs/heads/main/course/CWBP.json",
+    "https://raw.githubusercontent.com/Cappricio-Securities/Cappriciosec-University/refs/heads/main/course/OJIPT.json"
   ],
   "CEHPT": {
     "title": "Certified Ethical Hacking & Penetration Testing",

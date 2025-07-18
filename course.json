@@ -12,6 +12,19 @@
     "https://raw.githubusercontent.com/Cappricio-Securities/Cappriciosec-University/refs/heads/main/course/CWBP.json",
     "https://raw.githubusercontent.com/Cappricio-Securities/Cappriciosec-University/refs/heads/main/course/OJIPT.json"
   ],
+  "CID": [
+    "CAPBB",
+    "CCI",
+    "CEHPT",
+    "CHID",
+    "CHIP",
+    "CMABP",
+    "CPPI",
+    "CSMM",
+    "CTDPJ",
+    "CWBP",
+    "OJIPT"
+  ],
   "CEHPT": {
     "title": "Certified Ethical Hacking & Penetration Testing",
     "Tag": [

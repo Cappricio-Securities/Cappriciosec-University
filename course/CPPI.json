@@ -1,0 +1,162 @@
+{
+ "CPPI": {
+    "title": "Certified Physical Device Pen-Testing & IOT Hacking",
+    "Tag": [
+      "CyberSecurity",
+      "IoT Pentesting",
+      "IoT Security",
+      "hardware Hacking",
+      "Sniffing",
+      "Reconnaissance",
+      "FM Hacking",
+      "Embedded Systems",
+      "Network Protocols",
+      "Offensive Security"
+    ],
+    "banner": "https://university.cappriciosecurities.com/android/images-new/CYPT.webp",
+    "Language": "தமிழ்",
+    "Short Description": "this Course is focusing on how to hack real-world devices and secure it.",
+    "Description": "This course is designed to focus on Physical Device Pen-Testing & IOT Hacking.It focuses on how to hack real-world devices and secure it.",
+    "Duration": "1h 36min",
+    "preview": "https://youtu.be/BLwR_YOCpzA?si=QHWCDG7zTb3WipAs",
+    "Access": "lifetime",
+    "Starts": 4.7,
+    "students enrolled count": 1324,
+    "price": 3000,
+    "offer price": 699,
+    "offer percentage": "85%",
+    "PREREQUISITES": "Basic PC/Laptop familiarity. No coding experience needed.",
+    "Pay Now": "https://university.cappriciosec.com/payment/?cid=CPPI",
+    "Enroll now": "https://university.cappriciosec.com/CPPI.html",
+    "Cert_img": "https://university.cappriciosec.com/images/cert.svg",
+    "What you'll learn": [
+      "IoT Pentesting",
+      "Set up and configure hardware for IoT security testing",
+      "Perform data sniffing on IoT devices",
+      "Conduct IoT reconnaissance",
+      "Execute various IoT attacks",
+      "Real-world Proof of Concepts (PoCs)",
+      "Hardware hacking techniques",
+      "Pentest magnetic stripe cards (e.g., ATM cards)"
+    ],
+    "Mentor": {
+      "name": "karthithehacker",
+      "title": "Founder and CEO of Cappricio Securities , Ethical Hacker, Cybersecurity Researcher",
+      "url": "https://karthithehacker.com/",
+      "image": "https://avatars.githubusercontent.com/u/33289300?v=4",
+      "description": "👨‍🏫 Meet Your Mentor: Karthikeyan V (a.k.a. Karthithehacker) Karthikeyan V is a renowned ethical hacker, cybersecurity researcher, and the founder of Cappricio Securities, a company dedicated to practical cybersecurity education. With a track record of reporting vulnerabilities in top platforms like Google, Pinterest, Android OS, and Upwork, he brings real-world experience directly into the classroom. He is the creator of several popular open-source security tools including Gh0stR3c0n, CRLFi, and Poseidon. His expertise ranges from bug bounty hunting and OSINT to advanced penetration testing and red teaming. Karthikeyan is also a popular cybersecurity content creator, known for breaking down complex topics in Tamil, making learning accessible to a wider audience. Despite coming from a modest background, his journey from a self-taught hacker to an industry leader has inspired thousands. As your mentor for the CEHPT course, he focuses on hands-on training, real-time attack simulations, and helping students develop the mindset of a professional ethical hacker. 🔐 “In this course, I won’t just teach you tools — I’ll show you how to think like a hacker.” — Karthikeyan V"
+    },
+    "content": [
+      {
+        "topic": "Environment Setup",
+        "videos": [
+          {
+            "number": "01",
+            "title": "About mentor",
+            "duration": "03:56 min"
+          },
+          {
+            "number": "02",
+            "title": "Why IoT Pentesting",
+            "duration": "04:54 min"
+          },
+          {
+            "number": "03",
+            "title": "Requirements for IoT pentesting",
+            "duration": "07:44 min"
+          },
+          {
+            "number": "04",
+            "title": "Hardware confg",
+            "duration": "02:19 min"
+          }
+        ]
+      },
+      {
+        "topic": "Sniffing & Reconnaissance",
+        "videos": [
+          {
+            "number": "05",
+            "title": "Sniffing data",
+            "duration": "09:34 min"
+          },
+          {
+            "number": "06",
+            "title": "IoT Recon 01",
+            "duration": "05:48 min"
+          },
+          {
+            "number": "07",
+            "title": "IoT Recon 02",
+            "duration": "03:32 min"
+          }
+        ]
+      },
+      {
+        "topic": "IoT Attacks & Exploitation",
+        "videos": [
+          {
+            "number": "08",
+            "title": "IoT Attack 01",
+            "duration": "07:43 min"
+          },
+          {
+            "number": "09",
+            "title": "IoT Attack 02",
+            "duration": "04:34 min"
+          },
+          {
+            "number": "10",
+            "title": "IoT exploit Development",
+            "duration": "05:15 min"
+          },
+          {
+            "number": "11",
+            "title": "Critical remote attack IoT",
+            "duration": "04:43 min"
+          },
+          {
+            "number": "12",
+            "title": "Remote attack tool development",
+            "duration": "02:23"
+          }
+        ]
+      },
+      {
+        "topic": " Proof of Concept (PoC)",
+        "videos": [
+          {
+            "number": "13",
+            "title": "PoC 01",
+            "duration": "07:22 min"
+          },
+          {
+            "number": "14",
+            "title": "PoC 02",
+            "duration": "05:46 min"
+          }
+        ]
+      },
+      {
+        "topic": "Hardware Hacking",
+        "videos": [
+          {
+            "number": "15",
+            "title": "Fm Hacking",
+            "duration": "08:54 min"
+          },
+          {
+            "number": "16",
+            "title": "433 Mhz Hacking",
+            "duration": "22:03 min"
+          },
+          {
+            "number": "17",
+            "title": "Magnetic stripe card pentesting(ATM cards)",
+            "duration": "04:45 min"
+          }
+        ]
+      }
+    ]
+  }
+}

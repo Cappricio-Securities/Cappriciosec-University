@@ -1,0 +1,492 @@
+{
+ "CSMM": {
+    "title": "Certified Social Media & Mobile Hacking",
+    "Tag": [
+      "CyberSecurity",
+      "Coding",
+      "SocialEngineering",
+      "Keylogger",
+      "SessionHijacking",
+      "BurpSuite",
+      "Bruteforce",
+      "Exploitation",
+      "CyberAttack",
+      "SpearPhishing",
+      "SocialMedia",
+      "Netcat",
+      "Phishing"
+    ],
+    "banner": "https://university.cappriciosecurities.com/android/images-new/COSM.webp",
+    "Language": "தமிழ்",
+    "Short Description": "This course focuses on Offensive Social Media and Mobile Hacking",
+    "Description": "This course is aimed at beginners who want to learn hacking and pen testing from basics. After this course you will have good understanding of how to approach a machine and you can Develop your own methodology.",
+    "Duration": "4h 33min",
+    "preview": "https://youtu.be/OJIPT_course_preview_link",
+    "Access": "lifetime",
+    "Starts": 4.8,
+    "students_enrolled_count": 980,
+    "price": 5500,
+    "offer price": 3500,
+    "offer percentage": "25%",
+    "PREREQUISITES": "Basic understanding of networking and HTTP. Familiarity with Linux is a plus.",
+    "Pay Now": "https://university.cappriciosec.com/payment/?cid=CSMM",
+    "Enroll now": "https://university.cappriciosec.com/COSM.html",
+    "Cert_img": "https://university.cappriciosec.com/images/cert.svg",
+    "What you'll learn": [
+      "HTML and PHP for web development",
+      "web servers (Apache, PHP)",
+      "phishing attacks and social engineering",
+      "hack social media and online accounts",
+      "spear phishing and IDN-based attacks",
+      "Counter-hacking techniques",
+      "Burp Suite",
+      "Netcat (NC)",
+      "System hacking",
+      "real-world scenarios and tools"
+    ],
+    "Mentor": {
+      "name": "karthithehacker",
+      "title": "Founder and CEO of Cappricio Securities , Ethical Hacker, Cybersecurity Researcher",
+      "url": "https://karthithehacker.com/",
+      "image": "https://avatars.githubusercontent.com/u/33289300?v=4",
+      "description": "👨‍🏫 Meet Your Mentor: Karthikeyan V (a.k.a. Karthithehacker) Karthikeyan V is a renowned ethical hacker, cybersecurity researcher, and the founder of Cappricio Securities, a company dedicated to practical cybersecurity education. With a track record of reporting vulnerabilities in top platforms like Google, Pinterest, Android OS, and Upwork, he brings real-world experience directly into the classroom. He is the creator of several popular open-source security tools including Gh0stR3c0n, CRLFi, and Poseidon. His expertise ranges from bug bounty hunting and OSINT to advanced penetration testing and red teaming. Karthikeyan is also a popular cybersecurity content creator, known for breaking down complex topics in Tamil, making learning accessible to a wider audience. Despite coming from a modest background, his journey from a self-taught hacker to an industry leader has inspired thousands. As your mentor for the CEHPT course, he focuses on hands-on training, real-time attack simulations, and helping students develop the mindset of a professional ethical hacker. 🔐 “In this course, I won’t just teach you tools — I’ll show you how to think like a hacker.” — Karthikeyan V"
+    },
+    "content": [
+      {
+        "topic": "HTML Basics",
+        "videos": [
+          {
+            "number": "01",
+            "title": "About Mentor",
+            "duration": "05:16 min"
+          },
+          {
+            "number": "02",
+            "title": "HTML Basic 1",
+            "duration": "06:37 min"
+          },
+          {
+            "number": "03",
+            "title": "HTML Basic 2",
+            "duration": "09:07min"
+          }
+        ]
+      },
+      {
+        "topic": "Web Server Setup & Development",
+        "videos": [
+          {
+            "number": "04",
+            "title": "PHP Web Server Setup",
+            "duration": "03:49 min"
+          },
+          {
+            "number": "05",
+            "title": "Apache Web Server Setup",
+            "duration": "02:36min"
+          },
+          {
+            "number": "06",
+            "title": "Apache/PHP Web Server & Static IP",
+            "duration": "07:54 min"
+          },
+          {
+            "number": "07",
+            "title": "Log Analysis",
+            "duration": "04:44 min"
+          }
+        ]
+      },
+      {
+        "topic": "PHP Backend Development",
+        "videos": [
+          {
+            "number": "08",
+            "title": "PHP Basic 1",
+            "duration": "04:45min"
+          },
+          {
+            "number": "09",
+            "title": "Connecting Frontend & Backend",
+            "duration": "07:59 min"
+          },
+          {
+            "number": "10",
+            "title": "PHP Basic 2",
+            "duration": "06:30 min"
+          },
+          {
+            "number": "11",
+            "title": "PHP Basic 3",
+            "duration": "01:09 min"
+          }
+        ]
+      },
+      {
+        "topic": "Hosting & Deployment",
+        "videos": [
+          {
+            "number": "12",
+            "title": "Setting up Server & Live Attack",
+            "duration": "03:01 min"
+          },
+          {
+            "number": "13",
+            "title": "About Web Hosting",
+            "duration": "06:22 min"
+          },
+          {
+            "number": "14",
+            "title": "Setting up Cloud Hosting Server",
+            "duration": "02:53 min"
+          },
+          {
+            "number": "15",
+            "title": "About DNS Server",
+            "duration": "04:10 min"
+          }
+        ]
+      },
+      {
+        "topic": "Social Engineering & Phishing Attacks",
+        "videos": [
+          {
+            "number": "16",
+            "title": "Ways to Attack Social Account",
+            "duration": "03:23 min"
+          },
+          {
+            "number": "17",
+            "title": "Live Demo Phishing Attack",
+            "duration": "03:56 min"
+          },
+          {
+            "number": "18",
+            "title": "Live Paypal Account Hacking",
+            "duration": "02:26  min"
+          },
+          {
+            "number": "19",
+            "title": "Complete Web App Coding",
+            "duration": "02:01 min"
+          },
+          {
+            "number": "20",
+            "title": "Instagram Account Hacking",
+            "duration": "02:58 min"
+          },
+          {
+            "number": "21",
+            "title": "Google Account Hacking",
+            "duration": "01:07 min"
+          },
+          {
+            "number": "22",
+            "title": "Facebook Account Hacking",
+            "duration": "01:05 min"
+          },
+          {
+            "number": "23",
+            "title": "Netflix Account Hacking",
+            "duration": "0:50 min"
+          },
+          {
+            "number": "24",
+            "title": "Adobe Account Hacking",
+            "duration": "01:07 min"
+          },
+          {
+            "number": "25",
+            "title": "Snapchat Account Hacking",
+            "duration": "01:03 min"
+          },
+          {
+            "number": "26",
+            "title": "Spotify Account Hacking",
+            "duration": "0:59 min"
+          },
+          {
+            "number": "27",
+            "title": "Twitch Account Hacking",
+            "duration": "01:51 min"
+          },
+          {
+            "number": "28",
+            "title": "Twitter Account Hacking",
+            "duration": "01:08 min"
+          },
+          {
+            "number": "29",
+            "title": "Spear Phishing Attack",
+            "duration": "05:00 min"
+          }
+        ]
+      },
+      {
+        "topic": "Keyloggers",
+        "videos": [
+          {
+            "number": "30",
+            "title": "Python Keylogger",
+            "duration": "01:52 min"
+          },
+          {
+            "number": "31",
+            "title": "PHP Keylogger",
+            "duration": "01:08 min"
+          },
+          {
+            "number": "32",
+            "title": "Live Keylogger Attack",
+            "duration": "03:39 min"
+          }
+        ]
+      },
+      {
+        "topic": "Session Hijacking",
+        "videos": [
+          {
+            "number": "33",
+            "title": "About Session Attack",
+            "duration": "07:37 min"
+          },
+          {
+            "number": "34",
+            "title": "Session Attack",
+            "duration": "06:45 min"
+          },
+          {
+            "number": "35",
+            "title": "Google Session Attack PoC",
+            "duration": "05:18 min"
+          },
+          {
+            "number": "36",
+            "title": "FitBit Session Attack PoC",
+            "duration": "03:09 min"
+          },
+          {
+            "number": "37",
+            "title": "TripAdvisor Session Attack PoC",
+            "duration": "14:49 min"
+          }
+        ]
+      },
+      {
+        "topic": "Email Spoofing & SPF",
+        "videos": [
+          {
+            "number": "38",
+            "title": "IDN Attack",
+            "duration": "02:05  min"
+          },
+          {
+            "number": "39",
+            "title": "About SPF Attack",
+            "duration": "01:52 min"
+          },
+          {
+            "number": "40",
+            "title": "SPF Live Attack",
+            "duration": "02:47 min"
+          }
+        ]
+      },
+      {
+        "topic": "Burp Suite & Counter-Hacking (Defensive Security)",
+        "videos": [
+          {
+            "number": "41",
+            "title": "Attacking the Attacker",
+            "duration": "01:50 min"
+          },
+          {
+            "number": "42",
+            "title": "Burp Setup",
+            "duration": "03:18 min"
+          },
+          {
+            "number": "43",
+            "title": "All about Burp",
+            "duration": "02:05 min"
+          },
+          {
+            "number": "44",
+            "title": "Bruteforcing Attack with Burp",
+            "duration": "06:24 min"
+          },
+          {
+            "number": "45",
+            "title": "Dictionary Attack with Burp",
+            "duration": "01:17 min"
+          },
+          {
+            "number": "46",
+            "title": "Stealing Attacker DB",
+            "duration": "03:53 min"
+          },
+          {
+            "number": "47",
+            "title": "Hacking Attacker DB",
+            "duration": "06:12 min"
+          },
+          {
+            "number": "48",
+            "title": "Prevention",
+            "duration": "06:41 min"
+          }
+        ]
+      },
+      {
+        "topic": "Mobile Exploitation",
+        "videos": [
+          {
+            "number": "49",
+            "title": "Mobile Attacking & Defending",
+            "duration": "02:04 min"
+          },
+          {
+            "number": "50",
+            "title": "Metasploit APK Generation",
+            "duration": "03:13 min"
+          },
+          {
+            "number": "51",
+            "title": "Gaining Reverse Shell",
+            "duration": "03:26 min"
+          },
+          {
+            "number": "52",
+            "title": "Attacking Commands",
+            "duration": "02:56 min"
+          },
+          {
+            "number": "53",
+            "title": "Shell Execution",
+            "duration": "02:00 min"
+          },
+          {
+            "number": "54",
+            "title": "Start Target App",
+            "duration": "01:47 min"
+          },
+          {
+            "number": "55",
+            "title": "Stealing SMS",
+            "duration": "01:27 min"
+          },
+          {
+            "number": "56",
+            "title": "Directory Explorer",
+            "duration": "05:05 min"
+          },
+          {
+            "number": "57",
+            "title": "WebCam Hacking",
+            "duration": "01:34 min"
+          },
+          {
+            "number": "58",
+            "title": "Temp over the Internet Access",
+            "duration": "03:43 min"
+          },
+          {
+            "number": "59",
+            "title": "Temp Access with Console",
+            "duration": "02:46 min"
+          }
+        ]
+      },
+      {
+        "topic": "Static IP Attacks & APK Deployment",
+        "videos": [
+          {
+            "number": "60",
+            "title": "All about Static IP",
+            "duration": "02:01 min"
+          },
+          {
+            "number": "61",
+            "title": "Setting up Static IP",
+            "duration": "02:03 min"
+          },
+          {
+            "number": "62",
+            "title": "Creating APK with Static IP",
+            "duration": "01:42 min"
+          },
+          {
+            "number": "63",
+            "title": "Communicating with Console",
+            "duration": "02:53 min"
+          },
+          {
+            "number": "64",
+            "title": "Automated Android Hacking",
+            "duration": "04:07 min"
+          }
+        ]
+      },
+      {
+        "topic": "ADB (Android Debug Bridge) Attacks",
+        "videos": [
+          {
+            "number": "65",
+            "title": "All about ADB",
+            "duration": "01:33 min"
+          },
+          {
+            "number": "66",
+            "title": "Demo ADB Attack (USB)",
+            "duration": "02:18 min"
+          },
+          {
+            "number": "67",
+            "title": "Hacking Someone Android IP (Live)",
+            "duration": "04:32 min"
+          },
+          {
+            "number": "68",
+            "title": "Hacking Android with IP",
+            "duration": "04:56 min"
+          }
+        ]
+      },
+      {
+        "topic": "Netcat (NC) Attacks",
+        "videos": [
+          {
+            "number": "69",
+            "title": "All about NC",
+            "duration": "0:51 min"
+          },
+          {
+            "number": "70",
+            "title": "SLive NC Shell",
+            "duration": "01:43 min"
+          }
+        ]
+      },
+      {
+        "topic": "Android Hacking (via Links & Python)",
+        "videos": [
+          {
+            "number": "71",
+            "title": "Hack Android with Link",
+            "duration": "02:36 min"
+          },
+          {
+            "number": "72",
+            "title": "Hack Android using Python",
+            "duration": "04:28 min"
+          },
+          {
+            "number": "73",
+            "title": "Android Prevention",
+            "duration": "05:15 min"
+          }
+        ]
+      }
+    ]
+  }
+}

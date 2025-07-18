@@ -1,0 +1,644 @@
+{
+  "CEHPT": {
+    "title": "Certified Ethical Hacking & Penetration Testing",
+    "Tag": [
+      "CyberSecurity",
+      "Hacking",
+      "pentesting",
+      "Networking",
+      "Linux"
+    ],
+    "banner": "https://university.cappriciosecurities.com/android/images-new/CEHPT.webp",
+    "Language": "தமிழ்",
+    "Short Description": "A beginner to advanced course on ethical hacking and penetration testing.",
+    "Description": "This Course Is Aimed At Beginners Who Want To Learn Hacking And Pen-Testing From Basics. After This Course , You Will Have Good Understanding Of How To Approach A Machine And You Can Develop Your Own Methodology.",
+    "Duration": "9h 12 min",
+    "preview": "https://youtu.be/BLwR_YOCpzA?si=QHWCDG7zTb3WipAs",
+    "Access": "lifetime",
+    "Starts": 4.7,
+    "students enrolled count": 1324,
+    "price": 5500,
+    "offer price": 3500,
+    "offer percentage": "25%",
+    "PREREQUISITES": "Basic PC/Laptop familiarity. No coding experience needed.",
+    "Pay Now": "https://university.cappriciosec.com/payment/?cid=CEHPT",
+    "Enroll now": "https://university.cappriciosec.com/CEHPT.html",
+    "Cert_img": "https://university.cappriciosec.com/images/cert.svg",
+    "What you'll learn": [
+      "Networking",
+      "Web Development (DNS Setup, PHP) & Hacking",
+      "Social media Hacking",
+      "Linux",
+      "Android studio",
+      "Android hacking",
+      "System hacking",
+      "Back Door Development",
+      "IoT development & hacking",
+      "Hardware & Microcontroller development (Arduino, Raspberry Pi, PiCo, ESP8266, NodeMCU, some sensors)"
+    ],
+    "Mentor": {
+      "name": "karthithehacker",
+      "title": "Founder and CEO of Cappricio Securities , Ethical Hacker, Cybersecurity Researcher",
+      "url": "https://karthithehacker.com/",
+      "image": "https://avatars.githubusercontent.com/u/33289300?v=4",
+      "description": "👨‍🏫 Meet Your Mentor: Karthikeyan V (a.k.a. Karthithehacker) Karthikeyan V is a renowned ethical hacker, cybersecurity researcher, and the founder of Cappricio Securities, a company dedicated to practical cybersecurity education. With a track record of reporting vulnerabilities in top platforms like Google, Pinterest, Android OS, and Upwork, he brings real-world experience directly into the classroom. He is the creator of several popular open-source security tools including Gh0stR3c0n, CRLFi, and Poseidon. His expertise ranges from bug bounty hunting and OSINT to advanced penetration testing and red teaming. Karthikeyan is also a popular cybersecurity content creator, known for breaking down complex topics in Tamil, making learning accessible to a wider audience. Despite coming from a modest background, his journey from a self-taught hacker to an industry leader has inspired thousands. As your mentor for the CEHPT course, he focuses on hands-on training, real-time attack simulations, and helping students develop the mindset of a professional ethical hacker. 🔐 “In this course, I won’t just teach you tools — I’ll show you how to think like a hacker.” — Karthikeyan V"
+    },
+    "content": [
+      {
+        "topic": "Linux",
+        "videos": [
+          {
+            "number": "01",
+            "title": "About mentor",
+            "duration": "03:36 min"
+          },
+          {
+            "number": "02",
+            "title": "Requirements",
+            "duration": "03:03 min"
+          },
+          {
+            "number": "03",
+            "title": "Linux Command 1",
+            "duration": "07:31 min"
+          },
+          {
+            "number": "04",
+            "title": "Linux Command 2",
+            "duration": "05:49 min"
+          },
+          {
+            "number": "05",
+            "title": "Linux Command 03",
+            "duration": "08:23 min"
+          }
+        ]
+      },
+      {
+        "topic": "Networking",
+        "videos": [
+          {
+            "number": "06",
+            "title": "Linux Architecture",
+            "duration": "04:10 min"
+          },
+          {
+            "number": "07",
+            "title": "Networking 1",
+            "duration": "04:08 min"
+          },
+          {
+            "number": "08",
+            "title": "Networking 2",
+            "duration": "02:58 min"
+          },
+          {
+            "number": "09",
+            "title": "Networking 3",
+            "duration": "01:43 min"
+          },
+          {
+            "number": "10",
+            "title": "Social Media Hacking",
+            "duration": "01:50 min"
+          }
+        ]
+      },
+      {
+        "topic": "Web Development & Scripting",
+        "videos": [
+          {
+            "number": "11",
+            "title": "HTML 1",
+            "duration": "06:37 min"
+          },
+          {
+            "number": "12",
+            "title": "HTML 2",
+            "duration": "09:07 min"
+          },
+          {
+            "number": "13",
+            "title": "Server Hosting 1",
+            "duration": "03:49 min"
+          },
+          {
+            "number": "14",
+            "title": "Server Hosting 2",
+            "duration": "02:36 min"
+          },
+          {
+            "number": "15",
+            "title": "Dynamic DNS setup",
+            "duration": "07:54 min"
+          },
+          {
+            "number": "16",
+            "title": "Log Analysis",
+            "duration": "04:44 min"
+          },
+          {
+            "number": "17",
+            "title": "PHP coding 1",
+            "duration": "04:45 min"
+          },
+          {
+            "number": "18",
+            "title": "Connecting Everything",
+            "duration": "07:59 min"
+          },
+          {
+            "number": "19",
+            "title": "PHP 2",
+            "duration": "06:30 min"
+          },
+          {
+            "number": "20",
+            "title": "PHP 3",
+            "duration": "01:09 min"
+          },
+          {
+            "number": "21",
+            "title": "Setting up everything",
+            "duration": "03:01 min"
+          }
+        ]
+      },
+      {
+        "topic": "Social Media Hacking",
+        "videos": [
+          {
+            "number": "22",
+            "title": "Instagram Hacking",
+            "duration": "02:58 min"
+          },
+          {
+            "number": "23",
+            "title": "Live Demo Netflix Hacking",
+            "duration": "03:39 min"
+          },
+          {
+            "number": "24",
+            "title": "Fitbit account takeover POC",
+            "duration": "03:09 min"
+          },
+          {
+            "number": "25",
+            "title": "Social Media Hacking End",
+            "duration": "01:03 min"
+          }
+        ]
+      },
+      {
+        "topic": "Mobile Hacking",
+        "videos": [
+          {
+            "number": "26",
+            "title": "Mobile Hacking",
+            "duration": "02:04 min"
+          },
+          {
+            "number": "27",
+            "title": "Creating Trojan",
+            "duration": "03:13 min"
+          },
+          {
+            "number": "28",
+            "title": "Getting Trojan",
+            "duration": "03:26 min"
+          },
+          {
+            "number": "29",
+            "title": "Understanding console",
+            "duration": "02:56 min"
+          },
+          {
+            "number": "30",
+            "title": "Mobile shell",
+            "duration": "02:00 min"
+          },
+          {
+            "number": "31",
+            "title": "Activity starting",
+            "duration": "01:47 min"
+          },
+          {
+            "number": "32",
+            "title": "SMS hacking",
+            "duration": "01:27 min"
+          },
+          {
+            "number": "33",
+            "title": "Path explore",
+            "duration": "05:05 min"
+          },
+          {
+            "number": "34",
+            "title": "Webcam Hacking",
+            "duration": "01:34 min"
+          },
+          {
+            "number": "35",
+            "title": "Port forwarding",
+            "duration": "03:43 min"
+          },
+          {
+            "number": "36",
+            "title": "Getting connection(OTI)",
+            "duration": "02:46 min"
+          },
+          {
+            "number": "37",
+            "title": "Static IP",
+            "duration": "02:01 min"
+          },
+          {
+            "number": "38",
+            "title": "Static IP setup",
+            "duration": "02:03 min"
+          },
+          {
+            "number": "39",
+            "title": "Payload with Static IP",
+            "duration": "01:42 min"
+          },
+          {
+            "number": "40",
+            "title": "Getting Connection(SIP)",
+            "duration": "02:53 min"
+          },
+          {
+            "number": "41",
+            "title": "Auomated Hacking",
+            "duration": "04:07 min"
+          },
+          {
+            "number": "42",
+            "title": "Mobile Hacking End",
+            "duration": "01:09 min"
+          }
+        ]
+      },
+      {
+        "topic": "System Hacking",
+        "videos": [
+          {
+            "number": "43",
+            "title": "System Hacking",
+            "duration": "01:32 min"
+          },
+          {
+            "number": "44",
+            "title": "System Hacking Live",
+            "duration": "04:06 min"
+          },
+          {
+            "number": "45",
+            "title": "Backdoor with PYTHON",
+            "duration": "03:42 min"
+          },
+          {
+            "number": "46",
+            "title": "Backdoor with PHP",
+            "duration": "01:50 min"
+          },
+          {
+            "number": "47",
+            "title": "Backdoor with BASH",
+            "duration": "01:47 min"
+          },
+          {
+            "number": "48",
+            "title": "System Hacking End",
+            "duration": "01:50 min"
+          }
+        ]
+      },
+      {
+        "topic": "Web Hacking",
+        "videos": [
+          {
+            "number": "49",
+            "title": "Intro to Web Hacking",
+            "duration": "04:05 min"
+          },
+          {
+            "number": "50",
+            "title": "Playing with BURP",
+            "duration": "16:52 min"
+          },
+          {
+            "number": "51",
+            "title": "Recon",
+            "duration": "08:10 min"
+          },
+          {
+            "number": "52",
+            "title": "Subs Recon",
+            "duration": "06:22 min"
+          },
+          {
+            "number": "53",
+            "title": "Subs crawling",
+            "duration": "05:38 min"
+          },
+          {
+            "number": "54",
+            "title": "Subs brute",
+            "duration": "09:43 min"
+          },
+          {
+            "number": "55",
+            "title": "Subs Dork",
+            "duration": "10:12 min"
+          },
+          {
+            "number": "56",
+            "title": "Removing Dups",
+            "duration": "03:36 min"
+          },
+          {
+            "number": "57",
+            "title": "Finding live",
+            "duration": "05:01 min"
+          },
+          {
+            "number": "58",
+            "title": "Open Ports and IP",
+            "duration": "13:56 min"
+          },
+          {
+            "number": "59",
+            "title": "Finding status code",
+            "duration": "07:32 min"
+          },
+          {
+            "number": "60",
+            "title": "SS and Dir-Brute",
+            "duration": "08:31 min"
+          },
+          {
+            "number": "61",
+            "title": "HTTP header attack 01",
+            "duration": "12:15 min"
+          },
+          {
+            "number": "62",
+            "title": "HTTP header attack 02",
+            "duration": "06:02 min"
+          },
+          {
+            "number": "63",
+            "title": "DNS attack",
+            "duration": "05:33 min"
+          },
+          {
+            "number": "64",
+            "title": "Password reset attack",
+            "duration": "11:29 min"
+          },
+          {
+            "number": "65",
+            "title": "Web cache attack",
+            "duration": "08:13 min"
+          },
+          {
+            "number": "66",
+            "title": "Webcache attack automation",
+            "duration": "19:02 min"
+          },
+          {
+            "number": "67",
+            "title": "Header based XSS",
+            "duration": "03:07 min"
+          },
+          {
+            "number": "68",
+            "title": "SSRF attack 01",
+            "duration": "14:53 min"
+          },
+          {
+            "number": "69",
+            "title": "SSRF attack 02",
+            "duration": "02:39 min"
+          },
+          {
+            "number": "70",
+            "title": "SSRF attack POC",
+            "duration": "01:43 min"
+          },
+          {
+            "number": "71",
+            "title": "Web Hacking End",
+            "duration": "00:28 min"
+          }
+        ]
+      },
+      {
+        "topic": "Hardware Development & Arduino Projects",
+        "videos": [
+          {
+            "number": "72",
+            "title": "Hardware Developmental Hacking",
+            "duration": "02:21 min"
+          },
+          {
+            "number": "73",
+            "title": "Microcontroller Basic",
+            "duration": "06:58 min"
+          },
+          {
+            "number": "74",
+            "title": "Microcontroller Types",
+            "duration": "03:33 min"
+          },
+          {
+            "number": "75",
+            "title": "Arduino I/O",
+            "duration": "04:11 min"
+          },
+          {
+            "number": "76",
+            "title": "Arduino setup",
+            "duration": "05:21 min"
+          },
+          {
+            "number": "77",
+            "title": "Arduino sketch upload",
+            "duration": "00:40 min"
+          },
+          {
+            "number": "78",
+            "title": "Arduino Blink",
+            "duration": "15:38 min"
+          },
+          {
+            "number": "79",
+            "title": "Arduino Blink Output",
+            "duration": "00:26 min"
+          },
+          {
+            "number": "80",
+            "title": "Arduino serial",
+            "duration": "03:31 min"
+          },
+          {
+            "number": "81",
+            "title": "Arduino coding 01",
+            "duration": "06:30 min"
+          },
+          {
+            "number": "82",
+            "title": "Arduino coding 02",
+            "duration": "09:46 min"
+          },
+          {
+            "number": "83",
+            "title": "Arduino coding 03",
+            "duration": "13:33 min"
+          },
+          {
+            "number": "84",
+            "title": "Arduino coding 04",
+            "duration": "06:03 min"
+          },
+          {
+            "number": "85",
+            "title": "Arduino coding 05",
+            "duration": "08:27 min"
+          },
+          {
+            "number": "86",
+            "title": "Arduino with button",
+            "duration": "01:10 min"
+          },
+          {
+            "number": "87",
+            "title": "Coding the Arduino 01",
+            "duration": "11:25 min"
+          },
+          {
+            "number": "88",
+            "title": "Coding the Arduino 02",
+            "duration": "04:25 min"
+          },
+          {
+            "number": "89",
+            "title": "Arduino with IR 01",
+            "duration": "01:10 min"
+          },
+          {
+            "number": "90",
+            "title": "Arduino with IR 02",
+            "duration": "05:51 min"
+          },
+          {
+            "number": "91",
+            "title": "Arduino with Servo 01",
+            "duration": "00:30 min"
+          },
+          {
+            "number": "92",
+            "title": "Arduino with Servo 02",
+            "duration": "12:15 min"
+          },
+          {
+            "number": "93",
+            "title": "Automated Hacking Demo",
+            "duration": "00:23 min"
+          },
+          {
+            "number": "94",
+            "title": "Object Avoiding Robot Demo",
+            "duration": "00:58 min"
+          },
+          {
+            "number": "95",
+            "title": "Gesture Robot Demo",
+            "duration": "00:14 min"
+          },
+          {
+            "number": "96",
+            "title": "RFID Hacking Demo",
+            "duration": "05:44 min"
+          },
+          {
+            "number": "97",
+            "title": "Arduino with PC Demo",
+            "duration": "00:22 min"
+          },
+          {
+            "number": "98",
+            "title": "Automated Gesture Hacking Demo",
+            "duration": "03:30 min"
+          },
+          {
+            "number": "99",
+            "title": "RPI Bot Demo",
+            "duration": "03:52 min"
+          },
+          {
+            "number": "100",
+            "title": "Hardware Developmental Hacking End",
+            "duration": "01:02 min"
+          }
+        ]
+      },
+      {
+        "topic": "IoT (Internet of Things)",
+        "videos": [
+          {
+            "number": "101",
+            "title": "IOT Development",
+            "duration": "01:11 min"
+          },
+          {
+            "number": "102",
+            "title": "Wiring",
+            "duration": "00:42 min"
+          },
+          {
+            "number": "103",
+            "title": "Coding Node MCU",
+            "duration": "10:33 min"
+          },
+          {
+            "number": "104",
+            "title": "Android Studio",
+            "duration": "03:29 min"
+          },
+          {
+            "number": "105",
+            "title": "Testing our app",
+            "duration": "02:21 min"
+          },
+          {
+            "number": "106",
+            "title": "IOT Output",
+            "duration": "01:04 min"
+          },
+          {
+            "number": "107",
+            "title": "Live Output",
+            "duration": "01:04 min"
+          },
+          {
+            "number": "108",
+            "title": "IOT Live Hacking Demo",
+            "duration": "14:44 min"
+          },
+          {
+            "number": "109",
+            "title": "IOT Home Hacking Demo",
+            "duration": "07:22 min"
+          },
+          {
+            "number": "110",
+            "title": "Course End",
+            "duration": "02:45 min"
+          }
+        ]
+      }
+    ]
+  }
+}

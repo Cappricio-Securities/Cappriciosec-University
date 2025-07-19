@@ -12,6 +12,7 @@
       "Beginner"
     ],
     "banner": "https://university.cappriciosec.com//free_courses/images/wifihacker.png",
+    "video_url": "https://youtu.be/jWc2umX9hC4", 
     "Language": "தமிழ்",
     "Short Description": "Join us for a practical workshop on WiFi Hacking & Pentesting!",
     "Description": "Master the art of WiFi hacking in this beginner-friendly workshop. You'll learn real-world techniques such as Deauthentication attacks, WiFi spam, Evil Twin attacks, and Captive Portal exploitation. This hands-on course is designed for students, cybersecurity enthusiasts, and ethical hackers looking to enhance their wireless pentesting skills. All participants will receive a soft copy of the certificate, course toolkit, and training materials.",
@@ -54,6 +55,7 @@
       "CappricioSec Webinar"
     ],
     "banner": "https://university.cappriciosec.com/free_courses/images/Cybersecurity-Career-Webinar-101.png",
+    "video_url": "https://youtu.be/x60SZCWlzwg", 
     "Language": "English",
     "Short Description": "Understand cybersecurity job roles, required skills, and roadmap in this career-focused webinar.",
     "Description": "This free beginner-friendly webinar, conducted by CappricioSec University, will help you explore the various job roles in cybersecurity and understand the skills, tools, and certifications required to enter or switch to this booming industry. Learn from G.A. Harini (CBO, Cappricio Securities) as she breaks down the career roadmap, hiring expectations, and learning resources. All attendees will receive a soft copy of the certificate after completion.",

@@ -82,5 +82,48 @@
       "LinkedIn Profile Tips for Cyber Aspirants",
       "Resources to Start Practicing"
     ]
-  }
+  },
+  "API-Pentesting-Bugbounty-101": {
+  "title": "Certificate of Completion: Introduction to API Pentesting & Bug Bounty 101",
+  "Tag": [
+    "API Security",
+    "Bug Bounty",
+    "Web API Hacking",
+    "Ethical Hacking",
+    "Postman",
+    "Burp Suite",
+    "CappricioSec Webinar"
+  ],
+  "banner": "https://university.cappriciosec.com/free_courses/images/API-Pentesting-Bugbounty-101.png",
+  "video_url": "https://youtu.be/your_webinar_link_here",
+  "Language": "Tamil",
+  "Short Description": "Learn API hacking from scratch and start your bug bounty journey with this practical, beginner-friendly webinar.",
+  "Description": "This webinar by CappricioSec University offers a complete introduction to API Pentesting and Bug Bounty hunting. Participants will gain practical knowledge in tools like Postman and Burp Suite, learn about OOB testing techniques, and explore API development with Python. You'll also dive into CRUD operations, authentication & authorization flaws, SQL-based issues, and command injection bugs. Perfect for beginners looking to enter the world of API security and ethical hacking. All participants will receive a soft copy of the certificate upon successful completion.",
+  "Duration": "Life Time",
+  "Access": "24/7",
+  "Starts": "2025-07-26",
+  "students enrolled count": 190,
+  "price": 599,
+  "offer price": "free",
+  "offer percentage": 100,
+  "PREREQUISITES": [
+    "Basic understanding of computers and the internet",
+    "Interest in API and web application security",
+    "No prior experience required",
+    "Willingness to practice and learn"
+  ],
+  "What you'll learn": [
+    "Introduction to APIs & How They Work",
+    "API Hacking Fundamentals",
+    "Bug Bounty Mindset & Methodologies",
+    "Using Postman & Burp Suite for API Testing",
+    "Out-of-Band (OOB) Testing Techniques",
+    "API Development Basics with Python",
+    "CRUD Operations & Common Vulnerabilities",
+    "Authentication & Authorization Testing",
+    "Finding SQL and Command Injection Bugs",
+    "Steps to Start Your Bug Bounty Journey"
+  ]
+}
+
 }

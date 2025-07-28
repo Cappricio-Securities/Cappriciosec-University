@@ -95,7 +95,7 @@
     "CappricioSec Webinar"
   ],
   "banner": "https://university.cappriciosec.com/free_courses/images/API-Pentesting-Bugbounty-101.png",
-  "video_url": "https://youtu.be/your_webinar_link_here",
+  "video_url": "https://youtu.be/PzZBjfDRVoE?si=dQ4UmGAWEMUrVGIB",
   "Language": "Tamil",
   "Short Description": "Learn API hacking from scratch and start your bug bounty journey with this practical, beginner-friendly webinar.",
   "Description": "This webinar by CappricioSec University offers a complete introduction to API Pentesting and Bug Bounty hunting. Participants will gain practical knowledge in tools like Postman and Burp Suite, learn about OOB testing techniques, and explore API development with Python. You'll also dive into CRUD operations, authentication & authorization flaws, SQL-based issues, and command injection bugs. Perfect for beginners looking to enter the world of API security and ethical hacking. All participants will receive a soft copy of the certificate upon successful completion.",

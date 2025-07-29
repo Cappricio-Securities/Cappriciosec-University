@@ -18,8 +18,6 @@
     "Description": "This course is designed for learners aiming to master mobile application security through offensive testing techniques. You'll dive into real-world mobile threat scenarios, exploit common and advanced vulnerabilities, and develop practical skills to assess and attack mobile apps (ethically). By the end of the course, you'll be equipped to perform structured mobile app security assessments and contribute effectively to bug bounty programs..",
     "Duration": "12hr 26min",
     "price": 5500,
-    "offer price": 3500,
-    "offer percentage": "25%",
     "Access": "lifetime",
     "students enrolled count": 1324,
     "PREREQUISITES": "Basic PC/Laptop familiarity. No coding experience needed, Android studio for malware development.",

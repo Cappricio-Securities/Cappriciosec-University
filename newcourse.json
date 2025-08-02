@@ -267,7 +267,7 @@
         "Reconnaissance",
         "Exploitation",
         "Security",
-        "Simulation",
+        "Hardware",
         "Packet Sniffers",
         "Network Traffic Analysis"
       ],
@@ -502,3 +502,4 @@
     }
   }
 }
+

@@ -120,7 +120,7 @@
         "Bugbounty",
         "Api",
         "Coding",
-        " Deeplinks",
+        "Deeplinks",
         "Frida",
         "ADB",
         "JADX",
@@ -462,7 +462,7 @@
         "pentesting",
         "Ethical Hacking",
         "IoT Security",
-        "Hardware Security",
+        "Hardware",
         "Network Security"
       ],
       "banner": "https://university.cappriciosecurities.com/android/images-new/OJIPT.webp",
@@ -502,4 +502,5 @@
     }
   }
 }
+
 

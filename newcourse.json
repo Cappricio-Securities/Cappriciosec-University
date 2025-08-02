@@ -279,7 +279,7 @@
       "preview": "https://youtu.be/OJIPT_course_preview_link",
       "Access": "lifetime",
       "Starts": 4.8,
-      "students_enrolled_count": 980,
+      "students enrolled count": 980,
       "price": 599,
       "PREREQUISITES": "Basic understanding of networking and HTTP. Familiarity with Linux is a plus.",
       "Pay Now": "https://university.cappriciosec.com/payment/?cid=CHIP",
@@ -377,7 +377,7 @@
       "preview": "https://youtu.be/OJIPT_course_preview_link",
       "Access": "lifetime",
       "Starts": 4.8,
-      "students_enrolled_count": 980,
+      "students enrolled count": 980,
       "price": 5500,
       "offer price": 3500,
       "offer percentage": "25%",
@@ -473,7 +473,7 @@
       "preview": "https://youtu.be/OJIPT_course_preview_link",
       "Access": "lifetime",
       "Starts": 4.8,
-      "students_enrolled_count": 980,
+      "students enrolled count": 980,
       "price": 3500,
       "PREREQUISITES": "Basic understanding of networking and HTTP. Familiarity with Linux is a plus.",
       "Pay Now": "https://university.cappriciosec.com/payment/?cid=OJIPT",
@@ -502,5 +502,6 @@
     }
   }
 }
+
 
 

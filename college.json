@@ -1,0 +1,44 @@
+{
+  "jec": {
+    "title": "Offensive Hacking & Cyber Awareness",
+    "Tag": [
+      "Cybersecurity",
+      "Ethical Hacking",
+      "Awareness Training",
+      "Mobile Hacking",
+      "Spyware Detection",
+      "Webcam Security",
+      "Drone Hacking",
+      "IVR Scams",
+      "Cyber Hygiene",
+      "Beginner Friendly"
+    ],
+    "banner": "https://university.cappriciosec.com/colleges_cert/images/jec.jpg",
+    "video_url": "",
+    "Language": "தமிழ்",
+    "Short Description": "A 2-hour practical workshop on real-world offensive hacking and cyber hygiene.",
+    "Description": "For successfully completing the 2-hour live training on Offensive Hacking & Cyber Awareness organized by CappricioSec University. Topics covered included: Mobile Hacking and Spyware, Webcam Hacking, Drone Security, IVR Scams, and Cyber Hygiene. This workshop empowers participants with hands-on knowledge to identify and defend against modern cyber threats in everyday life.",
+    "Duration": "Lifetime",
+    "Access": "24/7",
+    "Starts": "2025-08-05",
+    "students enrolled count": 600,
+    "price": free,
+    "offer price": "free",
+    "offer percentage": 100,
+    "PREREQUISITES": [
+      "Basic mobile or computer usage",
+      "Interest in cybersecurity awareness",
+      "No technical background required",
+      "Willingness to learn and protect oneself online"
+    ],
+    "What you'll learn": [
+      "Real-life Mobile Hacking Techniques and Spyware Detection",
+      "Webcam Hacking Risks and How to Prevent Them",
+      "Drone Security Threats and Countermeasures",
+      "IVR Scam Awareness and How to Stay Safe",
+      "Cyber Hygiene and Best Practices",
+      "Protecting Yourself in the Digital Age",
+      "Hands-on Demos and Awareness Exercises"
+    ]
+  }
+}

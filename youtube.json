@@ -124,6 +124,49 @@
     "Finding SQL and Command Injection Bugs",
     "Steps to Start Your Bug Bounty Journey"
   ]
+},
+"Social-Engineering-Ethical-Hacking-101": {
+  "title": "Seminar on Social Engineering & Ethical Hacking",
+  "Tag": [
+    "Social Engineering",
+    "Ethical Hacking",
+    "Phishing",
+    "Keylogger",
+    "SET Toolkit",
+    "Cybersecurity Awareness",
+    "CappricioSec Webinar"
+  ],
+  "banner": "https://university.cappriciosec.com/free_courses/images/Social-Engineering-Ethical-Hacking-101.png",
+  "video_url": "https://youtu.be/your_video_link_here",
+  "Language": "Tamil",
+  "Short Description": "Explore real-world social engineering attacks and defensive strategies in this beginner-friendly ethical hacking webinar.",
+  "Description": "This webinar by CappricioSec University provides an in-depth overview of social engineering in the context of ethical hacking. Learn how attackers manipulate users, and gain hands-on exposure to phishing simulations, keylogger creation, and the powerful Social-Engineer Toolkit (SET). This session covers different types of attacks, human psychology exploitation, and how to build awareness to defend against these threats. Ideal for students, cybersecurity enthusiasts, and bug bounty beginners. Attendees will receive a certificate of completion.",
+  "Duration": "Life Time",
+  "Access": "24/7",
+  "Starts": "2025-08-08",
+  "students enrolled count": 220,
+  "price": 599,
+  "offer price": "free",
+  "offer percentage": 100,
+  "PREREQUISITES": [
+    "Basic understanding of computers and networks",
+    "Interest in cybersecurity and ethical hacking",
+    "No prior experience required",
+    "Curiosity to learn about human-based attack vectors"
+  ],
+  "What you'll learn": [
+    "Introduction to Social Engineering Attacks",
+    "Types of Social Engineering (Phishing, Pretexting, Baiting, etc.)",
+    "How Hackers Trick and Exploit Victims",
+    "Using the Social-Engineer Toolkit (SET)",
+    "Keylogger Development Basics",
+    "Simulating Phishing Portals and Capturing Credentials",
+    "Defensive Measures and User Awareness Training",
+    "Case Studies from Real-World Scenarios",
+    "Ethical Considerations and Reporting",
+    "Final Q&A with Certificate Distribution"
+  ]
 }
+
 
 }

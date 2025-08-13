@@ -135,15 +135,7 @@
     "subtitle": "Hear from our graduates who have transformed their careers with our courses"
   },
 "testimonials": [
-  {
-    "name": "Sara Karthikeyan",
-    "achievement": "Certified in Ethical Hacking",
-    "rating": "★★★★★",
-    "quote": "Completed 75 hours of immersive, hands-on Ethical Hacking training, acquiring in-depth knowledge and familiarity with key cybersecurity concepts and terminologies.",
-    "College": "SVCE",
-    "position": "STUDENT",
-    "image": "https://karthithehacker.com/assets/profile-BfWXpxNO.webp"
-  },
+  
   {
     "name": "Sibi Kumar",
     "achievement": "Certified in Ethical Hacking",

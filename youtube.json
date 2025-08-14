@@ -1,6 +1,6 @@
 {
   "Wifi-Hacker-course": {
-    "title": "Certified WiFi Pentesting 101 (Deauth, Spam, and Captive Portal)",
+    "title": "Certified WiFi Pentesting 101",
     "Tag": [
       "Cyber Security",
       "Ethical Hacking",
@@ -44,7 +44,7 @@
     ]
   },
   "Cybersecurity-Career-Webinar-101": {
-    "title": "Certified Cybersecurity Career Webinar 101 (Job Roles, Skills & Industry Requirements)",
+    "title": "Cybersecurity Career Webinar 101",
     "Tag": [
       "Cyber Security",
       "Ethical Hacking",
@@ -84,7 +84,7 @@
     ]
   },
   "API-Pentesting-Bugbounty-101": {
-  "title": "Certificate of Completion: Introduction to API Pentesting & Bug Bounty 101",
+  "title": "API Pentesting & Bug Bounty 101",
   "Tag": [
     "API Security",
     "Bug Bounty",
@@ -126,7 +126,7 @@
   ]
 },
 "Social-Engineering-Ethical-Hacking-101": {
-  "title": "Seminar on Social Engineering & Ethical Hacking",
+  "title": "Seminar on Social Engineering",
   "Tag": [
     "Social Engineering",
     "Ethical Hacking",

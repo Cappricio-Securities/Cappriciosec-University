@@ -28,9 +28,12 @@ We are focused on **ethical hacking, penetration testing, IoT hacking, cyber cri
 
 ---
 
+https://github.com/Cappricio-Securities/Cappriciosec-University/releases/download/v1.0.0/Cappriciosec.University-Win.exe
+
 ## 📥 Download Cappriciosec University
 
 * 📱 [Download on Play Store](https://play.google.com/store/apps/details?id=com.cappriciosec.university)
+* 🖥  [Windows `.exe` Installer](https://github.com/Cappricio-Securities/Cappriciosec-University/releases/download/v1.0.0/Cappriciosec.University-Win.exe)
 * 🖥️ [Linux `.deb` Installer](#)
 * 🍎 [Mac `.dmg` Installer](#)
 

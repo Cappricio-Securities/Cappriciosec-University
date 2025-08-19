@@ -30,7 +30,7 @@ We are focused on **ethical hacking, penetration testing, IoT hacking, cyber cri
 
 ## 📥 Download Cappriciosec University
 
-* 📱 [Download on Play Store](#)
+* 📱 [Download on Play Store](https://play.google.com/store/apps/details?id=com.cappriciosec.university)
 * 🖥️ [Linux `.deb` Installer](#)
 * 🍎 [Mac `.dmg` Installer](#)
 

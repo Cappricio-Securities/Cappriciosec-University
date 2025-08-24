@@ -12,107 +12,6 @@
     "https://raw.githubusercontent.com/Cappricio-Securities/Cappriciosec-University/refs/heads/main/course/CWBP.json",
     "https://raw.githubusercontent.com/Cappricio-Securities/Cappriciosec-University/refs/heads/main/course/OJIPT.json"
   ],
-  "CWBP": {
-    "title": "Certified Web Apps Pen-Testing & Bug-Bounty",
-    "Tag": [
-      "CyberSecurity",
-      "Bug Bounty",
-      "Web Application Security",
-      "Reconnaissance",
-      "Enumeration",
-      "Burp Suite",
-      "Ethical Hacking",
-      "Vulnerability Assessment",
-      "SSRF",
-      "EXIF Injection",
-      "SVG Exploits",
-      "Session Hijacking",
-      "CSRF",
-      "Cloud App Security"
-    ],
-    "banner": "https://university.cappriciosecurities.com/android/images-new/CWBP.webp",
-    "Language": "தமிழ்",
-    "Short Description": "A beginner to advanced course on Web Apps Pen-Testing & Bug-Bounty",
-    "Description": "This Course Is Aimed At Beginners Who Want To Learn Hacking And Pen-Testing From Basics. After This Course , You Will Have Good Understanding Of How To Approach A Machine And You Can Develop Your Own Methodology.",
-    "Duration": "8h 48min",
-    "preview": "https://youtu.be/BLwR_YOCpzA?si=QHWCDG7zTb3WipAs",
-    "Access": "lifetime",
-    "Starts": 4.7,
-    "students enrolled count": 1324,
-    "price": 5000,
-    "offer price": 3500,
-    "offer percentage": "25%",
-    "PREREQUISITES": "Basic PC/Laptop familiarity. No coding experience needed.",
-    "Pay Now": "https://university.cappriciosec.com/payment/?cid=CWBP",
-    "Enroll now": "https://university.cappriciosec.com/CWBP.html",
-    "Cert_img": "https://university.cappriciosec.com/images/cert.svg",
-    "What you'll learn": [
-      "Understanding the bug bounty",
-      "Burp Suite, domain recon tools",
-      "HTTP status codes and headers",
-      "Real-world attack chains",
-      "Identifying and exploiting misconfigured HTTP headers",
-      "Real-world PoCs ",
-      "Understanding SSRF and blind SSRF",
-      "Discovering rate limiting issues in APIs",
-      "Identifying CSRF on real-world web applications",
-      "DOM-based XSS exploitation",
-      "Hands-on proof-of-concept demos for each vulnerability"
-    ],
-    "Mentor": {
-      "name": "karthithehacker",
-      "title": "Founder and CEO of Cappricio Securities , Ethical Hacker, Cybersecurity Researcher",
-      "url": "https://karthithehacker.com/",
-      "image": "https://avatars.githubusercontent.com/u/33289300?v=4",
-      "description": "👨‍🏫 Meet Your Mentor: Karthikeyan V (a.k.a. Karthithehacker) Karthikeyan V is a renowned ethical hacker, cybersecurity researcher, and the founder of Cappricio Securities, a company dedicated to practical cybersecurity education. With a track record of reporting vulnerabilities in top platforms like Google, Pinterest, Android OS, and Upwork, he brings real-world experience directly into the classroom. He is the creator of several popular open-source security tools including Gh0stR3c0n, CRLFi, and Poseidon. His expertise ranges from bug bounty hunting and OSINT to advanced penetration testing and red teaming. Karthikeyan is also a popular cybersecurity content creator, known for breaking down complex topics in Tamil, making learning accessible to a wider audience. Despite coming from a modest background, his journey from a self-taught hacker to an industry leader has inspired thousands. As your mentor for the CEHPT course, he focuses on hands-on training, real-time attack simulations, and helping students develop the mindset of a professional ethical hacker. 🔐 “In this course, I won’t just teach you tools — I’ll show you how to think like a hacker.” — Karthikeyan V"
-     }
-    },
-  "CAPBB": {
-    "title": "Certified API Pentesting and Bug Bounty",
-    "Tag": [
-      "CyberSecurity",
-      "Bugbounty",
-      "Api",
-      "Coding",
-      "pentesting",
-      "Live Hacking",
-      "python",
-      "DNS",
-      "BOLA"
-    ],
-    "banner": "https://university.cappriciosecurities.com/android/images-new/capbb.webp",
-    "Language": "தமிழ்",
-    "Short Description": "Master API penetration testing techniques and bug bounty hunting skills with a certified course focused on real-world vulnerabilities, security best practices, and ethical hacking methodologies.",
-    "Description": "The Certified API Pentesting and Bug Bounty course is designed for cybersecurity enthusiasts and professionals aiming to specialize in API security. This course provides in-depth training on identifying, exploiting, and reporting API vulnerabilities using industry-standard tools and methodologies.",
-    "Duration": "22h 23min",
-    "price": 5500,
-    "Access": "lifetime",
-    "students enrolled count": 1324,
-    "PREREQUISITES": "Basic PC/Laptop familiarity. No coding experience needed.",
-    "Pay Now": "https://university.cappriciosec.com/payment/?cid=CAPBB",
-    "Enroll now": "https://university.cappriciosec.com/CAPBB.html",
-    "Cert_img": "https://university.cappriciosec.com/images/cert.svg",
-    "What you'll learn": [
-      "API Fundamentals",
-      "Install and configure API testing tools like Postman and Burp Suite",
-      "Use Swagger UI and CURL for testing and debugging APIs",
-      "FastAPI Development",
-      "Understand authorization and secure header practices",
-      "API Testing Techniques",
-      "OWASP API Vulnerabilities",
-      "Conduct blind injection, DNS exfiltration, and gain shell access",
-      "Insecure Deserialization",
-      "Rate Limiting and GraphQL",
-      "Understand and exploit CVE-2017-5487 in API contexts"
-    ],
-    "Mentor": {
-      "name": "karthithehacker",
-      "title": "Founder and CEO of Cappricio Securities , Ethical Hacker, Cybersecurity Researcher",
-      "url": "https://karthithehacker.com/",
-      "image": "https://avatars.githubusercontent.com/u/33289300?v=4",
-      "description": "👨‍🏫 Meet Your Mentor: Karthikeyan V (a.k.a. Karthithehacker) Karthikeyan V is a renowned ethical hacker, cybersecurity researcher, and the founder of Cappricio Securities, a company dedicated to practical cybersecurity education. With a track record of reporting vulnerabilities in top platforms like Google, Pinterest, Android OS, and Upwork, he brings real-world experience directly into the classroom. He is the creator of several popular open-source security tools including Gh0stR3c0n, CRLFi, and Poseidon. His expertise ranges from bug bounty hunting and OSINT to advanced penetration testing and red teaming. Karthikeyan is also a popular cybersecurity content creator, known for breaking down complex topics in Tamil, making learning accessible to a wider audience. Despite coming from a modest background, his journey from a self-taught hacker to an industry leader has inspired thousands. As your mentor for the CEHPT course, he focuses on hands-on training, real-time attack simulations, and helping students develop the mindset of a professional ethical hacker. 🔐 “In this course, I won’t just teach you tools — I’ll show you how to think like a hacker.” — Karthikeyan V"
-     }
-    },
   "CID": {
     "CEHPT": {
       "title": "Certified Ethical Hacking & Penetration Testing",
@@ -555,6 +454,52 @@
         "description": "👨‍🏫 Meet Your Mentor: Karthikeyan V (a.k.a. Karthithehacker) Karthikeyan V is a renowned ethical hacker, cybersecurity researcher, and the founder of Cappricio Securities, a company dedicated to practical cybersecurity education. With a track record of reporting vulnerabilities in top platforms like Google, Pinterest, Android OS, and Upwork, he brings real-world experience directly into the classroom. He is the creator of several popular open-source security tools including Gh0stR3c0n, CRLFi, and Poseidon. His expertise ranges from bug bounty hunting and OSINT to advanced penetration testing and red teaming. Karthikeyan is also a popular cybersecurity content creator, known for breaking down complex topics in Tamil, making learning accessible to a wider audience. Despite coming from a modest background, his journey from a self-taught hacker to an industry leader has inspired thousands. As your mentor for the CEHPT course, he focuses on hands-on training, real-time attack simulations, and helping students develop the mindset of a professional ethical hacker. 🔐 “In this course, I won’t just teach you tools — I’ll show you how to think like a hacker.” — Karthikeyan V"
       }
     },
+    "CAPBB": {
+    "title": "Certified API Pentesting and Bug Bounty",
+    "Tag": [
+      "CyberSecurity",
+      "Bugbounty",
+      "Api",
+      "Coding",
+      "pentesting",
+      "Live Hacking",
+      "python",
+      "DNS",
+      "BOLA"
+    ],
+    "banner": "https://university.cappriciosecurities.com/android/images-new/capbb.webp",
+    "Language": "தமிழ்",
+    "Short Description": "Master API penetration testing techniques and bug bounty hunting skills with a certified course focused on real-world vulnerabilities, security best practices, and ethical hacking methodologies.",
+    "Description": "The Certified API Pentesting and Bug Bounty course is designed for cybersecurity enthusiasts and professionals aiming to specialize in API security. This course provides in-depth training on identifying, exploiting, and reporting API vulnerabilities using industry-standard tools and methodologies.",
+    "Duration": "22h 23min",
+    "price": 5500,
+    "Access": "lifetime",
+    "students enrolled count": 1324,
+    "PREREQUISITES": "Basic PC/Laptop familiarity. No coding experience needed.",
+    "Pay Now": "https://university.cappriciosec.com/payment/?cid=CAPBB",
+    "Enroll now": "https://university.cappriciosec.com/CAPBB.html",
+    "Cert_img": "https://university.cappriciosec.com/images/cert.svg",
+    "What you'll learn": [
+      "API Fundamentals",
+      "Install and configure API testing tools like Postman and Burp Suite",
+      "Use Swagger UI and CURL for testing and debugging APIs",
+      "FastAPI Development",
+      "Understand authorization and secure header practices",
+      "API Testing Techniques",
+      "OWASP API Vulnerabilities",
+      "Conduct blind injection, DNS exfiltration, and gain shell access",
+      "Insecure Deserialization",
+      "Rate Limiting and GraphQL",
+      "Understand and exploit CVE-2017-5487 in API contexts"
+    ],
+    "Mentor": {
+      "name": "karthithehacker",
+      "title": "Founder and CEO of Cappricio Securities , Ethical Hacker, Cybersecurity Researcher",
+      "url": "https://karthithehacker.com/",
+      "image": "https://avatars.githubusercontent.com/u/33289300?v=4",
+      "description": "👨‍🏫 Meet Your Mentor: Karthikeyan V (a.k.a. Karthithehacker) Karthikeyan V is a renowned ethical hacker, cybersecurity researcher, and the founder of Cappricio Securities, a company dedicated to practical cybersecurity education. With a track record of reporting vulnerabilities in top platforms like Google, Pinterest, Android OS, and Upwork, he brings real-world experience directly into the classroom. He is the creator of several popular open-source security tools including Gh0stR3c0n, CRLFi, and Poseidon. His expertise ranges from bug bounty hunting and OSINT to advanced penetration testing and red teaming. Karthikeyan is also a popular cybersecurity content creator, known for breaking down complex topics in Tamil, making learning accessible to a wider audience. Despite coming from a modest background, his journey from a self-taught hacker to an industry leader has inspired thousands. As your mentor for the CEHPT course, he focuses on hands-on training, real-time attack simulations, and helping students develop the mindset of a professional ethical hacker. 🔐 “In this course, I won’t just teach you tools — I’ll show you how to think like a hacker.” — Karthikeyan V"
+     }
+    },
     "OJIPT": {
       "title": "Offensive Java and IoT Penetration Testing",
       "Tag": [
@@ -603,7 +548,6 @@
     }
   }
 }
-
 
 
 

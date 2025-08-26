@@ -94,12 +94,12 @@
           },
           {
             "number": "08",
-            "title": "Finding Live Sites",
+            "title": "Removing Dupes",
             "duration": "03:36 min"
           },
           {
             "number": "09",
-            "title": "Networking 3",
+            "title": "Finding Live Sites",
             "duration": "05:01 min"
           },
           {
@@ -304,7 +304,7 @@
           },
           {
             "number": "44",
-            "title": "PoC 1 Aptible Rate Limitin",
+            "title": "PoC 1 Aptible Rate Limiting",
             "duration": "03:00 min"
           },
           {
@@ -325,12 +325,12 @@
           {
             "number": "48",
             "title": "PoC 5 NL Site Rate Limiting",
-            "duration": "04:32 min"
+            "duration": "06:35 min"
           },
           {
             "number": "49",
             "title": "PoC 6 Casper Rate Limiting",
-            "duration": "04:05 min"
+            "duration": "04:32 min"
           }
         ]
       },
@@ -449,7 +449,7 @@
           },
           {
             "number": "71",
-            "title": "TheSecurity File Upload to BLIND",
+            "title": "The Security File Upload to BLIND",
             "duration": "04:07 min"
           }
         ]

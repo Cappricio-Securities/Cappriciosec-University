@@ -1,0 +1,992 @@
+{
+  "HackerED": {
+    "title": "Master in Cyber Security and Ethical Hacking",
+    "Tag": [
+      "Cybersecurity",
+      "Ethical Hacking",
+      "Linux",
+      "Web Development",
+      "PHP",
+      "Social Engineering",
+      "Credential Theft",
+      "Keylogger",
+      "Phishing",
+      "Mobile Hacking",
+      "IoT Security",
+      "Python",
+      "Bug Bounty",
+      "Reconnaissance",
+      "Open Redirect",
+      "NodeJS",
+      "RF Pentesting",
+      "Spyware",
+      "Reverse Engineering",
+      "Assembly Language",
+      "C Programming",
+      "Memory Analysis",
+      "PE File",
+      "Cheat Engine",
+      "Memory Manipulation",
+      "Windows API",
+      "Software Protection",
+      "Bypassing",
+      "KeyGen",
+      "Anti-Debugging",
+      "Anti-Tampering",
+      "License Bypass",
+      "Trial Bypass"
+    ],
+    "banner": "https://university.cappriciosec.com/Assets/images/course_banner/HackerED.webp",
+    "Language": "English",
+    "Short Description": "Learn ethical hacking, tool setup, Linux basics, web development, PHP, social engineering, credential theft, keyloggers, bug exploits, email attacks, mobile hacking, IoT pentesting, Python for cybersecurity, bug bounty hunting, reconnaissance, open redirect exploits, NodeJS, RF pentesting, and spyware surveillance.",
+    "Description": "This course offers practical training on ethical hacking fundamentals, including tool installation and Linux essentials. It covers web development, PHP, social engineering, phishing, keylogger usage, bug analysis, email and domain attacks, mobile and IoT hacking, Python programming, bug bounty techniques, reconnaissance methods, open redirect vulnerabilities, NodeJS for security, RF pentesting, and advanced spyware tools. Learners gain hands-on skills to become proficient ethical hackers.",
+    "Duration": "56h 23min",
+    "price": "35,000",
+    "Access": "lifetime",
+    "students enrolled count": 26,
+    "PREREQUISITES": "Basic PC/Laptop familiarity. No coding experience needed.",
+    "Pay Now": "https://university.cappriciosec.com/payment/?cid=HackerED",
+    "Enroll now": "https://university.cappriciosec.com/HackerED.html",
+    "Cert_img": "https://university.cappriciosec.com/images/cert.svg",
+    "What you'll learn": [
+      "Introduction to ethical hacking and Prerequisites",
+      "Installation and setup of necessary tools and Kali Linux",
+      "Fundamentals of Linux operating system",
+      "Basics of web development",
+      "PHP programming and server configuration including Apache and web hosting",
+      "Techniques in social engineering and web cloning",
+      "Methods for credential stealing and phishing attacks",
+      "Understanding and deploying keyloggers and session fixation attacks",
+      "Bug explanations and proof of concepts (PoCs) for vulnerabilities",
+      "Email, domain, and homograph attacks including SPF exploitation",
+      "Mobile hacking techniques and use of spyware",
+      "IoT penetration testing and exploit development",
+      "Python programming applied to cybersecurity",
+      "Bugbounty hunting and use of platform tools",
+      "Reconnaissance techniques including ASN, subdomain enumeration, port scanning and crawling",
+      "Open redirect vulnerabilities and their exploitation PoCs",
+      "NodeJS development for bug bounty purposes",
+      "RF pentesting basics and practical RF hacking on Raspberry Pi",
+      "Spyware and surveillance tools including keyloggers, webcam and screen capturing",
+      "Structure and analysis of Portable Executable (PE) files",
+      "Using Cheat Engine for memory manipulation and game hacking",
+      "Understanding Windows API, system calls, and software protection mechanisms",
+      "Techniques for basic software bypass and key generator (KeyGen) practicals",
+      "Anti-debugging techniques including use of IsDebuggerPresent API",
+      "Anti-tampering methods and license verification bypassing",
+      "Methods for bypassing trial software restrictions"
+    ],
+    "Mentor": {
+      "name": "karthithehacker",
+      "title": "Founder and CEO of Cappricio Securities , Ethical Hacker, Cybersecurity Researcher",
+      "url": "https://karthithehacker.com/",
+      "image": "https://avatars.githubusercontent.com/u/33289300?v=4",
+      "description": "👨‍🏫 Meet Your Mentor: Karthikeyan V (a.k.a. Karthithehacker) Karthikeyan V is a renowned ethical hacker, cybersecurity researcher, and the founder of Cappricio Securities, a company dedicated to practical cybersecurity education. With a track record of reporting vulnerabilities in top platforms like Google, Pinterest, Android OS, and Upwork, he brings real-world experience directly into the classroom. He is the creator of several popular open-source security tools including Gh0stR3c0n, CRLFi, and Poseidon. His expertise ranges from bug bounty hunting and OSINT to advanced penetration testing and red teaming. Karthikeyan is also a popular cybersecurity content creator, known for breaking down complex topics in Tamil, making learning accessible to a wider audience. Despite coming from a modest background, his journey from a self-taught hacker to an industry leader has inspired thousands. As your mentor for the CEHPT course, he focuses on hands-on training, real-time attack simulations, and helping students develop the mindset of a professional ethical hacker. 🔐 “In this course, I won’t just teach you tools — I’ll show you how to think like a hacker.” — Karthikeyan V"
+    },
+    "content": [
+      {
+        "topic": "Chapter 1: Introduction & Requirements",
+        "videos": [
+          { "number": "01", "title": "About mentor", "duration": "05:54 min" },
+          { "number": "02", "title": "Requirements", "duration": "04:58 min" }
+        ]
+      },
+      {
+        "topic": "Chapter 2: Installation & Setup",
+        "videos": [
+          {
+            "number": "03",
+            "title": "Installation And Setup",
+            "duration": "04:51 min"
+          },
+          {
+            "number": "04",
+            "title": "Kali Installation",
+            "duration": "5:09 min"
+          }
+        ]
+      },
+      {
+        "topic": "Chapter 3: Linux Fundamentals",
+        "videos": [
+          { "number": "05", "title": "Linux 1", "duration": "06:19 min" },
+          { "number": "06", "title": "Linux 2", "duration": "07:30 min" },
+          { "number": "07", "title": "Linux 3", "duration": "05:45 min" },
+          { "number": "08", "title": "Linux 4", "duration": "09:14 min" },
+          { "number": "09", "title": "Linux 5", "duration": "04:19 min" }
+        ]
+      },
+      {
+        "topic": "Chapter 4: Web Development Basics",
+        "videos": [
+          {
+            "number": "10",
+            "title": "Web Development 1",
+            "duration": "08:01 min"
+          },
+          {
+            "number": "11",
+            "title": "Web Development 2",
+            "duration": "13:49 min"
+          },
+          {
+            "number": "12",
+            "title": "Web Development 3",
+            "duration": "08:30 min"
+          },
+          {
+            "number": "13",
+            "title": "Web Development 4",
+            "duration": "07:18 min"
+          }
+        ]
+      },
+      {
+        "topic": "Chapter 5: PHP & Server Configuration",
+        "videos": [
+          { "number": "14", "title": "PHP 1", "duration": "12:31 min" },
+          { "number": "15", "title": "PHP 2", "duration": "04:11 min" },
+          { "number": "16", "title": "PHP 3", "duration": "11:04 min" },
+          { "number": "17", "title": "Apache Server", "duration": "02:36 min" },
+          {
+            "number": "18",
+            "title": "Server Configuration",
+            "duration": "07:54 min"
+          },
+          { "number": "19", "title": "Log Analysis", "duration": "04:44 min" },
+          {
+            "number": "20",
+            "title": "All About Web Server",
+            "duration": "06:22 min"
+          },
+          { "number": "21", "title": "Web Hosting", "duration": "02:53 min" },
+          {
+            "number": "22",
+            "title": "About Domain Name",
+            "duration": "04:10 min"
+          },
+          {
+            "number": "27",
+            "title": "Linking PHP & HTML",
+            "duration": "05:51 min"
+          },
+          {
+            "number": "28",
+            "title": "Making web public",
+            "duration": "05:51 min"
+          }
+        ]
+      },
+      {
+        "topic": "Chapter 6: Social Engineering & Web Cloning",
+        "videos": [
+          {
+            "number": "23",
+            "title": "Ways To Hack Social Accounts",
+            "duration": "03:23 min"
+          },
+          {
+            "number": "24",
+            "title": "Social Media Hacking tools",
+            "duration": "04:48 min"
+          },
+          { "number": "25", "title": "Web Cloning 1", "duration": "03:43 min" },
+          { "number": "26", "title": "Web Cloning 2", "duration": "07:48 min" }
+        ]
+      },
+      {
+        "topic": "Chapter 7: Credential Stealing & Phishing",
+        "videos": [
+          {
+            "number": "29",
+            "title": "Demo of credentials stealing",
+            "duration": "03:56 min"
+          },
+          {
+            "number": "30",
+            "title": "PayPal credentials stealing",
+            "duration": "02:26 min"
+          },
+          {
+            "number": "31",
+            "title": "Google credentials stealing",
+            "duration": "04:21 min"
+          },
+          {
+            "number": "32",
+            "title": "Poseidon Tool setup",
+            "duration": "09:31 min"
+          },
+          {
+            "number": "33",
+            "title": "Spear phishing on twitter",
+            "duration": "05:00 min"
+          }
+        ]
+      },
+      {
+        "topic": "Chapter 8: Keyloggers & Attacks",
+        "videos": [
+          {
+            "number": "34",
+            "title": "Client Side KeyLogger",
+            "duration": "01:52 min"
+          },
+          {
+            "number": "35",
+            "title": "Server Side KeyLogger",
+            "duration": "01:08 min"
+          },
+          {
+            "number": "36",
+            "title": "Netflix Live Attack",
+            "duration": "03:39 min"
+          },
+          {
+            "number": "37",
+            "title": "Session Fixation",
+            "duration": "07:37 min"
+          }
+        ]
+      },
+      {
+        "topic": "Chapter 9: Bug Explanation & PoCs",
+        "videos": [
+          {
+            "number": "38",
+            "title": "Google Bug explaination",
+            "duration": "04:21 min"
+          },
+          { "number": "39", "title": "Google PoC", "duration": "05:18 min" },
+          { "number": "40", "title": "FitBit PoC", "duration": "03:09 min" },
+          {
+            "number": "41",
+            "title": "TeipAdvisor PoC",
+            "duration": "03:09 min"
+          }
+        ]
+      },
+      {
+        "topic": "Chapter 10: Email, Domain, and Homograph Attacks",
+        "videos": [
+          {
+            "number": "42",
+            "title": "IDN homograph attack",
+            "duration": "02:05 min"
+          },
+          {
+            "number": "43",
+            "title": "About SPF Exploitation",
+            "duration": "01:52 min"
+          },
+          {
+            "number": "44",
+            "title": "SPF Exploitation",
+            "duration": "02:47 min"
+          }
+        ]
+      },
+      {
+        "topic": "Chapter 11: Mobile Hacking and Spyware",
+        "videos": [
+          {
+            "number": "45",
+            "title": "Mobile Hacking",
+            "duration": "03:13 min"
+          },
+          {
+            "number": "46",
+            "title": "Gaining Connection",
+            "duration": "03:26 min"
+          },
+          {
+            "number": "47",
+            "title": "Attacking Cmds For Mobile",
+            "duration": "02:56 min"
+          },
+          { "number": "48", "title": "SMS Hacking", "duration": "01:27 min" },
+          {
+            "number": "49",
+            "title": "WebCam Hacking",
+            "duration": "05:04 min"
+          },
+          {
+            "number": "50",
+            "title": "MobieTracker Spyware intro",
+            "duration": "03:22 min"
+          },
+          {
+            "number": "51",
+            "title": "MobieTracker Spyware Usages",
+            "duration": "04:07 min"
+          },
+          {
+            "number": "52",
+            "title": "MobieTracker Spyware Features",
+            "duration": "06:16 min"
+          },
+          {
+            "number": "53",
+            "title": "MobieTracker Live Hacking 1",
+            "duration": "07:00 min"
+          },
+          {
+            "number": "54",
+            "title": "MobieTracker Live Hacking 2",
+            "duration": "02:10 min"
+          }
+        ]
+      },
+      {
+        "topic": "Chapter 12: IoT Pentesting & Exploits",
+        "videos": [
+          {
+            "number": "55",
+            "title": "Why IoT Pentesting",
+            "duration": "04:54 min"
+          },
+          {
+            "number": "56",
+            "title": "Requirements For IoT Pentest",
+            "duration": "07:44 min"
+          },
+          {
+            "number": "57",
+            "title": "Hardware Config",
+            "duration": "02:19 min"
+          },
+          { "number": "58", "title": "Sniffing Data", "duration": "09:34 min" },
+          { "number": "59", "title": "IoT Recon 1", "duration": "05:48 min" },
+          { "number": "60", "title": "Iot Recon 2", "duration": "03:32 min" },
+          { "number": "61", "title": "Iot Attack 1", "duration": "07:43 min" },
+          { "number": "62", "title": "Iot Attack 2", "duration": "04:34 min" },
+          {
+            "number": "63",
+            "title": "IoT Exploit Development",
+            "duration": "05:15 min"
+          },
+          {
+            "number": "64",
+            "title": "Critical Remote Attack IoT",
+            "duration": "04:43 min"
+          },
+          {
+            "number": "65",
+            "title": "Remote Attack Tool Development",
+            "duration": "02:03 min"
+          },
+          { "number": "66", "title": "Philips POC 1", "duration": "00:41 min" },
+          { "number": "67", "title": "Philips POC 2", "duration": "01:00 min" },
+          {
+            "number": "68",
+            "title": "Hardware Exploit",
+            "duration": "00:16 min"
+          }
+        ]
+      },
+      {
+        "topic": "Chapter 13: Python for Cyber Security",
+        "videos": [
+          {
+            "number": "69",
+            "title": "Python for Cyber Security",
+            "duration": "04:07 min"
+          },
+          { "number": "70", "title": "Python I/O", "duration": "06:35 min" },
+          {
+            "number": "71",
+            "title": "Python Comments",
+            "duration": "04:39 min"
+          },
+          {
+            "number": "72",
+            "title": "Python Variables",
+            "duration": "05:05 min"
+          },
+          {
+            "number": "73",
+            "title": "Python Casting",
+            "duration": "06:02 min"
+          },
+          { "number": "74", "title": "Python Types", "duration": "03:45 min" },
+          { "number": "75", "title": "Cli login app", "duration": "09:11 min" },
+          {
+            "number": "76",
+            "title": "Python while loop",
+            "duration": "04:47 min"
+          },
+          {
+            "number": "77",
+            "title": "Python for loop & array",
+            "duration": "05:20 min"
+          },
+          {
+            "number": "78",
+            "title": "Python def cli app",
+            "duration": "11:54 min"
+          },
+          {
+            "number": "79",
+            "title": "Python file operations",
+            "duration": "06:24 min"
+          },
+          {
+            "number": "80",
+            "title": "Python error handeling",
+            "duration": "09:23 min"
+          },
+          {
+            "number": "81",
+            "title": "Python arguments",
+            "duration": "04:42 min"
+          },
+          {
+            "number": "82",
+            "title": "Python OS calls",
+            "duration": "03:45 min"
+          },
+          {
+            "number": "83",
+            "title": "Python Http request",
+            "duration": "04:30 min"
+          },
+          {
+            "number": "84",
+            "title": "Python password cracking tool",
+            "duration": "19:02 min"
+          }
+        ]
+      },
+      {
+        "topic": "Chapter 14: Bugbounty & Platform Tools",
+        "videos": [
+          {
+            "number": "85",
+            "title": "About Bugbounty",
+            "duration": "07:09 min"
+          },
+          {
+            "number": "86",
+            "title": "Bugbounty Platforms",
+            "duration": "07:43 min"
+          },
+          {
+            "number": "87",
+            "title": "BugBounty tools & Recon",
+            "duration": "08:34 min"
+          },
+          {
+            "number": "88",
+            "title": "Tools installation & Github",
+            "duration": "11:22 min"
+          },
+          {
+            "number": "89",
+            "title": "Burp Suite Configuration",
+            "duration": "06:39 min"
+          }
+        ]
+      },
+      {
+        "topic": "Chapter 15: Reconnaissance Techniques",
+        "videos": [
+          {
+            "number": "90",
+            "title": "(RECON) Finding ASN",
+            "duration": "08:41 min"
+          },
+          {
+            "number": "91",
+            "title": "(RECON) Finding Domain from ASN",
+            "duration": "04:39 min"
+          },
+          {
+            "number": "92",
+            "title": "(RECON) SubDomain Enumuration 1",
+            "duration": "08:16 min"
+          },
+          {
+            "number": "93",
+            "title": "(RECON) SubDomain Enumuration 2",
+            "duration": "06:30 min"
+          },
+          {
+            "number": "94",
+            "title": "(RECON) SubDomain Enumuration 3",
+            "duration": "04:01 min"
+          },
+          {
+            "number": "95",
+            "title": "(RECON) SubDomain Enumuration 4",
+            "duration": "03:58 min"
+          },
+          {
+            "number": "96",
+            "title": "(RECON) SubDomain Enumuration 5",
+            "duration": "03:16 min"
+          },
+          {
+            "number": "97",
+            "title": "(RECON) SubDomain Dorking",
+            "duration": "04:41 min"
+          },
+          {
+            "number": "98",
+            "title": "(RECON) SubDomain Enumuration 6",
+            "duration": "02:20 min"
+          },
+          {
+            "number": "99",
+            "title": "(RECON) SubDomain BruteForcing 1",
+            "duration": "06:55 min"
+          },
+          {
+            "number": "100",
+            "title": "(RECON) SubDomain BruteForcing 2",
+            "duration": "04:38 min"
+          },
+          {
+            "number": "101",
+            "title": "(RECON) SubDomain BruteForcing 3",
+            "duration": "04:00 min"
+          },
+          {
+            "number": "102",
+            "title": "(RECON) Removing Duplicates",
+            "duration": "03:57 min"
+          },
+          {
+            "number": "103",
+            "title": "(RECON) Finding Subs of Subs 1",
+            "duration": "03:03 min"
+          },
+          {
+            "number": "104",
+            "title": "(RECON) Finding Subs of Subs 2",
+            "duration": "06:29 min"
+          },
+          {
+            "number": "105",
+            "title": "(RECON) Finding Subs of Subs 3",
+            "duration": "03:50 min"
+          },
+          {
+            "number": "106",
+            "title": "(RECON) Finding Live Domains",
+            "duration": "07:23 min"
+          },
+          {
+            "number": "107",
+            "title": "(RECON) Understanding Web Ports",
+            "duration": "04:34 min"
+          },
+          {
+            "number": "108",
+            "title": "(RECON) Finding Open Ports 1",
+            "duration": "05:33 min"
+          },
+          {
+            "number": "109",
+            "title": "(RECON) Finding Open Ports 2",
+            "duration": "03:58 min"
+          },
+          {
+            "number": "110",
+            "title": "(RECON) Finding Open Ports 3",
+            "duration": "01:55 min"
+          },
+          {
+            "number": "111",
+            "title": "(RECON) Finding Open Ports 4",
+            "duration": "05:14 min"
+          },
+          {
+            "number": "112",
+            "title": "(RECON) Finding Open Ports 5",
+            "duration": "01:24 min"
+          },
+          {
+            "number": "113",
+            "title": "(RECON) Web Crawling",
+            "duration": "06:46 min"
+          },
+          {
+            "number": "114",
+            "title": "(RECON) Directory BruteForcing",
+            "duration": "05:55 min"
+          }
+        ]
+      },
+      {
+        "topic": "Chapter 16: Open Redirect Bugs & PoCs",
+        "videos": [
+          {
+            "number": "115",
+            "title": "(Web Bugs) About Open Redirect",
+            "duration": "09:40 min"
+          },
+          {
+            "number": "116",
+            "title": "(Web Bugs) Tips Open Redirect",
+            "duration": "02:26 min"
+          },
+          {
+            "number": "117",
+            "title": "(Web Bugs) Live Open Redirect",
+            "duration": "08:57 min"
+          },
+          {
+            "number": "118",
+            "title": "(Web Bugs) Live Open Redirect",
+            "duration": "09:12 min"
+          },
+          {
+            "number": "119",
+            "title": "(Web Bugs) automation Open Redirect",
+            "duration": "06:55 min"
+          },
+          {
+            "number": "120",
+            "title": "(Web Bugs) Report Open Redirect",
+            "duration": "04:26 min"
+          },
+          {
+            "number": "121",
+            "title": "(Web Bugs) Tips Open Redirect",
+            "duration": "02:57 min"
+          },
+          {
+            "number": "133",
+            "title": "(PoC) Open Redirect [Google]",
+            "duration": "01:34 min"
+          },
+          {
+            "number": "134",
+            "title": "(PoC) Open Redirect [Dutch Gov]",
+            "duration": "02:08 min"
+          },
+          {
+            "number": "135",
+            "title": "(PoC) Open Redirect [Uber]",
+            "duration": "02:53 min"
+          },
+          {
+            "number": "136",
+            "title": "(PoC) Open Redirect [SecNews]",
+            "duration": "02:04 min"
+          },
+          {
+            "number": "137",
+            "title": "(PoC) Open Redirect [Scotts]",
+            "duration": "02:38 min"
+          },
+          {
+            "number": "138",
+            "title": "(PoC) Open Redirect [Moralis]",
+            "duration": "02:37 min"
+          },
+          {
+            "number": "139",
+            "title": "(PoC) Open Redirect [Nl Gov]",
+            "duration": "01:50 min"
+          },
+          {
+            "number": "140",
+            "title": "(PoC) Open Redirect [Hey]",
+            "duration": "00:53 min"
+          }
+        ]
+      },
+      {
+        "topic": "Chapter 17: NodeJS for Bugbounty",
+        "videos": [
+          {
+            "number": "122",
+            "title": "Nodejs For Bugbounty",
+            "duration": "03:21 min"
+          },
+          { "number": "123", "title": "NodeJs Setup", "duration": "04:27 min" },
+          {
+            "number": "124",
+            "title": "Creating NodeJs CLI app 1",
+            "duration": "13:40 min"
+          },
+          {
+            "number": "125",
+            "title": "Creating NodeJs CLI app 2",
+            "duration": "18:08 min"
+          },
+          {
+            "number": "126",
+            "title": "Creating NodeJs CLI app 3",
+            "duration": "07:25 min"
+          },
+          {
+            "number": "127",
+            "title": "NodeJs File Operation I/O 1",
+            "duration": "14:24 min"
+          },
+          {
+            "number": "128",
+            "title": "NodeJs File Operation I/O 2",
+            "duration": "06:42 min"
+          },
+          {
+            "number": "129",
+            "title": "NodeJs with HTTP Request 1",
+            "duration": "16:24 min"
+          },
+          {
+            "number": "130",
+            "title": "NodeJs with HTTP Request 2",
+            "duration": "03:20 min"
+          },
+          {
+            "number": "131",
+            "title": "NodeJs Solving errors",
+            "duration": "03:27 min"
+          }
+        ]
+      },
+      {
+        "topic": "Chapter 18: RF Pentesting",
+        "videos": [
+          {
+            "number": "141",
+            "title": "RF Pentesting Basic",
+            "duration": "15:32 min"
+          },
+          {
+            "number": "142",
+            "title": "RF Pentesting Requirements",
+            "duration": "11:26 min"
+          },
+          {
+            "number": "143",
+            "title": "RF Development Practical 1",
+            "duration": "06:11 min"
+          },
+          {
+            "number": "144",
+            "title": "RF Development Practical 2",
+            "duration": "06:52 min"
+          },
+          {
+            "number": "145",
+            "title": "RF Development Practical 3",
+            "duration": "03:01 min"
+          },
+          {
+            "number": "146",
+            "title": "RF Development Practical 4",
+            "duration": "04:36 min"
+          },
+          {
+            "number": "147",
+            "title": "(RF Pentesing) Sniffing Mhz",
+            "duration": "08:01 min"
+          },
+          {
+            "number": "148",
+            "title": "(RF Pentesing) Decording Signals",
+            "duration": "10:09 min"
+          },
+          {
+            "number": "149",
+            "title": "About Raspberry Pi",
+            "duration": "09:09 min"
+          },
+          {
+            "number": "150",
+            "title": "Raspberry PI setup",
+            "duration": "05:12 min"
+          },
+          {
+            "number": "151",
+            "title": "Raspberry PI Configuration",
+            "duration": "06:53 min"
+          },
+          {
+            "number": "152",
+            "title": "(RF Pentesing) Raspberry PI setup",
+            "duration": "04:21 min"
+          },
+          {
+            "number": "153",
+            "title": "(RF Pentesing) RF replay attack 1",
+            "duration": "03:15 min"
+          },
+          {
+            "number": "154",
+            "title": "(RF Pentesing) RF replay attack 2",
+            "duration": "06:43 min"
+          }
+        ]
+      },
+      {
+        "topic": "Chapter 19: Spyware & Surveillance",
+        "videos": [
+          {
+            "number": "218",
+            "title": "About Spyware",
+            "duration": "16:05 min"
+          },
+          {
+            "number": "219",
+            "title": "About Spyware 2",
+            "duration": "03:57 min"
+          },
+          { "number": "227", "title": "Keylogger", "duration": "1:06:59 min" },
+          {
+            "number": "228",
+            "title": "WebCam Capturing",
+            "duration": "26:51 min"
+          },
+          {
+            "number": "229",
+            "title": "Screen Capturing",
+            "duration": "11:35 min"
+          },
+          {
+            "number": "230",
+            "title": "Sending Keylogger Logs to Email",
+            "duration": "15:31 min"
+          },
+          {
+            "number": "231",
+            "title": "SAINT A Powerful Windows Spyware Generator",
+            "duration": "27:57 min"
+          },
+          {
+            "number": "232",
+            "title": "Pegasus spyware",
+            "duration": "06:54 min"
+          }
+        ]
+      },
+      {
+        "topic": "Chapter 20: Reverse Engineering",
+        "videos": [
+          { "number": "233", "title": "About Mentor", "duration": "01:43 min" },
+          {
+            "number": "234",
+            "title": "What is Reverse Engineering",
+            "duration": "09:33 min"
+          },
+          {
+            "number": "235",
+            "title": "How Reverse Engineering Works",
+            "duration": "09:49 min"
+          },
+          {
+            "number": "236",
+            "title": "Setting up the Environment",
+            "duration": "16:38 min"
+          },
+          {
+            "number": "237",
+            "title": "Introduction to Assembly Language",
+            "duration": "55:56 min"
+          },
+          {
+            "number": "238",
+            "title": "Understanding C Programming",
+            "duration": "12:30 min"
+          },
+          {
+            "number": "239",
+            "title": "Stack and Heap",
+            "duration": "16:02 min"
+          },
+          { "number": "240", "title": "Memory Layout", "duration": "14:40 min" }
+        ]
+      },
+      {
+        "topic": "Chapter 21: PE Files and Cheat Engine",
+        "videos": [
+          {
+            "number": "241",
+            "title": "Introduction to PE File Format",
+            "duration": "04:02 min"
+          },
+          {
+            "number": "242",
+            "title": "Analyzing PE Files",
+            "duration": "14:45 min"
+          },
+          {
+            "number": "243",
+            "title": "Starting with Cheat Engine",
+            "duration": "09:11 min"
+          },
+          {
+            "number": "244",
+            "title": "Hacking Hill Climb Racing Using Cheat Engine",
+            "duration": "8:36 min"
+          },
+          {
+            "number": "245",
+            "title": "Memory Manipulation Using Cheat Engine",
+            "duration": "6:53 min"
+          }
+        ]
+      },
+      {
+        "topic": "Chapter 22: Windows API and Software Protection",
+        "videos": [
+          { "number": "246", "title": "Windows API", "duration": "11:03 min" },
+          {
+            "number": "247",
+            "title": "Windows API & System Calls",
+            "duration": "10:19 min"
+          },
+          {
+            "number": "248",
+            "title": "Software Protection Mechanisms",
+            "duration": "13:20 min"
+          },
+          {
+            "number": "249",
+            "title": "Basic Software Bypass",
+            "duration": "13:48 min"
+          },
+          {
+            "number": "250",
+            "title": "KeyGen Practical",
+            "duration": "14:10 min"
+          }
+        ]
+      },
+      {
+        "topic": "Chapter 23: Anti-Debugging and Bypassing Techniques",
+        "videos": [
+          {
+            "number": "251",
+            "title": "Anti-Debugging Techniques",
+            "duration": "7:52 min"
+          },
+          {
+            "number": "252",
+            "title": "IsDebuggerPresent",
+            "duration": "16:55 min"
+          },
+          {
+            "number": "253",
+            "title": "Anti-Tampering Mechanisms",
+            "duration": "4:46 min"
+          },
+          {
+            "number": "254",
+            "title": "License Verification Bypassing",
+            "duration": "17:47 min"
+          },
+          {
+            "number": "255",
+            "title": "Bypassing Trial Restrictions",
+            "duration": "13:58 min"
+          }
+        ]
+      }
+    ]
+  }
+}

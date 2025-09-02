@@ -22,7 +22,7 @@
       "Networking",
       "Linux"
     ],
-    "banner": "https://university.cappriciosecurities.com/android/images-new/CEHPT.webp",
+    "banner": "https://university.cappriciosec.com/Assets/images/course_banner/CEHPT.webp",
     "Language": "தமிழ்",
     "Short Description": "A beginner to advanced course on ethical hacking and penetration testing.",
     "Description": "This Course Is Aimed At Beginners Who Want To Learn Hacking And Pen-Testing From Basics. After This Course , You Will Have Good Understanding Of How To Approach A Machine And You Can Develop Your Own Methodology.",
@@ -695,7 +695,7 @@
     ],
     "banner": "https://university.cappriciosec.com/Assets/images/course_banner/HackerED.webp",
     "Language": "English",
-    "Short Description": "Master the future of digital security with our Cybersecurity & Ethical Hacking Program—a dynamic, up-to-date course led by multiple expert mentors. Learn everything from fundamentals to advanced techniques with hands-on training in hacking, defense, and threat analysis—making you job-ready for a thriving career.",
+    "Short Description": "Learn ethical hacking, tool setup, Linux basics, web development, PHP, social engineering, credential theft, keyloggers, bug exploits, email attacks, mobile hacking, IoT pentesting, Python for cybersecurity, bug bounty hunting, reconnaissance, open redirect exploits, NodeJS, RF pentesting, and spyware surveillance.",
     "Description": "This course offers practical training on ethical hacking fundamentals, including tool installation and Linux essentials. It covers web development, PHP, social engineering, phishing, keylogger usage, bug analysis, email and domain attacks, mobile and IoT hacking, Python programming, bug bounty techniques, reconnaissance methods, open redirect vulnerabilities, NodeJS for security, RF pentesting, and advanced spyware tools. Learners gain hands-on skills to become proficient ethical hackers.",
     "Duration": "56h 23min",
     "price": "35,000",
@@ -756,7 +756,7 @@
       "Hardware Security",
       "Network Security"
     ],
-    "banner": "https://university.cappriciosecurities.com/android/images-new/OJIPT.webp",
+    "banner": "https://university.cappriciosec.com/Assets/images/course_banner/OJIPT.webp",
     "Language": "தமிழ்",
     "Short Description": "A deep-dive into offensive Java applications and IoT device penetration testing techniques.",
     "Description": "This course focuses on offensive security techniques targeting Java-based applications and IoT devices. Learners will explore real-world attack scenarios, gain hands-on experience exploiting Java vulnerabilities, and assess security weaknesses in Internet of Things ecosystems. Ideal for security professionals and developers aiming to build or break secure systems.",
@@ -1081,7 +1081,7 @@
       "DNS",
       "BOLA"
     ],
-    "banner": "https://university.cappriciosecurities.com/android/images-new/capbb.webp",
+    "banner": "https://university.cappriciosec.com/Assets/images/course_banner/CAPBB.webp",
     "Language": "தமிழ்",
     "Short Description": "Master API penetration testing techniques and bug bounty hunting skills with a certified course focused on real-world vulnerabilities, security best practices, and ethical hacking methodologies.",
     "Description": "The Certified API Pentesting and Bug Bounty course is designed for cybersecurity enthusiasts and professionals aiming to specialize in API security. This course provides in-depth training on identifying, exploiting, and reporting API vulnerabilities using industry-standard tools and methodologies.",
@@ -1489,7 +1489,7 @@
       "JADX",
       "Hunting"
     ],
-    "banner": "https://university.cappriciosecurities.com/android/images-new/CMABP.webp",
+    "banner": "https://university.cappriciosec.com/Assets/images/course_banner/CMABP.webp",
     "Language": "தமிழ்",
     "Short Description": "A practical course on offensive mobile app security, bug bounty hunting, and real-world pen-testing techniques",
     "Description": "This course is designed for learners aiming to master mobile application security through offensive testing techniques. You'll dive into real-world mobile threat scenarios, exploit common and advanced vulnerabilities, and develop practical skills to assess and attack mobile apps (ethically). By the end of the course, you'll be equipped to perform structured mobile app security assessments and contribute effectively to bug bounty programs..",
@@ -2075,7 +2075,7 @@
       "Tracking",
       "Forensics"
     ],
-    "banner": "https://university.cappriciosecurities.com/android/images-new/CCI.webp",
+    "banner": "https://university.cappriciosec.com/Assets/images/course_banner/CCI.webp",
     "Language": "தமிழ்",
     "Short Description": "This course is aimed at beginners who want to learn hacking and pen-testing from basics.",
     "Description": "This course is designed for beginners who want to learn ethical hacking and cyber crime investigation from scratch. After completing this course, you will understand the fundamentals of hacking, penetration testing, and digital investigation, enabling you to approach real-world scenarios confidently and build your own investigation and testing methodology.",
@@ -2701,7 +2701,7 @@
       "Raspberry Pi Pico",
       "Sensors"
     ],
-    "banner": "https://university.cappriciosecurities.com/android/images-new/CHID.webp",
+    "banner": "https://university.cappriciosec.com/Assets/images/course_banner/CHID.webp",
     "Language": "தமிழ்",
     "Short Description": "This course is aimed at beginners who want to learn how Hardware works and IoT Development from basics.",
     "Description": "This course is designed to learn how hardware works and IoT development. It covers the process of developing IoT products with the help of hardware devices that can be remotely controlled and can be used to monitor the connected product's condition or environment via sensors and external data sources.",
@@ -3068,7 +3068,7 @@
       "CSRF",
       "Cloud App Security"
     ],
-    "banner": "https://university.cappriciosecurities.com/android/images-new/CWBP.webp",
+    "banner": "https://university.cappriciosec.com/Assets/images/course_banner/CWBP.webp",
     "Language": "தமிழ்",
     "Short Description": "A beginner to advanced course on Web Apps Pen-Testing & Bug-Bounty",
     "Description": "This Course Is Aimed At Beginners Who Want To Learn Hacking And Pen-Testing From Basics. After This Course , You Will Have Good Understanding Of How To Approach A Machine And You Can Develop Your Own Methodology.",
@@ -3640,7 +3640,7 @@
       "Packet Sniffers",
       "Network Traffic Analysis"
     ],
-    "banner": "https://university.cappriciosecurities.com/android/images-new/CIPT.webp",
+    "banner": "https://university.cappriciosec.com/Assets/images/course_banner/CIPT.webp",
     "Language": "English",
     "Short Description": "This course focuses on IoT research and hardware reversing.",
     "Description": "This course is primarily focused on research works on IoT presenting and Hardware Reversing",
@@ -3782,7 +3782,7 @@
       "Netcat",
       "Phishing"
     ],
-    "banner": "https://university.cappriciosecurities.com/android/images-new/COSM.webp",
+    "banner": "https://university.cappriciosec.com/Assets/images/course_banner/COSM.webp",
     "Language": "தமிழ்",
     "Short Description": "This course focuses on Offensive Social Media and Mobile Hacking",
     "Description": "This course is aimed at beginners who want to learn hacking and pen testing from basics. After this course you will have good understanding of how to approach a machine and you can Develop your own methodology.",
@@ -4270,7 +4270,7 @@
       "CLI",
       "Scripting"
     ],
-    "banner": "https://university.cappriciosecurities.com/android/images-new/CTD.webp",
+    "banner": "https://university.cappriciosec.com/Assets/images/course_banner/CTD.webp",
     "Language": "English",
     "Short Description": "This course focuses on CLI Tool DEvelopment Using Python & Js.",
     "Description": "In this course, you will learn to develop powerful CLI tools for cybersecurity using Python and Node.js. This hands-on program focuses on building command-line applications tailored for penetration testing, vulnerability assessment, and automation in security workflows.",
@@ -4515,7 +4515,7 @@
       "Network Protocols",
       "Offensive Security"
     ],
-    "banner": "https://university.cappriciosecurities.com/android/images-new/CYPT.webp",
+    "banner": "https://university.cappriciosec.com/Assets/images/course_banner/CPYPT.webp",
     "Language": "தமிழ்",
     "Short Description": "this Course is focusing on how to hack real-world devices and secure it.",
     "Description": "This course is designed to focus on Physical Device Pen-Testing & IOT Hacking.It focuses on how to hack real-world devices and secure it.",

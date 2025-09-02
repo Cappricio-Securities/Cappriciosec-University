@@ -38,7 +38,7 @@
     ],
     "banner": "https://university.cappriciosec.com/Assets/images/course_banner/HackerED.webp",
     "Language": "English",
-    "Short Description": "Learn ethical hacking, tool setup, Linux basics, web development, PHP, social engineering, credential theft, keyloggers, bug exploits, email attacks, mobile hacking, IoT pentesting, Python for cybersecurity, bug bounty hunting, reconnaissance, open redirect exploits, NodeJS, RF pentesting, and spyware surveillance.",
+    "Short Description": "Master the future of digital security with our Cybersecurity & Ethical Hacking Program—a dynamic, up-to-date course led by multiple expert mentors. Learn everything from fundamentals to advanced techniques with hands-on training in hacking, defense, and threat analysis—making you job-ready for a thriving career.",
     "Description": "This course offers practical training on ethical hacking fundamentals, including tool installation and Linux essentials. It covers web development, PHP, social engineering, phishing, keylogger usage, bug analysis, email and domain attacks, mobile and IoT hacking, Python programming, bug bounty techniques, reconnaissance methods, open redirect vulnerabilities, NodeJS for security, RF pentesting, and advanced spyware tools. Learners gain hands-on skills to become proficient ethical hackers.",
     "Duration": "56h 23min",
     "price": "35,000",
@@ -990,3 +990,4 @@
     ]
   }
 }
+

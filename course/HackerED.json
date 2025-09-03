@@ -47,7 +47,7 @@
     "PREREQUISITES": "Basic PC/Laptop familiarity. No coding experience needed.",
     "Pay Now": "https://university.cappriciosec.com/payment/?cid=HackerED",
     "Enroll now": "https://university.cappriciosec.com/HackerED.html",
-    "Cert_img": "https://university.cappriciosec.com/images/cert.svg",
+    "Cert_img": "https://university.cappriciosec.com//Assets/images/cert_imgs/hackered.png",
     "What you'll learn": [
       "Introduction to ethical hacking and setting up the tools",
       "Fundamentals of Linux OS and basics of web development/programming (PHP, Python, NodeJS)",
@@ -64,6 +64,12 @@
       "description": "👨‍🏫 Meet Your Mentor: Karthikeyan V (a.k.a. Karthithehacker) Karthikeyan V is a renowned ethical hacker, cybersecurity researcher, and the founder of Cappricio Securities, a company dedicated to practical cybersecurity education. With a track record of reporting vulnerabilities in top platforms like Google, Pinterest, Android OS, and Upwork, he brings real-world experience directly into the classroom. He is the creator of several popular open-source security tools including Gh0stR3c0n, CRLFi, and Poseidon. His expertise ranges from bug bounty hunting and OSINT to advanced penetration testing and red teaming. Karthikeyan is also a popular cybersecurity content creator, known for breaking down complex topics in Tamil, making learning accessible to a wider audience. Despite coming from a modest background, his journey from a self-taught hacker to an industry leader has inspired thousands. As your mentor for the CEHPT course, he focuses on hands-on training, real-time attack simulations, and helping students develop the mindset of a professional ethical hacker. 🔐 “In this course, I won’t just teach you tools — I’ll show you how to think like a hacker.” — Karthikeyan V"
     },
     "content": [
+      {
+        "topic": "Chapter 0: Cyber Awareness",
+        "videos": [
+          { "number": "00", "title": "Cyber Awareness", "duration": "52:14 min" }
+        ]
+      }, 
       {
         "topic": "Chapter 1: Introduction & Requirements",
         "videos": [
@@ -970,6 +976,7 @@
     ]
   }
 }
+
 
 
 

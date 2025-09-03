@@ -108,32 +108,12 @@
     "Enroll now": "https://university.cappriciosec.com/HackerED.html",
     "Cert_img": "https://university.cappriciosec.com/images/cert.svg",
     "What you'll learn": [
-      "Introduction to ethical hacking and Prerequisites",
-      "Installation and setup of necessary tools and Kali Linux",
-      "Fundamentals of Linux operating system",
-      "Basics of web development",
-      "PHP programming and server configuration including Apache and web hosting",
-      "Techniques in social engineering and web cloning",
-      "Methods for credential stealing and phishing attacks",
-      "Understanding and deploying keyloggers and session fixation attacks",
-      "Bug explanations and proof of concepts (PoCs) for vulnerabilities",
-      "Email, domain, and homograph attacks including SPF exploitation",
-      "Mobile hacking techniques and use of spyware",
-      "IoT penetration testing and exploit development",
-      "Python programming applied to cybersecurity",
-      "Bugbounty hunting and use of platform tools",
-      "Reconnaissance techniques including ASN, subdomain enumeration, port scanning and crawling",
-      "Open redirect vulnerabilities and their exploitation PoCs",
-      "NodeJS development for bug bounty purposes",
-      "RF pentesting basics and practical RF hacking on Raspberry Pi",
-      "Spyware and surveillance tools including keyloggers, webcam and screen capturing",
-      "Structure and analysis of Portable Executable (PE) files",
-      "Using Cheat Engine for memory manipulation and game hacking",
-      "Understanding Windows API, system calls, and software protection mechanisms",
-      "Techniques for basic software bypass and key generator (KeyGen) practicals",
-      "Anti-debugging techniques including use of IsDebuggerPresent API",
-      "Anti-tampering methods and license verification bypassing",
-      "Methods for bypassing trial software restrictions"
+      "Introduction to ethical hacking and setting up the tools",
+      "Fundamentals of Linux OS and basics of web development/programming (PHP, Python, NodeJS)",
+      "Techniques of social engineering, phishing, and credential stealing",
+      "Bug bounty hunting, reconnaissance methods, and vulnerability exploitation (PoCs)",
+      "Malware, spyware, and reverse engineering (keyloggers, PE files, anti-debugging, bypassing)",
+      "Advanced domains: Mobile/IoT hacking, RF pentesting, and practical exploit development"
     ],
     "Mentor": {
       "name": "karthithehacker",
@@ -635,6 +615,7 @@
     }
   }
 }
+
 
 
 

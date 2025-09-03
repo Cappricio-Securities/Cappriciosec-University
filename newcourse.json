@@ -58,6 +58,93 @@
         "description": "👨‍🏫 Meet Your Mentor: Karthikeyan V (a.k.a. Karthithehacker) Karthikeyan V is a renowned ethical hacker, cybersecurity researcher, and the founder of Cappricio Securities, a company dedicated to practical cybersecurity education. With a track record of reporting vulnerabilities in top platforms like Google, Pinterest, Android OS, and Upwork, he brings real-world experience directly into the classroom. He is the creator of several popular open-source security tools including Gh0stR3c0n, CRLFi, and Poseidon. His expertise ranges from bug bounty hunting and OSINT to advanced penetration testing and red teaming. Karthikeyan is also a popular cybersecurity content creator, known for breaking down complex topics in Tamil, making learning accessible to a wider audience. Despite coming from a modest background, his journey from a self-taught hacker to an industry leader has inspired thousands. As your mentor for the CEHPT course, he focuses on hands-on training, real-time attack simulations, and helping students develop the mindset of a professional ethical hacker. 🔐 “In this course, I won’t just teach you tools — I’ll show you how to think like a hacker.” — Karthikeyan V"
       }
     },
+    "HackerED": {
+    "title": "Master in Cyber Security and Ethical Hacking",
+    "Tag": [
+      "Cybersecurity",
+      "Ethical Hacking",
+      "Linux",
+      "Web Development",
+      "PHP",
+      "Social Engineering",
+      "Credential Theft",
+      "Keylogger",
+      "Phishing",
+      "Mobile Hacking",
+      "IoT Security",
+      "Python",
+      "Bug Bounty",
+      "Reconnaissance",
+      "Open Redirect",
+      "NodeJS",
+      "RF Pentesting",
+      "Spyware",
+      "Reverse Engineering",
+      "Assembly Language",
+      "C Programming",
+      "Memory Analysis",
+      "PE File",
+      "Cheat Engine",
+      "Memory Manipulation",
+      "Windows API",
+      "Software Protection",
+      "Bypassing",
+      "KeyGen",
+      "Anti-Debugging",
+      "Anti-Tampering",
+      "License Bypass",
+      "Trial Bypass"
+    ],
+    "banner": "https://university.cappriciosec.com/Assets/images/course_banner/HackerED.webp",
+    "Language": "English",
+    "Short Description": "The Master’s Program in Cybersecurity & Ethical Hacking delivers up-to-date, hands-on training in cyber security, penetration testing, and threat analysis, guided by multiple expert mentors—all in English—preparing graduates to excel in cybersecurity careers with practical, job-ready skills.",
+    "Description": "This course offers practical training on ethical hacking fundamentals, including tool installation and Linux essentials. It covers web development, PHP, social engineering, phishing, keylogger usage, bug analysis, email and domain attacks, mobile and IoT hacking, Python programming, bug bounty techniques, reconnaissance methods, open redirect vulnerabilities, NodeJS for security, RF pentesting, and advanced spyware tools. Learners gain hands-on skills to become proficient ethical hackers.",
+    "Duration": "56h 23min",
+    "price": "35000",
+    "Access": "lifetime",
+    "students enrolled count": 26,
+    "PREREQUISITES": "Basic PC/Laptop familiarity. No coding experience needed.",
+    "Pay Now": "https://university.cappriciosec.com/payment/?cid=HackerED",
+    "Enroll now": "https://university.cappriciosec.com/HackerED.html",
+    "Cert_img": "https://university.cappriciosec.com/images/cert.svg",
+    "What you'll learn": [
+      "Introduction to ethical hacking and Prerequisites",
+      "Installation and setup of necessary tools and Kali Linux",
+      "Fundamentals of Linux operating system",
+      "Basics of web development",
+      "PHP programming and server configuration including Apache and web hosting",
+      "Techniques in social engineering and web cloning",
+      "Methods for credential stealing and phishing attacks",
+      "Understanding and deploying keyloggers and session fixation attacks",
+      "Bug explanations and proof of concepts (PoCs) for vulnerabilities",
+      "Email, domain, and homograph attacks including SPF exploitation",
+      "Mobile hacking techniques and use of spyware",
+      "IoT penetration testing and exploit development",
+      "Python programming applied to cybersecurity",
+      "Bugbounty hunting and use of platform tools",
+      "Reconnaissance techniques including ASN, subdomain enumeration, port scanning and crawling",
+      "Open redirect vulnerabilities and their exploitation PoCs",
+      "NodeJS development for bug bounty purposes",
+      "RF pentesting basics and practical RF hacking on Raspberry Pi",
+      "Spyware and surveillance tools including keyloggers, webcam and screen capturing",
+      "Structure and analysis of Portable Executable (PE) files",
+      "Using Cheat Engine for memory manipulation and game hacking",
+      "Understanding Windows API, system calls, and software protection mechanisms",
+      "Techniques for basic software bypass and key generator (KeyGen) practicals",
+      "Anti-debugging techniques including use of IsDebuggerPresent API",
+      "Anti-tampering methods and license verification bypassing",
+      "Methods for bypassing trial software restrictions"
+    ],
+    "Mentor": {
+      "name": "karthithehacker",
+      "title": "Founder and CEO of Cappricio Securities , Ethical Hacker, Cybersecurity Researcher",
+      "url": "https://karthithehacker.com/",
+      "image": "https://avatars.githubusercontent.com/u/33289300?v=4",
+      "description": "👨‍🏫 Meet Your Mentor: Karthikeyan V (a.k.a. Karthithehacker) Karthikeyan V is a renowned ethical hacker, cybersecurity researcher, and the founder of Cappricio Securities, a company dedicated to practical cybersecurity education. With a track record of reporting vulnerabilities in top platforms like Google, Pinterest, Android OS, and Upwork, he brings real-world experience directly into the classroom. He is the creator of several popular open-source security tools including Gh0stR3c0n, CRLFi, and Poseidon. His expertise ranges from bug bounty hunting and OSINT to advanced penetration testing and red teaming. Karthikeyan is also a popular cybersecurity content creator, known for breaking down complex topics in Tamil, making learning accessible to a wider audience. Despite coming from a modest background, his journey from a self-taught hacker to an industry leader has inspired thousands. As your mentor for the CEHPT course, he focuses on hands-on training, real-time attack simulations, and helping students develop the mindset of a professional ethical hacker. 🔐 “In this course, I won’t just teach you tools — I’ll show you how to think like a hacker.” — Karthikeyan V"
+    }
+
+
+},
     "CWBP": {
       "title": "Certified Web Apps Pen-Testing & Bug-Bounty",
       "Tag": [
@@ -548,6 +635,7 @@
     }
   }
 }
+
 
 
 

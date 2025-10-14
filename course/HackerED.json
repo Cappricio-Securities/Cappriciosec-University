@@ -42,6 +42,8 @@
     "Description": "This course offers practical training on ethical hacking fundamentals, including tool installation and Linux essentials. It covers web development, PHP, social engineering, phishing, keylogger usage, bug analysis, email and domain attacks, mobile and IoT hacking, Python programming, bug bounty techniques, reconnaissance methods, open redirect vulnerabilities, NodeJS for security, RF pentesting, and advanced spyware tools. Learners gain hands-on skills to become proficient ethical hackers.",
     "Duration": "56h 23min",
     "price": "35000",
+      "offer price": "10000",
+     "offer percentage": "71%",
     "Access": "lifetime",
     "students enrolled count": 26,
     "PREREQUISITES": "Basic PC/Laptop familiarity. No coding experience needed.",
@@ -976,6 +978,7 @@
     ]
   }
 }
+
 
 
 

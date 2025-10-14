@@ -18,6 +18,8 @@
     "Description": "The Certified API Pentesting and Bug Bounty course is designed for cybersecurity enthusiasts and professionals aiming to specialize in API security. This course provides in-depth training on identifying, exploiting, and reporting API vulnerabilities using industry-standard tools and methodologies.",
     "Duration": "22h 23min",
     "price": 5500,
+      "offer price": 2999,
+      "offer percentage": "45%",
     "Access": "lifetime",
     "students enrolled count": 1324,
     "PREREQUISITES": "Basic PC/Laptop familiarity. No coding experience needed.",

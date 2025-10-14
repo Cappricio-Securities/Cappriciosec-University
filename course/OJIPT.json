@@ -20,6 +20,8 @@
     "Starts": 4.8,
     "students enrolled count": 980,
     "price": 3500,
+        "offer price": 1499,
+        "offer percentage": "57%",
     "PREREQUISITES": "Basic understanding of networking and HTTP. Familiarity with Linux is a plus.",
     "Pay Now": "https://university.cappriciosec.com/payment/?cid=OJIPT",
     "Enroll now": "https://university.cappriciosec.com/OJIPT.html",

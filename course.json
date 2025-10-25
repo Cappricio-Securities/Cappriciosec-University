@@ -1,17 +1,18 @@
 {
     "Course": [
+        "CCI",
+        "CSMM",
+        "CWBP",
+        "CMABP",
+        "CAPBB",
+        "HackerED",
         "CEHPT",
         "OJIPT",
-        "CAPBB",
-        "CMABP",
-        "CCI",
         "CHID",
-        "CWBP",
-        "CSMM",
         "CHIP",
         "CTDPJ",
-        "CPPI",
-        "HackerED"
+        "CPPI"
+        
     ],
     "CCI": {
         "title": "Certified Cyber Crime Investigation",

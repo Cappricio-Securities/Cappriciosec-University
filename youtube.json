@@ -12,7 +12,7 @@
       "Beginner"
     ],
     "banner": "https://university.cappriciosec.com//free_courses/images/wifihacker.png",
-    "video_url": "https://youtu.be/jWc2umX9hC4", 
+    "video_url": "https://youtu.be/jWc2umX9hC4",
     "Language": "தமிழ்",
     "Short Description": "Join us for a practical workshop on WiFi Hacking & Pentesting!",
     "Description": "Master the art of WiFi hacking in this beginner-friendly workshop. You'll learn real-world techniques such as Deauthentication attacks, WiFi spam, Evil Twin attacks, and Captive Portal exploitation. This hands-on course is designed for students, cybersecurity enthusiasts, and ethical hackers looking to enhance their wireless pentesting skills. All participants will receive a soft copy of the certificate, course toolkit, and training materials.",
@@ -55,7 +55,7 @@
       "CappricioSec Webinar"
     ],
     "banner": "https://university.cappriciosec.com/free_courses/images/Cybersecurity-Career-Webinar-101.png",
-    "video_url": "https://youtu.be/x60SZCWlzwg", 
+    "video_url": "https://youtu.be/x60SZCWlzwg",
     "Language": "English",
     "Short Description": "Understand cybersecurity job roles, required skills, and roadmap in this career-focused webinar.",
     "Description": "This free beginner-friendly webinar, conducted by CappricioSec University, will help you explore the various job roles in cybersecurity and understand the skills, tools, and certifications required to enter or switch to this booming industry. Learn from G.A. Harini (CBO, Cappricio Securities) as she breaks down the career roadmap, hiring expectations, and learning resources. All attendees will receive a soft copy of the certificate after completion.",
@@ -84,90 +84,89 @@
     ]
   },
   "API-Pentesting-Bugbounty-101": {
-  "title": "API Pentesting & Bug Bounty 101",
-  "Tag": [
-    "API Security",
-    "Bug Bounty",
-    "Web API Hacking",
-    "Ethical Hacking",
-    "Postman",
-    "Burp Suite",
-    "CappricioSec Webinar"
-  ],
-  "banner": "https://university.cappriciosec.com/free_courses/images/API-Pentesting-Bugbounty-101.png",
-  "video_url": "https://youtu.be/PzZBjfDRVoE?si=dQ4UmGAWEMUrVGIB",
-  "Language": "Tamil",
-  "Short Description": "Learn API hacking from scratch and start your bug bounty journey with this practical, beginner-friendly webinar.",
-  "Description": "This webinar by CappricioSec University offers a complete introduction to API Pentesting and Bug Bounty hunting. Participants will gain practical knowledge in tools like Postman and Burp Suite, learn about OOB testing techniques, and explore API development with Python. You'll also dive into CRUD operations, authentication & authorization flaws, SQL-based issues, and command injection bugs. Perfect for beginners looking to enter the world of API security and ethical hacking. All participants will receive a soft copy of the certificate upon successful completion.",
-  "Duration": "Life Time",
-  "Access": "24/7",
-  "Starts": "2025-07-26",
-  "students enrolled count": 190,
-  "price": 599,
-  "offer price": "free",
-  "offer percentage": 100,
-  "PREREQUISITES": [
-    "Basic understanding of computers and the internet",
-    "Interest in API and web application security",
-    "No prior experience required",
-    "Willingness to practice and learn"
-  ],
-  "What you'll learn": [
-    "Introduction to APIs & How They Work",
-    "API Hacking Fundamentals",
-    "Bug Bounty Mindset & Methodologies",
-    "Using Postman & Burp Suite for API Testing",
-    "Out-of-Band (OOB) Testing Techniques",
-    "API Development Basics with Python",
-    "CRUD Operations & Common Vulnerabilities",
-    "Authentication & Authorization Testing",
-    "Finding SQL and Command Injection Bugs",
-    "Steps to Start Your Bug Bounty Journey"
-  ]
-},
-"Social-Engineering-Ethical-Hacking-101": {
-  "title": "Seminar on Social Engineering",
-  "Tag": [
-    "Social Engineering",
-    "Ethical Hacking",
-    "Phishing",
-    "Keylogger",
-    "SET Toolkit",
-    "Cybersecurity Awareness",
-    "CappricioSec Webinar"
-  ],
-  "banner": "https://university.cappriciosec.com/free_courses/images/Social-Engineering-Ethical-Hacking-101.png",
-  "video_url": "https://youtu.be/iS92IAG-Ndg?si=sKXaa_u3XJpFDpvm",
-  "Language": "Tamil",
-  "Short Description": "Explore real-world social engineering attacks and defensive strategies in this beginner-friendly ethical hacking webinar.",
-  "Description": "This webinar by CappricioSec University provides an in-depth overview of social engineering in the context of ethical hacking. Learn how attackers manipulate users, and gain hands-on exposure to phishing simulations, keylogger creation, and the powerful Social-Engineer Toolkit (SET). This session covers different types of attacks, human psychology exploitation, and how to build awareness to defend against these threats. Ideal for students, cybersecurity enthusiasts, and bug bounty beginners. Attendees will receive a certificate of completion.",
-  "Duration": "Life Time",
-  "Access": "24/7",
-  "Starts": "2025-08-08",
-  "students enrolled count": 220,
-  "price": 599,
-  "offer price": "free",
-  "offer percentage": 100,
-  "PREREQUISITES": [
-    "Basic understanding of computers and networks",
-    "Interest in cybersecurity and ethical hacking",
-    "No prior experience required",
-    "Curiosity to learn about human-based attack vectors"
-  ],
-  "What you'll learn": [
-    "Introduction to Social Engineering Attacks",
-    "Types of Social Engineering (Phishing, Pretexting, Baiting, etc.)",
-    "How Hackers Trick and Exploit Victims",
-    "Using the Social-Engineer Toolkit (SET)",
-    "Keylogger Development Basics",
-    "Simulating Phishing Portals and Capturing Credentials",
-    "Defensive Measures and User Awareness Training",
-    "Case Studies from Real-World Scenarios",
-    "Ethical Considerations and Reporting",
-    "Final Q&A with Certificate Distribution"
-  ]
-},
-  {
+    "title": "API Pentesting & Bug Bounty 101",
+    "Tag": [
+      "API Security",
+      "Bug Bounty",
+      "Web API Hacking",
+      "Ethical Hacking",
+      "Postman",
+      "Burp Suite",
+      "CappricioSec Webinar"
+    ],
+    "banner": "https://university.cappriciosec.com/free_courses/images/API-Pentesting-Bugbounty-101.png",
+    "video_url": "https://youtu.be/PzZBjfDRVoE?si=dQ4UmGAWEMUrVGIB",
+    "Language": "Tamil",
+    "Short Description": "Learn API hacking from scratch and start your bug bounty journey with this practical, beginner-friendly webinar.",
+    "Description": "This webinar by CappricioSec University offers a complete introduction to API Pentesting and Bug Bounty hunting. Participants will gain practical knowledge in tools like Postman and Burp Suite, learn about OOB testing techniques, and explore API development with Python. You'll also dive into CRUD operations, authentication & authorization flaws, SQL-based issues, and command injection bugs. Perfect for beginners looking to enter the world of API security and ethical hacking. All participants will receive a soft copy of the certificate upon successful completion.",
+    "Duration": "Life Time",
+    "Access": "24/7",
+    "Starts": "2025-07-26",
+    "students enrolled count": 190,
+    "price": 599,
+    "offer price": "free",
+    "offer percentage": 100,
+    "PREREQUISITES": [
+      "Basic understanding of computers and the internet",
+      "Interest in API and web application security",
+      "No prior experience required",
+      "Willingness to practice and learn"
+    ],
+    "What you'll learn": [
+      "Introduction to APIs & How They Work",
+      "API Hacking Fundamentals",
+      "Bug Bounty Mindset & Methodologies",
+      "Using Postman & Burp Suite for API Testing",
+      "Out-of-Band (OOB) Testing Techniques",
+      "API Development Basics with Python",
+      "CRUD Operations & Common Vulnerabilities",
+      "Authentication & Authorization Testing",
+      "Finding SQL and Command Injection Bugs",
+      "Steps to Start Your Bug Bounty Journey"
+    ]
+  },
+  "Social-Engineering-Ethical-Hacking-101": {
+    "title": "Seminar on Social Engineering",
+    "Tag": [
+      "Social Engineering",
+      "Ethical Hacking",
+      "Phishing",
+      "Keylogger",
+      "SET Toolkit",
+      "Cybersecurity Awareness",
+      "CappricioSec Webinar"
+    ],
+    "banner": "https://university.cappriciosec.com/free_courses/images/Social-Engineering-Ethical-Hacking-101.png",
+    "video_url": "https://youtu.be/iS92IAG-Ndg?si=sKXaa_u3XJpFDpvm",
+    "Language": "Tamil",
+    "Short Description": "Explore real-world social engineering attacks and defensive strategies in this beginner-friendly ethical hacking webinar.",
+    "Description": "This webinar by CappricioSec University provides an in-depth overview of social engineering in the context of ethical hacking. Learn how attackers manipulate users, and gain hands-on exposure to phishing simulations, keylogger creation, and the powerful Social-Engineer Toolkit (SET). This session covers different types of attacks, human psychology exploitation, and how to build awareness to defend against these threats. Ideal for students, cybersecurity enthusiasts, and bug bounty beginners. Attendees will receive a certificate of completion.",
+    "Duration": "Life Time",
+    "Access": "24/7",
+    "Starts": "2025-08-08",
+    "students enrolled count": 220,
+    "price": 599,
+    "offer price": "free",
+    "offer percentage": 100,
+    "PREREQUISITES": [
+      "Basic understanding of computers and networks",
+      "Interest in cybersecurity and ethical hacking",
+      "No prior experience required",
+      "Curiosity to learn about human-based attack vectors"
+    ],
+    "What you'll learn": [
+      "Introduction to Social Engineering Attacks",
+      "Types of Social Engineering (Phishing, Pretexting, Baiting, etc.)",
+      "How Hackers Trick and Exploit Victims",
+      "Using the Social-Engineer Toolkit (SET)",
+      "Keylogger Development Basics",
+      "Simulating Phishing Portals and Capturing Credentials",
+      "Defensive Measures and User Awareness Training",
+      "Case Studies from Real-World Scenarios",
+      "Ethical Considerations and Reporting",
+      "Final Q&A with Certificate Distribution"
+    ]
+  },
   "linuxweb": {
     "title": "Linux Web Security & Tools 101",
     "Tag": [
@@ -185,7 +184,7 @@
       "Beginner"
     ],
     "banner": "https://university.cappriciosec.com/free_courses/images/linuxweb.png",
-    "video_url": "https://youtu.be/your-linuxweb-intro", 
+    "video_url": "https://youtu.be/your-linuxweb-intro",
     "Language": "தமிழ்",
     "Short Description": "Practical course on web security using Linux tools — from recon to exploitation and defensive controls.",
     "Description": "Hands-on course covering web application reconnaissance, common injection and server-side bugs, header and image based attacks, IDN homograph phishing techniques, rate-limiting bypass strategies, and practical usage of Burp Suite and essential Linux commands for security testing. Designed for students and aspiring ethical hackers who want a solid, practical foundation in web pentesting using a Linux toolchain. Participants receive course materials, toolkit, and a soft copy certificate.",
@@ -217,8 +216,4 @@
       "Ethical guidelines and legal boundaries for responsible testing"
     ]
   }
-}
-
-
-
 }

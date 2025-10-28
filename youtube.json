@@ -166,7 +166,59 @@
     "Ethical Considerations and Reporting",
     "Final Q&A with Certificate Distribution"
   ]
+},
+  {
+  "linuxweb": {
+    "title": "Linux Web Security & Tools 101",
+    "Tag": [
+      "Cyber Security",
+      "Web Application Security",
+      "Burp Suite",
+      "Web Recon",
+      "SSRF",
+      "Injection Bugs",
+      "Rate Limiting",
+      "Header Attacks",
+      "IDN Homograph",
+      "Image Attacks",
+      "Linux Commands",
+      "Beginner"
+    ],
+    "banner": "https://university.cappriciosec.com/free_courses/images/linuxweb.png",
+    "video_url": "https://youtu.be/your-linuxweb-intro", 
+    "Language": "தமிழ்",
+    "Short Description": "Practical course on web security using Linux tools — from recon to exploitation and defensive controls.",
+    "Description": "Hands-on course covering web application reconnaissance, common injection and server-side bugs, header and image based attacks, IDN homograph phishing techniques, rate-limiting bypass strategies, and practical usage of Burp Suite and essential Linux commands for security testing. Designed for students and aspiring ethical hackers who want a solid, practical foundation in web pentesting using a Linux toolchain. Participants receive course materials, toolkit, and a soft copy certificate.",
+    "Duration": "Life Time",
+    "Access": "24/7",
+    "Starts": "2025-11-01",
+    "students enrolled count": 800,
+    "price": 1199,
+    "offer price": "free",
+    "offer percentage": 100,
+    "PREREQUISITES": [
+      "Basic computer knowledge",
+      "Interest in cybersecurity",
+      "Familiarity with command line (recommended)",
+      "Kali Linux or Linux distro (pre-installed recommended)",
+      "Internet connection",
+      "Curiosity to practice safely and ethically"
+    ],
+    "What you'll learn": [
+      "Burp Suite basics and workflow for web testing",
+      "Web reconnaissance and footprinting techniques",
+      "SSRF identification and exploitation patterns",
+      "Injection-based bugs (SQLi, XSS, command injection) detection and exploitation",
+      "Rate limiting concepts and bypass mitigation strategies",
+      "Header attack vectors (Host, CORS, header injection) and protections",
+      "IDN homograph risks and detection methods",
+      "Image-based attack examples and secure handling",
+      "Essential Linux commands for pentesting (ls, cd, grep, awk, sed, ssh, curl, wget, tar, chmod, etc.)",
+      "Ethical guidelines and legal boundaries for responsible testing"
+    ]
+  }
 }
+
 
 
 }

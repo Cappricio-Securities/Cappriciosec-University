@@ -184,7 +184,7 @@
       "Beginner"
     ],
     "banner": "https://university.cappriciosec.com/free_courses/images/linuxweb.png",
-    "video_url": "https://youtu.be/your-linuxweb-intro",
+    "video_url": "https://youtu.be/EFL9qNdC7G0?si=0wfXCeSURg4oDgBm",
     "Language": "தமிழ்",
     "Short Description": "Practical course on web security using Linux tools — from recon to exploitation and defensive controls.",
     "Description": "Hands-on course covering web application reconnaissance, common injection and server-side bugs, header and image based attacks, IDN homograph phishing techniques, rate-limiting bypass strategies, and practical usage of Burp Suite and essential Linux commands for security testing. Designed for students and aspiring ethical hackers who want a solid, practical foundation in web pentesting using a Linux toolchain. Participants receive course materials, toolkit, and a soft copy certificate.",

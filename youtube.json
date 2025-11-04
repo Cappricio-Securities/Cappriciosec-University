@@ -215,5 +215,56 @@
       "Essential Linux commands for pentesting (ls, cd, grep, awk, sed, ssh, curl, wget, tar, chmod, etc.)",
       "Ethical guidelines and legal boundaries for responsible testing"
     ]
+  },
+  "ceh": {
+    "title": "40-Hour Cyber Security & Ethical Hacking Course (Tamil)",
+    "Tag": [
+      "Cyber Security",
+      "Ethical Hacking",
+      "Bug Bounty",
+      "WiFi Pentesting",
+      "Web Pentesting",
+      "Mobile App Pentesting",
+      "API Security",
+      "IoT Security",
+      "Kali Linux",
+      "Beginner",
+      "Tamil"
+    ],
+    "banner": "https://university.cappriciosec.com/free_courses/images/ceh.png",
+    "video_url": "https://youtu.be/your-40hour-course-intro",
+    "Language": "தமிழ்",
+    "Short Description": "Complete 40-hour hands-on cybersecurity course in Tamil — from Cyber Awareness to advanced bug bounty and pentesting labs.",
+    "Description": "India’s biggest 40-hour practical Cyber Security & Ethical Hacking course in Tamil. Covers cyber awareness, Linux & Bash, Python for hacking, WiFi attacks, web application pentesting (Burp Suite, SQLi, XSS), API & mobile app testing, Active Directory, IoT & hardware security, radio-frequency basics, and bug bounty workflows. Course includes real-time demos, lab exercises, capstone projects, and a free certificate from Cappriciosec University. Designed for beginners and intermediate learners wanting practical, job-ready skills.",
+    "Duration": "40 Hours",
+    "Access": "24/7 Lifetime Access",
+    "Starts": "2025-11-01",
+    "students enrolled count": 1200,
+    "price": 599,
+    "offer price": "free",
+    "offer percentage": 100,
+    "PREREQUISITES": [
+      "Basic computer knowledge",
+      "Interest in cybersecurity",
+      "Willingness to practice ethically",
+      "Internet connection",
+      "Laptop/Desktop (recommended: ability to run VMs)"
+    ],
+    "What you'll learn": [
+      "Cyber Awareness & Online Safety",
+      "Linux & Bash for Hackers",
+      "Python for Hacking and automation",
+      "WiFi Hacking & Pentesting (deauth, captive portal)",
+      "Web Hacking & Bug Bounty (recon, SQLi, XSS, auth bugs)",
+      "Burp Suite setup, workflow and advanced techniques",
+      "API Pentesting fundamentals and automation",
+      "Android & iOS pentesting basics and insecure intents",
+      "Active Directory attacks & defensive strategies",
+      "Malware analysis overview and containment",
+      "IoT, Raspberry Pi & Hardware Hacking basics",
+      "Radio Frequency hacking fundamentals",
+      "Report writing for bug bounty & pentest reports",
+      "Career guidance: certifications, roles and interview tips"
+    ]
   }
 }

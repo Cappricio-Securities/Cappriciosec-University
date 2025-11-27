@@ -46,7 +46,7 @@
      "offer percentage": "24%",
     "Access": "lifetime",
     "students enrolled count": 26,
-    "PREREQUISITES": "Basic PC/Laptop familiarity. No coding experience needed.",
+    "PREREQUISITES": "Basic PC/Laptop familiarity. No prior coding experience needed.",
     "Pay Now": "https://university.cappriciosec.com/payment/?cid=HackerED",
     "Enroll now": "https://university.cappriciosec.com/HackerED.html",
     "Cert_img": "https://university.cappriciosec.com//Assets/images/cert_imgs/hackered.png",
@@ -978,6 +978,7 @@
     ]
   }
 }
+
 
 
 

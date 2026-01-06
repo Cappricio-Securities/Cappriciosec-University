@@ -812,7 +812,74 @@
         ]
       },
       {
-        "topic": "Chapter 19: Spyware & Surveillance",
+  "topic": "Chapter 19: API Pentesting",
+  "videos": [
+    { "number": "155", "title": "About Mentor", "duration": "06:43 min" },
+    { "number": "156", "title": "About API", "duration": "17:48 min" },
+    { "number": "157", "title": "About API", "duration": "07:21 min" },
+    { "number": "158", "title": "Postman Installation", "duration": "09:05 min" },
+    { "number": "159", "title": "Burp-Suiten", "duration": "09:52 min" },
+    { "number": "160", "title": "Understanding Burpsuite", "duration": "18:40 min" },
+    { "number": "161", "title": "FastAPI Setup and Hello World", "duration": "10:54 min" },
+    { "number": "162", "title": "FastAPI & SQL", "duration": "12:53 min" },
+    { "number": "163", "title": "FastAPI POST Handling & DB", "duration": "43:29 min" },
+    { "number": "164", "title": "FastAPI GET HTTP & Read DB", "duration": "16:36 min" },
+    { "number": "165", "title": "FastAPI PUT HTTP & Update DB 1", "duration": "22:41 min" },
+    { "number": "166", "title": "Fast API PUT HTTP & Update DB 2", "duration": "06:07 min" },
+    { "number": "167", "title": "FastAPI DELETE HTTP & Delete DB", "duration": "13:56 min" },
+    { "number": "168", "title": "API Headers Authentication & Authorization", "duration": "07:11 min" },
+    { "number": "169", "title": "FastAPI HTTP Headers & Authentication", "duration": "10:13 min" },
+    { "number": "170", "title": "Burpsuite & Postman", "duration": "21:04 min" },
+    { "number": "171", "title": "CURL Command and API CRUD 1", "duration": "14:15 min" },
+    { "number": "172", "title": "CURL Command and API CRUD 2", "duration": "04:04 min" },
+    { "number": "173", "title": "Swagger UI for API Testing", "duration": "12:33 min" },
+    { "number": "174", "title": "Creating API Collections", "duration": "17:25 min" },
+    { "number": "175", "title": "Postman Variables", "duration": "14:32 min" },
+    { "number": "176", "title": "API Authorization Basic Auth", "duration": "20:21 min" },
+    { "number": "177", "title": "API Parser for Burpsuite", "duration": "14:07 min" },
+    { "number": "178", "title": "OWASP BOLA Bug Understanding", "duration": "11:55 min" },
+    { "number": "179", "title": "BOLA Live Hacking 1", "duration": "05:01 min" },
+    { "number": "180", "title": "BOLA Live Hacking 2", "duration": "06:20 min" },
+    { "number": "181", "title": "BOLA Attack Bypass", "duration": "05:57 min" },
+    { "number": "182", "title": "BOLA Attack Secure Code Development", "duration": "18:26 min" },
+    { "number": "183", "title": "API Command Injection P1 Bug", "duration": "08:36 min" },
+    { "number": "184", "title": "API Command Injection Code Analysis", "duration": "12:54 min" },
+    { "number": "185", "title": "API Command Injection Attack", "duration": "15:26 min" },
+    { "number": "186", "title": "API Command Injection Secure Code Development", "duration": "06:33 min" },
+    { "number": "187", "title": "Blind Command Injection 1", "duration": "16:52 min" },
+    { "number": "188", "title": "Blind Command Injection 2", "duration": "07:22 min" },
+    { "number": "189", "title": "Blind Command Injection to File Stealing", "duration": "07:27 min" },
+    { "number": "190", "title": "Blind Command Injection DNS Exfiltration OOB", "duration": "07:25 min" },
+    { "number": "191", "title": "Gaining Shell from Command Injection", "duration": "07:47 min" },
+    { "number": "192", "title": "OWASP API Insecure Deserialization", "duration": "17:17 min" },
+    { "number": "193", "title": "Python Class & Object Coding", "duration": "11:27 min" },
+    { "number": "194", "title": "Python Serialization & Deserialization", "duration": "09:21 min" },
+    { "number": "195", "title": "Insecure Deserialization Exploit Development", "duration": "08:10 min" },
+    { "number": "196", "title": "IDOR via Insecure Deserialization 1", "duration": "10:35 min" },
+    { "number": "197", "title": "IDOR via Insecure Deserialization 2", "duration": "06:33 min" },
+    { "number": "198", "title": "Insecure Deserialization Exploitation", "duration": "09:55 min" },
+    { "number": "199", "title": "About No Rate Limiting in API", "duration": "06:37 min" },
+    { "number": "200", "title": "About GraphQL", "duration": "13:05 min" },
+    { "number": "201", "title": "No Rate Limiting in API Live Attack", "duration": "08:45 min" },
+    { "number": "202", "title": "Exploit Development for Rate Limiting", "duration": "15:16 min" },
+    { "number": "203", "title": "About CVE-2017-5487 in API", "duration": "06:03 min" },
+    { "number": "204", "title": "Exploitation of CVE-2017-5487", "duration": "02:42 min" },
+    { "number": "205", "title": "OWASP Broken Authentication", "duration": "09:16 min" },
+    { "number": "206", "title": "About Session Management Attack", "duration": "10:03 min" },
+    { "number": "207", "title": "Practical Session Management", "duration": "08:02 min" },
+    { "number": "208", "title": "Secure Code Development for Session Management", "duration": "07:45 min" },
+    { "number": "209", "title": "About Path Traversal Bug", "duration": "05:52 min" },
+    { "number": "210", "title": "Practical Path Traversal Bug", "duration": "05:58 min" },
+    { "number": "211", "title": "Secure Code Development for Path Traversal", "duration": "08:03 min" },
+    { "number": "212", "title": "API Excessive Data Exposure", "duration": "04:58 min" },
+    { "number": "213", "title": "API Excessive Data Exposure", "duration": "12:04 min" },
+    { "number": "214", "title": "About Regular Expression DoS Attack", "duration": "06:20 min" },
+    { "number": "215", "title": "Regular Expression DoS Attack 1", "duration": "03:52 min" },
+    { "number": "216", "title": "Regular Expression DoS Attack 2", "duration": "10:07 min" }
+  ]
+},
+      {
+        "topic": "Chapter 20: Spyware & Surveillance",
         "videos": [
           {
             "number": "218",
@@ -853,7 +920,7 @@
         ]
       },
       {
-        "topic": "Chapter 20: Reverse Engineering",
+        "topic": "Chapter 21: Reverse Engineering",
         "videos": [
           { "number": "233", "title": "About Mentor", "duration": "01:43 min" },
           {
@@ -890,7 +957,7 @@
         ]
       },
       {
-        "topic": "Chapter 21: PE Files and Cheat Engine",
+        "topic": "Chapter 22: PE Files and Cheat Engine",
         "videos": [
           {
             "number": "241",
@@ -920,7 +987,7 @@
         ]
       },
       {
-        "topic": "Chapter 22: Windows API and Software Protection",
+        "topic": "Chapter 23: Windows API and Software Protection",
         "videos": [
           { "number": "246", "title": "Windows API", "duration": "11:03 min" },
           {
@@ -946,7 +1013,7 @@
         ]
       },
       {
-        "topic": "Chapter 23: Anti-Debugging and Bypassing Techniques",
+        "topic": "Chapter 24: Anti-Debugging and Bypassing Techniques",
         "videos": [
           {
             "number": "251",
@@ -978,7 +1045,6 @@
     ]
   }
 }
-
 
 
 

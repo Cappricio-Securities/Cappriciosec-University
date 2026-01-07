@@ -47,7 +47,7 @@
     "students enrolled count": "890",
     "PREREQUISITES": "Basic PC/Laptop familiarity. No prior coding experience needed.",
     "Pay Now": "https://university.cappriciosec.com/payment/?cid=cehpte",
-    "Enroll now": "https://university.cappriciosec.com/HackerED.html",
+    "Enroll now": "https://university.cappriciosec.com/cehpte.html",
     "Cert_img": "https://cappriciosec.com/admin_university/university_automation/images/img_695d625d24c6d6.62996639.png",
     "What you'll learn": [
   "Introduction to ethical hacking and professional tool setup",
@@ -378,6 +378,7 @@
     ]
   }
 }
+
 
 
 

@@ -1,0 +1,386 @@
+{
+  "cehpte": {
+    "title": "Certified Ethical hacking & Cybersecurity ",
+    "Tags": [
+  "Cybersecurity",
+  "Ethical Hacking",
+  "Penetration Testing",
+  "Bug Bounty",
+  "Linux for Hackers",
+  "Web Application Security",
+  "PHP Security",
+  "Social Engineering",
+  "Phishing Attacks",
+  "Credential Harvesting",
+  "Keylogger Development",
+  "Mobile Hacking",
+  "IoT Security",
+  "IoT Pentesting",
+  "Python for Hackers",
+  "Reconnaissance",
+  "Open Redirect",
+  "NodeJS Security",
+  "RF Pentesting",
+  "Spyware Development",
+  "Reverse Engineering",
+  "Assembly Language",
+  "C Programming",
+  "Memory Analysis",
+  "Windows Internals",
+  "PE File Analysis",
+  "Cheat Engine",
+  "Software Protection",
+  "License Bypass",
+  "Anti-Debugging",
+  "Anti-Tampering",
+  "Real-World Exploitation"
+],
+    "banner": "https://university.cappriciosec.com/Assets/images/course_banner/HackerED.webp",
+    "Language": "English",
+    "Short Description": "The Master’s Program in Cybersecurity & Ethical Hacking delivers up-to-date, hands-on training in cyber security, penetration testing, and threat analysis, guided by multiple expert mentors—all in English—preparing graduates to excel in cybersecurity careers with practical, job-ready skills.",
+    "Description": "This course offers practical training on ethical hacking fundamentals, including tool installation and Linux essentials. It covers web development, PHP, social engineering, phishing, keylogger usage, bug analysis, email and domain attacks, mobile and IoT hacking, Python programming, bug bounty techniques, reconnaissance methods, open redirect vulnerabilities, NodeJS for security, RF pentesting, and advanced spyware tools. Learners gain hands-on skills to become proficient ethical hackers.",
+    "Duration": "6h 32min",
+    "price": "5999",
+      "offer price": "999",
+     "offer percentage": "85%",
+    "Access": "lifetime",
+    "students enrolled count": "890",
+    "PREREQUISITES": "Basic PC/Laptop familiarity. No prior coding experience needed.",
+    "Pay Now": "https://university.cappriciosec.com/payment/?cid=cehpte",
+    "Enroll now": "https://university.cappriciosec.com/HackerED.html",
+    "Cert_img": "https://cappriciosec.com/admin_university/university_automation/images/img_695d625d24c6d6.62996639.png",
+    "What you'll learn": [
+  "Introduction to ethical hacking and professional tool setup",
+  "Linux fundamentals and basics of web development & programming",
+  "Social engineering, phishing techniques, and credential harvesting",
+  "Advanced credential stealing techniques (SPF & IDN exploitation)",
+  "Mobile hacking and spyware development",
+  "Keylogger development (client-side & server-side)",
+  "Bug analysis and real-world Proof of Concepts (PoCs)",
+  "Webcam hacking techniques",
+  "Advanced domains: IoT pentesting and hardware exploitation"
+],
+    "Mentor": {
+      "name": "karthithehacker",
+      "title": "Founder and CEO of Cappricio Securities , Ethical Hacker, Cybersecurity Researcher",
+      "url": "https://karthithehacker.com/",
+      "image": "https://avatars.githubusercontent.com/u/33289300?v=4",
+      "description": "👨‍🏫 Meet Your Mentor: Karthikeyan V (a.k.a. Karthithehacker) Karthikeyan V is a renowned ethical hacker, cybersecurity researcher, and the founder of Cappricio Securities, a company dedicated to practical cybersecurity education. With a track record of reporting vulnerabilities in top platforms like Google, Pinterest, Android OS, and Upwork, he brings real-world experience directly into the classroom. He is the creator of several popular open-source security tools including Gh0stR3c0n, CRLFi, and Poseidon. His expertise ranges from bug bounty hunting and OSINT to advanced penetration testing and red teaming. Karthikeyan is also a popular cybersecurity content creator, known for breaking down complex topics in Tamil, making learning accessible to a wider audience. Despite coming from a modest background, his journey from a self-taught hacker to an industry leader has inspired thousands. As your mentor for the CEHPT course, he focuses on hands-on training, real-time attack simulations, and helping students develop the mindset of a professional ethical hacker. 🔐 “In this course, I won’t just teach you tools — I’ll show you how to think like a hacker.” — Karthikeyan V"
+    },
+    "content": [
+      {
+        "topic": "Chapter 0: Cyber Awareness",
+        "videos": [
+          { "number": "00", "title": "Cyber Awareness", "duration": "52:14 min" }
+        ]
+      }, 
+      {
+        "topic": "Chapter 1: Introduction & Requirements",
+        "videos": [
+          { "number": "01", "title": "About mentor", "duration": "05:54 min" },
+          { "number": "02", "title": "Requirements", "duration": "04:58 min" }
+        ]
+      },
+      {
+        "topic": "Chapter 2: Installation & Setup",
+        "videos": [
+          {
+            "number": "03",
+            "title": "Installation And Setup",
+            "duration": "04:51 min"
+          },
+          {
+            "number": "04",
+            "title": "Kali Installation",
+            "duration": "5:09 min"
+          }
+        ]
+      },
+      {
+        "topic": "Chapter 3: Linux Fundamentals",
+        "videos": [
+          { "number": "05", "title": "Linux 1", "duration": "06:19 min" },
+          { "number": "06", "title": "Linux 2", "duration": "07:30 min" },
+          { "number": "07", "title": "Linux 3", "duration": "05:45 min" },
+          { "number": "08", "title": "Linux 4", "duration": "09:14 min" },
+          { "number": "09", "title": "Linux 5", "duration": "04:19 min" }
+        ]
+      },
+      {
+        "topic": "Chapter 4: Web Development Basics",
+        "videos": [
+          {
+            "number": "10",
+            "title": "Web Development 1",
+            "duration": "08:01 min"
+          },
+          {
+            "number": "11",
+            "title": "Web Development 2",
+            "duration": "13:49 min"
+          },
+          {
+            "number": "12",
+            "title": "Web Development 3",
+            "duration": "08:30 min"
+          },
+          {
+            "number": "13",
+            "title": "Web Development 4",
+            "duration": "07:18 min"
+          }
+        ]
+      },
+      {
+        "topic": "Chapter 5: PHP & Server Configuration",
+        "videos": [
+          { "number": "14", "title": "PHP 1", "duration": "12:31 min" },
+          { "number": "15", "title": "PHP 2", "duration": "04:11 min" },
+          { "number": "16", "title": "PHP 3", "duration": "11:04 min" },
+          { "number": "17", "title": "Apache Server", "duration": "02:36 min" },
+          {
+            "number": "18",
+            "title": "Server Configuration",
+            "duration": "07:54 min"
+          },
+          { "number": "19", "title": "Log Analysis", "duration": "04:44 min" },
+          {
+            "number": "20",
+            "title": "All About Web Server",
+            "duration": "06:22 min"
+          },
+          { "number": "21", "title": "Web Hosting", "duration": "02:53 min" },
+          {
+            "number": "22",
+            "title": "About Domain Name",
+            "duration": "04:10 min"
+          },
+          {
+            "number": "27",
+            "title": "Linking PHP & HTML",
+            "duration": "05:51 min"
+          },
+          {
+            "number": "28",
+            "title": "Making web public",
+            "duration": "05:51 min"
+          }
+        ]
+      },
+      {
+        "topic": "Chapter 6: Social Engineering & Web Cloning",
+        "videos": [
+          {
+            "number": "23",
+            "title": "Ways To Hack Social Accounts",
+            "duration": "03:23 min"
+          },
+          {
+            "number": "24",
+            "title": "Social Media Hacking tools",
+            "duration": "04:48 min"
+          },
+          { "number": "25", "title": "Web Cloning 1", "duration": "03:43 min" },
+          { "number": "26", "title": "Web Cloning 2", "duration": "07:48 min" }
+        ]
+      },
+      {
+        "topic": "Chapter 7: Credential Stealing & Phishing",
+        "videos": [
+          {
+            "number": "29",
+            "title": "Demo of credentials stealing",
+            "duration": "03:56 min"
+          },
+          {
+            "number": "30",
+            "title": "PayPal credentials stealing",
+            "duration": "02:26 min"
+          },
+          {
+            "number": "31",
+            "title": "Google credentials stealing",
+            "duration": "04:21 min"
+          },
+          {
+            "number": "32",
+            "title": "Poseidon Tool setup",
+            "duration": "09:31 min"
+          },
+          {
+            "number": "33",
+            "title": "Spear phishing on twitter",
+            "duration": "05:00 min"
+          }
+        ]
+      },
+      {
+        "topic": "Chapter 8: Keyloggers & Attacks",
+        "videos": [
+          {
+            "number": "34",
+            "title": "Client Side KeyLogger",
+            "duration": "01:52 min"
+          },
+          {
+            "number": "35",
+            "title": "Server Side KeyLogger",
+            "duration": "01:08 min"
+          },
+          {
+            "number": "36",
+            "title": "Netflix Live Attack",
+            "duration": "03:39 min"
+          },
+          {
+            "number": "37",
+            "title": "Session Fixation",
+            "duration": "07:37 min"
+          }
+        ]
+      },
+      {
+        "topic": "Chapter 9: Bug Explanation & PoCs",
+        "videos": [
+          {
+            "number": "38",
+            "title": "Google Bug explaination",
+            "duration": "04:21 min"
+          },
+          { "number": "39", "title": "Google PoC", "duration": "05:18 min" },
+          { "number": "40", "title": "FitBit PoC", "duration": "03:09 min" },
+          {
+            "number": "41",
+            "title": "TeipAdvisor PoC",
+            "duration": "03:09 min"
+          }
+        ]
+      },
+      {
+        "topic": "Chapter 10: Email, Domain, and Homograph Attacks",
+        "videos": [
+          {
+            "number": "42",
+            "title": "IDN homograph attack",
+            "duration": "02:05 min"
+          },
+          {
+            "number": "43",
+            "title": "About SPF Exploitation",
+            "duration": "01:52 min"
+          },
+          {
+            "number": "44",
+            "title": "SPF Exploitation",
+            "duration": "02:47 min"
+          }
+        ]
+      },
+      {
+        "topic": "Chapter 11: Mobile Hacking and Spyware",
+        "videos": [
+          {
+            "number": "45",
+            "title": "Mobile Hacking",
+            "duration": "03:13 min"
+          },
+          {
+            "number": "46",
+            "title": "Gaining Connection",
+            "duration": "03:26 min"
+          },
+          {
+            "number": "47",
+            "title": "Attacking Cmds For Mobile",
+            "duration": "02:56 min"
+          },
+          { "number": "48", "title": "SMS Hacking", "duration": "01:27 min" },
+          {
+            "number": "49",
+            "title": "WebCam Hacking",
+            "duration": "05:04 min"
+          },
+          {
+            "number": "50",
+            "title": "MobieTracker Spyware intro",
+            "duration": "03:22 min"
+          },
+          {
+            "number": "51",
+            "title": "MobieTracker Spyware Usages",
+            "duration": "04:07 min"
+          },
+          {
+            "number": "52",
+            "title": "MobieTracker Spyware Features",
+            "duration": "06:16 min"
+          },
+          {
+            "number": "53",
+            "title": "MobieTracker Live Hacking 1",
+            "duration": "07:00 min"
+          },
+          {
+            "number": "54",
+            "title": "MobieTracker Live Hacking 2",
+            "duration": "02:10 min"
+          }
+        ]
+      },
+      {
+        "topic": "Chapter 12: IoT Pentesting & Exploits",
+        "videos": [
+          {
+            "number": "55",
+            "title": "Why IoT Pentesting",
+            "duration": "04:54 min"
+          },
+          {
+            "number": "56",
+            "title": "Requirements For IoT Pentest",
+            "duration": "07:44 min"
+          },
+          {
+            "number": "57",
+            "title": "Hardware Config",
+            "duration": "02:19 min"
+          },
+          { "number": "58", "title": "Sniffing Data", "duration": "09:34 min" },
+          { "number": "59", "title": "IoT Recon 1", "duration": "05:48 min" },
+          { "number": "60", "title": "Iot Recon 2", "duration": "03:32 min" },
+          { "number": "61", "title": "Iot Attack 1", "duration": "07:43 min" },
+          { "number": "62", "title": "Iot Attack 2", "duration": "04:34 min" },
+          {
+            "number": "63",
+            "title": "IoT Exploit Development",
+            "duration": "05:15 min"
+          },
+          {
+            "number": "64",
+            "title": "Critical Remote Attack IoT",
+            "duration": "04:43 min"
+          },
+          {
+            "number": "65",
+            "title": "Remote Attack Tool Development",
+            "duration": "02:03 min"
+          },
+          { "number": "66", "title": "Philips POC 1", "duration": "00:41 min" },
+          { "number": "67", "title": "Philips POC 2", "duration": "01:00 min" },
+          {
+            "number": "68",
+            "title": "Hardware Exploit",
+            "duration": "00:16 min"
+          }
+        ]
+      }
+      
+    ]
+  }
+}
+
+
+
+
+
+

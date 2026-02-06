@@ -40,5 +40,53 @@
       "Protecting Yourself in the Digital Age",
       "Hands-on Demos and Awareness Exercises"
     ]
-  }
+  },
+  "jeccse": {
+  "title": "Offensive Hacking & Defensive Hacking",
+  "Tag": [
+    "Cybersecurity",
+    "Ethical Hacking",
+    "Password Cracking",
+    "No Rate Limiting Bug",
+    "SQL Injection",
+    "Rate Limiting",
+    "IVR Scam Awareness",
+    "Drone Camera Hacking",
+    "Keylogger Attacks",
+    "Social Media Hacking",
+    "Camera Hacking",
+    "Beginner Friendly"
+  ],
+  "banner": "http://cappriciosec.com/admin_university/university_automation/images/img_69864cc4a267f4.70244652.jpeg",
+  "video_url": "",
+  "Language": "தமிழ்",
+  "Short Description": "A practical workshop covering core cybersecurity concepts and real-world hacking techniques.",
+  "Description": "For successfully completing the live training on Offensive Hacking & Cybersecurity Fundamentals organized by CappricioSec University. Topics covered included: Password Cracking, No Rate Limiting Vulnerabilities, SQL Injection Attacks, Rate Limiting Bypass, IVR Scam Techniques, Drone Camera Hacking, Keylogger Attacks, Social Media Hacking, Camera Hacking, and an Introduction to Cybersecurity. This session focuses on understanding real-world attack methods and learning how to defend against them effectively.",
+  "Duration": "Lifetime",
+  "Access": "24/7",
+  "Starts": "2026-02-07",
+  "students enrolled count": 0,
+  "price": "",
+  "offer price": "free",
+  "offer percentage": 100,
+  "PREREQUISITES": [
+    "Basic computer or smartphone knowledge",
+    "Interest in cybersecurity and hacking",
+    "No prior technical background required",
+    "Willingness to learn ethical hacking concepts"
+  ],
+  "What you'll learn": [
+    "Password Cracking Techniques and Defense Strategies",
+    "Understanding No Rate Limiting Vulnerabilities",
+    "SQL Injection Attacks and Prevention Methods",
+    "Rate Limiting Bypass and Security Best Practices",
+    "IVR Scam Techniques and How to Stay Safe",
+    "Drone Camera and Surveillance Security Risks",
+    "Keylogger Attacks and Detection Methods",
+    "Social Media Account Hacking Risks and Protection",
+    "Camera Hacking Threats and How to Secure Devices",
+    "Introduction to Cybersecurity and Digital Safety"
+  ]
+}
+
 }

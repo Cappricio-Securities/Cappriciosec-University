@@ -458,6 +458,129 @@ sudo dpkg --configure -a
 
 
 
+# 🐧 Linux Filesystem Paths Explained
+
+Linux uses a hierarchical filesystem structure that starts from the **root directory `/`**.
+
+---
+
+# 📂 Important Linux Paths and Their Uses
+
+| Path          | Full Name / Meaning         | Purpose                                 | Important Notes                          |
+| ------------- | --------------------------- | --------------------------------------- | ---------------------------------------- |
+| `/`           | Root Directory              | Main starting point of Linux filesystem | Everything starts from `/`               |
+| `/home`       | User Home Directory         | Stores user files and personal data     | Example: `/home/kali`                    |
+| `/root`       | Root User Home              | Home directory of admin/root user       | Different from `/home`                   |
+| `/bin`        | Binary Commands             | Essential user commands                 | Contains commands like `ls`, `cp`, `cat` |
+| `/sbin`       | System Binaries             | Administrative commands                 | Used mainly by root user                 |
+| `/etc`        | Editable Text Configuration | System configuration files              | Important configs stored here            |
+| `/var`        | Variable Files              | Logs, cache, mail, databases            | Frequently changing data                 |
+| `/tmp`        | Temporary Files             | Temporary storage                       | Auto-cleared after reboot                |
+| `/usr`        | User System Resources       | Installed applications and libraries    | Large software storage                   |
+| `/usr/bin`    | User Commands               | Normal user executable files            | Most commands stored here                |
+| `/usr/sbin`   | System Admin Commands       | Admin-related binaries                  | System management tools                  |
+| `/usr/lib`    | Libraries                   | Shared libraries for applications       | Similar to Windows DLLs                  |
+| `/opt`        | Optional Software           | Third-party software installation       | Custom apps installed here               |
+| `/boot`       | Boot Files                  | Kernel and bootloader files             | Required for startup                     |
+| `/dev`        | Device Files                | Hardware device interfaces              | USB, disks, terminals                    |
+| `/proc`       | Process Information         | Virtual process/system info             | Runtime kernel information               |
+| `/sys`        | System Information          | Kernel and hardware interface           | System device management                 |
+| `/media`      | Mounted Media               | USB drives and removable media          | Auto-mounted devices                     |
+| `/mnt`        | Mount Point                 | Manual mount location                   | Used by admins                           |
+| `/lib`        | Essential Libraries         | Core system libraries                   | Required for booting                     |
+| `/run`        | Runtime Data                | Temporary runtime information           | PID and socket files                     |
+| `/srv`        | Service Data                | Data for servers/services               | Web server files                         |
+| `/lost+found` | Recovery Folder             | Recovered corrupted files               | Exists on Linux partitions               |
+
+---
+
+# 🛡️ Cybersecurity Important Paths
+
+| Path          | Why Important in Cybersecurity          |
+| ------------- | --------------------------------------- |
+| `/etc/passwd` | Stores user account information         |
+| `/etc/shadow` | Stores encrypted passwords              |
+| `/var/log`    | Contains system and authentication logs |
+| `/home`       | User files and sensitive data           |
+| `/root`       | Root user sensitive files               |
+| `/tmp`        | Often abused for malware/temp scripts   |
+| `/proc`       | Process and memory inspection           |
+| `/dev`        | Hardware and disk interaction           |
+| `/boot`       | Bootloader and kernel targets           |
+| `/opt`        | Third-party tools like Burp Suite       |
+
+---
+
+# 📄 Important Files in Linux
+
+| File                  | Purpose                |
+| --------------------- | ---------------------- |
+| `/etc/passwd`         | User account details   |
+| `/etc/shadow`         | Password hashes        |
+| `/etc/hostname`       | System hostname        |
+| `/etc/hosts`          | Local DNS mappings     |
+| `/etc/resolv.conf`    | DNS configuration      |
+| `/var/log/auth.log`   | Authentication logs    |
+| `/var/log/syslog`     | General system logs    |
+| `/boot/grub/grub.cfg` | GRUB bootloader config |
+
+---
+
+# 📌 Example Path Navigation
+
+| Command         | Purpose                      |
+| --------------- | ---------------------------- |
+| `cd /home/kali` | Go to Kali user folder       |
+| `cd /etc`       | Open configuration directory |
+| `cd /var/log`   | View logs                    |
+| `cd /tmp`       | Access temp files            |
+| `cd /root`      | Open root user folder        |
+
+---
+
+# 🖥️ Simple Linux Filesystem Structure
+
+```text id="m2v9k1"
+/  
+├── bin
+├── boot
+├── dev
+├── etc
+├── home
+├── lib
+├── media
+├── mnt
+├── opt
+├── proc
+├── root
+├── run
+├── sbin
+├── srv
+├── sys
+├── tmp
+├── usr
+└── var
+```
+
+---
+
+# 🔥 Most Important Paths to Remember
+
+| Priority | Path       |
+| -------- | ---------- |
+| ⭐⭐⭐⭐⭐    | `/home`    |
+| ⭐⭐⭐⭐⭐    | `/etc`     |
+| ⭐⭐⭐⭐⭐    | `/var/log` |
+| ⭐⭐⭐⭐⭐    | `/tmp`     |
+| ⭐⭐⭐⭐     | `/usr/bin` |
+| ⭐⭐⭐⭐     | `/root`    |
+| ⭐⭐⭐⭐     | `/proc`    |
+| ⭐⭐⭐⭐     | `/boot`    |
+
+---
+
+
+
 
 
 

@@ -234,6 +234,234 @@ By David Bombal
 
 
 
+# 3️⃣ Kali Linux Update, Upgrade & Repository Management
+
+This chapter explains how to:
+
+* Update Kali Linux
+* Upgrade packages
+* Configure repositories
+* Fix sources list
+* Maintain system stability
+
+---
+
+# 3.1️⃣ Open Terminal
+
+In Kali Linux open Terminal.
+
+### Shortcut
+
+```bash id="1j9nq3"
+CTRL + ALT + T
+```
+
+---
+
+# 3.2️⃣ Check Internet Connection
+
+Test internet connectivity:
+
+```bash id="2q7x6v"
+ping google.com
+```
+
+If connected, replies will appear.
+
+Stop ping:
+
+```bash id="3f8m2p"
+CTRL + C
+```
+
+---
+
+# 3.3️⃣ Backup Existing Sources List
+
+Before modifying repositories:
+
+```bash id="4n2r8w"
+sudo cp /etc/apt/sources.list /etc/apt/sources.list.backup
+```
+
+---
+
+# 3.4️⃣ Open Sources List File
+
+Edit repository file:
+
+```bash id="5c6k1z"
+sudo nano /etc/apt/sources.list
+```
+
+---
+
+# 3.5️⃣ Configure Official Kali Repository
+
+Remove old content and add:
+
+```bash id="6d4v9x"
+deb http://http.kali.org/kali kali-rolling main contrib non-free non-free-firmware
+```
+
+---
+
+# 3.6️⃣ Save and Exit Nano Editor
+
+```text id="7g1m5r"
+CTRL + O  → Save
+ENTER     → Confirm
+CTRL + X  → Exit
+```
+
+---
+
+# 3.7️⃣ Update Package List
+
+Download latest package information:
+
+```bash id="8p3w7t"
+sudo apt update
+```
+
+---
+
+# 3.8️⃣ Upgrade Installed Packages
+
+Upgrade installed software:
+
+```bash id="9z6y2q"
+sudo apt upgrade -y
+```
+
+---
+
+# 3.9️⃣ Full System Upgrade
+
+Recommended for Kali Linux:
+
+```bash id="10l4s8u"
+sudo apt full-upgrade -y
+```
+
+This updates:
+
+* Kernel
+* Drivers
+* Core system packages
+
+---
+
+# 3.🔟 Remove Unused Packages
+
+Clean unnecessary packages:
+
+```bash id="11r7n3k"
+sudo apt autoremove -y
+```
+
+---
+
+# 3.1️⃣1️⃣ Clean Package Cache
+
+```bash id="12x5c9b"
+sudo apt clean
+```
+
+---
+
+# 3.1️⃣2️⃣ Reboot the System
+
+```bash id="13m8q2v"
+sudo reboot
+```
+
+---
+
+# 3.1️⃣3️⃣ Verify Kali Version
+
+Check operating system version:
+
+```bash id="14w3z6n"
+cat /etc/os-release
+```
+
+Kernel information:
+
+```bash id="15k1p7r"
+uname -a
+```
+
+---
+
+# 3.1️⃣4️⃣ One-Line Full Update Command
+
+```bash id="16b9x4c"
+sudo apt update && sudo apt full-upgrade -y && sudo apt autoremove -y && sudo reboot
+```
+
+---
+
+# 3.1️⃣5️⃣ Common Errors and Fixes
+
+## Repository Error
+
+### Error
+
+```text id="17q5m2y"
+404 Not Found
+```
+
+### Fix
+
+* Verify repository URL
+* Use official Kali repository only
+
+---
+
+## Lock Error
+
+### Error
+
+```text id="18c7v1p"
+Could not get lock /var/lib/dpkg/lock
+```
+
+### Fix
+
+```bash id="19n4w8z"
+sudo rm /var/lib/dpkg/lock*
+sudo dpkg --configure -a
+```
+
+---
+
+# 3.1️⃣6️⃣ Important APT Commands
+
+| Purpose                | Command                    |
+| ---------------------- | -------------------------- |
+| Update package list    | `sudo apt update`          |
+| Upgrade packages       | `sudo apt upgrade -y`      |
+| Full upgrade           | `sudo apt full-upgrade -y` |
+| Remove unused packages | `sudo apt autoremove -y`   |
+| Clean cache            | `sudo apt clean`           |
+
+---
+
+# 3.1️⃣7️⃣ Official References
+
+| Resource                    | Link                                                                                                                          |
+| --------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| Kali Linux Official Website | [Kali Linux Website](https://www.kali.org/?utm_source=chatgpt.com)                                                            |
+| Kali Documentation          | [Kali Documentation](https://www.kali.org/docs/?utm_source=chatgpt.com)                                                       |
+| Kali Repository Guide       | [Kali Sources List Guide](https://www.kali.org/docs/general-use/kali-linux-sources-list-repositories/?utm_source=chatgpt.com) |
+
+
+
+
+
+
+
 # ⚠️ Disclaimer
 
 These notes are created for:

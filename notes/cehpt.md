@@ -581,7 +581,42 @@ Linux uses a hierarchical filesystem structure that starts from the **root direc
 
 
 
+# 🐧 Important Kali Linux Commands with Arguments
 
+| Command | Purpose | Common Arguments | Example Usage |
+|---|---|---|---|
+| `pwd` | Show current directory | None | `pwd` |
+| `ls` | List files and folders | `-l` long list, `-a` hidden files, `-h` human readable | `ls -lah` |
+| `cd` | Change directory | `..` previous folder, `~` home directory | `cd ~/Desktop` |
+| `mkdir` | Create folder | `-p` create parent directories | `mkdir -p labs/test` |
+| `rm` | Delete files/folders | `-r` recursive, `-f` force | `rm -rf testfolder` |
+| `cp` | Copy files | `-r` recursive, `-v` verbose | `cp -rv dir1 dir2` |
+| `mv` | Move or rename files | `-v` verbose | `mv old.txt new.txt` |
+| `cat` | Display file contents | `-n` line numbers | `cat -n notes.txt` |
+| `nano` | Edit files in terminal | None | `nano test.txt` |
+| `clear` | Clear terminal screen | None | `clear` |
+| `history` | Show command history | `| grep` search history | `history \| grep apt` |
+| `sudo` | Run command as administrator | `-i` root shell | `sudo -i` |
+| `apt update` | Update package list | None | `sudo apt update` |
+| `apt upgrade` | Upgrade installed packages | `-y` auto yes | `sudo apt upgrade -y` |
+| `ping` | Test network connectivity | `-c` count | `ping -c 4 google.com` |
+| `ifconfig` | Show network interfaces | Interface name | `ifconfig eth0` |
+| `ip a` | Show IP address info | `show` display | `ip a show wlan0` |
+| `netstat` | View network connections | `-t` TCP, `-u` UDP, `-l` listening, `-n` numeric, `-p` process | `netstat -tulnp` |
+| `ss` | Modern socket viewer | Same as netstat | `ss -tulnp` |
+| `whoami` | Show current user | None | `whoami` |
+| `id` | Show user/group IDs | Username | `id kali` |
+| `passwd` | Change password | Username | `sudo passwd kali` |
+| `chmod` | Change file permissions | `+x` executable, `777` full permissions | `chmod +x script.sh` |
+| `chown` | Change ownership | `-R` recursive | `sudo chown -R kali:kali folder` |
+| `find` | Search files | `-name`, `-type`, `-perm` | `find / -name passwords.txt` |
+| `grep` | Search text in files | `-i` ignore case, `-r` recursive, `-n` line number | `grep -rin "admin" /etc` |
+| `wget` | Download files | `-O` output file | `wget -O test.zip https://example.com/test.zip` |
+| `curl` | Transfer data from URLs | `-I` headers, `-O` save file | `curl -I google.com` |
+| `zip` | Compress files | `-r` recursive | `zip -r backup.zip folder` |
+| `unzip` | Extract zip files | `-d` extract directory | `unzip test.zip -d output/` |
+
+---
 
 
 

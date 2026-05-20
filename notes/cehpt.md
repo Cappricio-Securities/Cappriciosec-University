@@ -619,6 +619,81 @@ Linux uses a hierarchical filesystem structure that starts from the **root direc
 ---
 
 
+# ☁️ Cloudflared Installation Guide for Kali Linux
+
+This guide explains how to install and use `cloudflared` on :contentReference[oaicite:0]{index=0}.
+
+`cloudflared` is a tunneling tool by :contentReference[oaicite:1]{index=1} used to securely expose localhost services to the internet.
+
+---
+
+# 📦 Step 1 — Update System
+
+```bash
+sudo apt update && sudo apt upgrade -y
+```
+
+---
+
+# 📥 Step 2 — Download Cloudflared
+
+## For 64-bit Systems
+
+```bash
+wget https://github.com/cloudflare/cloudflared/releases/latest/download/cloudflared-linux-amd64.deb
+```
+
+---
+
+# ⚙️ Step 3 — Install Cloudflared
+
+```bash
+sudo dpkg -i cloudflared-linux-amd64.deb
+```
+
+---
+
+# 🛠️ Step 4 — Fix Missing Dependencies
+
+```bash
+sudo apt --fix-broken install -y
+```
+
+---
+
+# ✅ Step 5 — Verify Installation
+
+```bash
+cloudflared --version
+```
+
+Expected Output:
+
+```text
+cloudflared version XXXX
+```
+
+---
+
+# 🌐 Step 6 — Start Local Test Server
+
+Python HTTP server example:
+
+```bash
+python3 -m http.server 8080
+```
+
+---
+
+# 🚀 Step 7 — Create Public Tunnel
+
+Open new terminal and run:
+
+```bash
+cloudflared tunnel --url http://localhost:8080
+```
+
+
 
 # ⚠️ Disclaimer
 

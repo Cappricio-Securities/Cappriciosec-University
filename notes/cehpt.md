@@ -1100,6 +1100,466 @@ hashcat --show hash.txt
 sudo gzip -d /usr/share/wordlists/rockyou.txt.gz
 ```
 
+# Bash Scripting Beginner Guide
+
+## What is Bash?
+
+Bash (Bourne Again Shell) is a command-line interpreter used in Linux systems. It allows users to execute commands, automate tasks, and create scripts.
+
+---
+
+# Starting a Bash Script
+
+Every Bash script starts with:
+
+```bash
+#!/bin/bash
+```
+
+This is called a **shebang**.  
+It tells Linux to execute the script using Bash.
+
+---
+
+# Echo Command
+
+`echo` is used to print text on the terminal.
+
+Example:
+
+```bash
+echo "Hello World"
+```
+
+Output:
+
+```bash
+Hello World
+```
+
+---
+
+# Echo Options
+
+## New Line
+
+```bash
+echo -e "Hello\nWorld"
+```
+
+Output:
+
+```bash
+Hello
+World
+```
+
+---
+
+## Without New Line
+
+```bash
+echo -n "Hello"
+```
+
+---
+
+# Printf Command
+
+`printf` provides formatted output.
+
+Example:
+
+```bash
+printf "Name: %s\n" "Karthi"
+```
+
+Output:
+
+```bash
+Name: Karthi
+```
+
+---
+
+# Bash Arguments
+
+Arguments are values passed while running a script.
+
+Example:
+
+```bash
+./test.sh hello world
+```
+
+---
+
+# Special Argument Variables
+
+| Variable | Meaning |
+|---|---|
+| `$0` | Script name |
+| `$1` | First argument |
+| `$2` | Second argument |
+| `$3` | Third argument |
+| `$#` | Number of arguments |
+| `$@` | All arguments |
+| `$$` | Process ID |
+
+---
+
+# Example
+
+```bash
+#!/bin/bash
+
+echo "Script name : $0"
+echo "First arg   : $1"
+echo "Second arg  : $2"
+echo "Third arg   : $3"
+echo "Total args  : $#"
+echo "Process ID  : $$"
+echo "All args    : $@"
+```
+
+Run:
+
+```bash
+./test.sh kali linux bash
+```
+
+---
+
+# Functions in Bash
+
+Functions help reuse code.
+
+---
+
+# Function Syntax
+
+```bash
+function_name() {
+    commands
+}
+```
+
+---
+
+# Example
+
+```bash
+#!/bin/bash
+
+hello() {
+    echo "Hello Hacker"
+}
+
+hello
+```
+
+Output:
+
+```bash
+Hello Hacker
+```
+
+---
+
+# Function With Arguments
+
+```bash
+#!/bin/bash
+
+welcome() {
+    echo "Welcome $1"
+}
+
+welcome Karthi
+```
+
+Output:
+
+```bash
+Welcome Karthi
+```
+
+---
+
+# While Loop
+
+`while` runs until condition becomes false.
+
+---
+
+# Syntax
+
+```bash
+while [ condition ]
+do
+    commands
+done
+```
+
+---
+
+# Example
+
+```bash
+#!/bin/bash
+
+count=1
+
+while [ $count -le 5 ]
+do
+    echo "Count : $count"
+    ((count++))
+done
+```
+
+Output:
+
+```bash
+Count : 1
+Count : 2
+Count : 3
+Count : 4
+Count : 5
+```
+
+---
+
+# For Loop
+
+Used for repeating tasks.
+
+---
+
+# Syntax
+
+```bash
+for variable in list
+do
+    commands
+done
+```
+
+---
+
+# Example
+
+```bash
+#!/bin/bash
+
+for i in 1 2 3 4 5
+do
+    echo $i
+done
+```
+
+---
+
+# C-Style For Loop
+
+```bash
+for (( i=0; i<5; i++ ))
+do
+    echo $i
+done
+```
+
+---
+
+# If Condition
+
+Used for decision making.
+
+---
+
+# Syntax
+
+```bash
+if [ condition ]
+then
+    commands
+fi
+```
+
+---
+
+# Example
+
+```bash
+#!/bin/bash
+
+num=10
+
+if [ $num -gt 5 ]
+then
+    echo "Number is greater than 5"
+fi
+```
+
+---
+
+# Comparison Operators
+
+| Operator | Meaning |
+|---|---|
+| `-eq` | Equal |
+| `-ne` | Not equal |
+| `-gt` | Greater than |
+| `-lt` | Less than |
+| `-ge` | Greater or equal |
+| `-le` | Less or equal |
+
+---
+
+# IF ELSE Example
+
+```bash
+#!/bin/bash
+
+read -p "Enter Password: " pass
+
+if [ "$pass" == "admin123" ]
+then
+    echo "Access Granted"
+else
+    echo "Access Denied"
+fi
+```
+
+---
+
+# Read Input
+
+`read` takes input from user.
+
+---
+
+# Example
+
+```bash
+read -p "Enter IP Address: " ip
+
+echo $ip
+```
+
+---
+
+# Silent Input
+
+Used for passwords.
+
+```bash
+read -s -p "Enter Password: " pass
+```
+
+---
+
+# Bash Banner Example
+
+```bash
+banner=$'
+  __  _____  __     _                       __
+ / / / / _ \\/ /    (_)__  ___ ___  ___ ____/ /__
+/ /_/ / , _/ /__  / / _ \\(_-</ _ \\/ -_) __/  \'_/
+\\____/_/|_/____/ /_/_//_/___/ .__/\\__/\\__/_/\\_\\
+                           /_/
+'
+
+echo "$banner"
+```
+
+---
+
+# Typing Animation Function
+
+```bash
+type_text() {
+    text="$1"
+
+    for (( i=0; i<${#text}; i++ ))
+    do
+        echo -ne "${text:$i:1}"
+        sleep 0.05
+    done
+
+    echo ""
+}
+```
+
+---
+
+# Network Scanner Example
+
+```bash
+for i in $(seq 1 255)
+do
+    ip="192.168.1.$i"
+
+    ping -c 1 $ip > /dev/null 2>&1
+
+    if [ $? -eq 0 ]
+    then
+        echo "[+] Active Host : $ip"
+    fi
+done
+```
+
+---
+
+# URL Redirect Verifier Example
+
+```bash
+url=$1
+
+res=$(curl -Ls -o /dev/null -w "%{url_effective}" "$url")
+
+if [ "$res" != "$url" ]
+then
+    echo "[+] Redirect Found"
+    echo "$res"
+else
+    echo "[-] No Redirect"
+fi
+```
+
+---
+
+# Running Bash Scripts
+
+## Give Permission
+
+```bash
+chmod +x script.sh
+```
+
+---
+
+## Execute Script
+
+```bash
+./script.sh
+```
+
+---
+
+# Why Bash is Important in Cybersecurity
+
+Bash scripting is widely used in cybersecurity for:
+
+- Automation
+- Reconnaissance
+- Network scanning
+- Log analysis
+- File monitoring
+- Penetration testing
+- Security auditing
+- Tool development
+
+Cybersecurity professionals use Bash to automate repetitive tasks and build custom security tools.
 
 
 # ⚠️ Disclaimer

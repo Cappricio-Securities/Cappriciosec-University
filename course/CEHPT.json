@@ -85,7 +85,7 @@
         ]
       },
       {
-        "topic": "Linux",
+        "topic": "Linux for hacking",
         "videos": [
           {
             "number": "06",
@@ -330,7 +330,7 @@
         ]
       },
       {
-        "topic": "Namp for hacking",
+        "topic": "NMAP for hacking",
         "videos": [
           {
             "number": "50",
@@ -390,7 +390,7 @@
         ]
       },
       {
-        "course": "CEHPT old",
+        "topic": "CEHPT old",
         "videos": [
           {
             "number": "1001",

@@ -1100,6 +1100,455 @@ hashcat --show hash.txt
 sudo gzip -d /usr/share/wordlists/rockyou.txt.gz
 ```
 
+
+
+# TCP vs UDP and IP Address Types
+
+## Table of Contents
+
+1. TCP vs UDP
+2. IPv4 vs IPv6
+3. Local IP Address
+4. Loopback IP Address
+5. Public IP Address
+6. Bind IP Address
+7. Private IP Address
+
+---
+
+# TCP vs UDP
+
+TCP (Transmission Control Protocol) and UDP (User Datagram Protocol) are transport layer protocols used for network communication.
+
+## TCP (Transmission Control Protocol)
+
+TCP is a connection-oriented protocol.
+
+### Features
+
+- Reliable communication
+- Error checking
+- Packet retransmission
+- Ordered packet delivery
+- Connection establishment using 3-way handshake
+
+### TCP Communication Flow
+
+```text
+Client                  Server
+
+SYN ------------------>
+      <--------------- SYN-ACK
+
+ACK ------------------>
+
+Connection Established
+```
+
+### Advantages
+
+- Reliable data transfer
+- Guarantees packet delivery
+- Maintains packet order
+- Error recovery support
+
+### Disadvantages
+
+- Slower than UDP
+- More network overhead
+
+### Common TCP Ports
+
+| Service | Port |
+|----------|------|
+| HTTP | 80 |
+| HTTPS | 443 |
+| FTP | 21 |
+| SSH | 22 |
+| SMTP | 25 |
+
+### Use Cases
+
+- Web Browsing
+- File Transfers
+- Email Services
+- Remote Access (SSH)
+
+---
+
+## UDP (User Datagram Protocol)
+
+UDP is a connectionless protocol.
+
+### Features
+
+- No handshake
+- Faster communication
+- No delivery guarantee
+- No packet ordering
+
+### UDP Communication Flow
+
+```text
+Client ------------------> Server
+
+Data sent immediately
+No confirmation required
+```
+
+### Advantages
+
+- Very fast
+- Low latency
+- Minimal overhead
+
+### Disadvantages
+
+- Packets may be lost
+- No retransmission
+- No delivery guarantee
+
+### Common UDP Ports
+
+| Service | Port |
+|----------|------|
+| DNS | 53 |
+| DHCP | 67/68 |
+| TFTP | 69 |
+| SNMP | 161 |
+| NTP | 123 |
+
+### Use Cases
+
+- Video Streaming
+- Online Gaming
+- VoIP Calls
+- DNS Queries
+
+---
+
+## TCP vs UDP Comparison
+
+| Feature | TCP | UDP |
+|----------|-----|-----|
+| Connection | Yes | No |
+| Reliable | Yes | No |
+| Ordered Delivery | Yes | No |
+| Error Recovery | Yes | No |
+| Speed | Slower | Faster |
+| Overhead | High | Low |
+| Streaming | No | Yes |
+| Gaming | Limited | Preferred |
+
+---
+
+# IPv4 vs IPv6
+
+## IPv4
+
+Internet Protocol Version 4
+
+### Example
+
+```text
+192.168.1.10
+8.8.8.8
+```
+
+### Characteristics
+
+- 32-bit address
+- 4 octets
+- Around 4.3 billion addresses
+
+### Structure
+
+```text
+192.168.1.10
+
+192 | 168 | 1 | 10
+```
+
+---
+
+## IPv6
+
+Internet Protocol Version 6
+
+### Example
+
+```text
+2001:4860:4860::8888
+fe80::1
+```
+
+### Characteristics
+
+- 128-bit address
+- Huge address space
+- Better routing
+- Built-in security support
+
+### Structure
+
+```text
+2001:0db8:85a3:0000:0000:8a2e:0370:7334
+```
+
+---
+
+## IPv4 vs IPv6 Comparison
+
+| Feature | IPv4 | IPv6 |
+|----------|-------|-------|
+| Size | 32-bit | 128-bit |
+| Address Count | 4.3 Billion | 340 Undecillion |
+| Example | 192.168.1.1 | 2001:db8::1 |
+| NAT Required | Yes | Usually No |
+| Header Size | 20 Bytes | 40 Bytes |
+| Security | Optional | Better Native Support |
+
+---
+
+# Local IP Address
+
+A Local IP is assigned inside a local network.
+
+### Examples
+
+```text
+192.168.1.100
+10.0.0.25
+172.16.0.5
+```
+
+### Purpose
+
+- Communication within the same LAN
+- Home networks
+- Office networks
+
+### Find Local IP
+
+#### Windows
+
+```cmd
+ipconfig
+```
+
+#### Linux
+
+```bash
+ip addr
+```
+
+#### macOS
+
+```bash
+ifconfig
+```
+
+---
+
+# Loopback IP Address
+
+A loopback address points back to the same machine.
+
+### IPv4 Loopback
+
+```text
+127.0.0.1
+```
+
+### IPv6 Loopback
+
+```text
+::1
+```
+
+### Usage
+
+- Testing applications
+- Running local servers
+- Troubleshooting networking
+
+### Example
+
+```bash
+ping 127.0.0.1
+```
+
+---
+
+# Public IP Address
+
+A Public IP is visible on the internet.
+
+### Example
+
+```text
+49.204.150.100
+103.21.58.200
+```
+
+### Assigned By
+
+- ISP (Internet Service Provider)
+
+### Purpose
+
+- Internet communication
+- Hosting websites
+- Remote access
+
+### Find Public IP
+
+```bash
+curl ifconfig.me
+```
+
+or visit:
+
+```text
+https://whatismyipaddress.com
+```
+
+---
+
+# Bind IP Address
+
+A Bind IP is the address a service listens on.
+
+### Examples
+
+#### Bind to Localhost Only
+
+```text
+127.0.0.1
+```
+
+Only local machine can access.
+
+#### Bind to All Interfaces
+
+```text
+0.0.0.0
+```
+
+Accessible from any network interface.
+
+#### Bind to Specific Interface
+
+```text
+192.168.1.100
+```
+
+Only listens on that IP.
+
+### Example
+
+Python HTTP Server
+
+```python
+server.bind(("0.0.0.0", 8080))
+```
+
+### Common Bind Addresses
+
+| Address | Meaning |
+|-----------|----------|
+| 127.0.0.1 | Localhost only |
+| 0.0.0.0 | All IPv4 Interfaces |
+| :: | All IPv6 Interfaces |
+| 192.168.x.x | Specific Network Interface |
+
+---
+
+# Private IP Address
+
+Private IP addresses cannot be routed directly on the internet.
+
+## Private IPv4 Ranges
+
+### Class A
+
+```text
+10.0.0.0 - 10.255.255.255
+```
+
+CIDR:
+
+```text
+10.0.0.0/8
+```
+
+### Class B
+
+```text
+172.16.0.0 - 172.31.255.255
+```
+
+CIDR:
+
+```text
+172.16.0.0/12
+```
+
+### Class C
+
+```text
+192.168.0.0 - 192.168.255.255
+```
+
+CIDR:
+
+```text
+192.168.0.0/16
+```
+
+### Why Private IPs?
+
+- Conserves public IP addresses
+- Improves security
+- Used within local networks
+
+### Example Network
+
+```text
+Internet
+    |
+Public IP
+    |
+ Router
+    |
+-----------------------
+|         |           |
+PC1      PC2       Mobile
+192.168.1.10
+192.168.1.11
+192.168.1.12
+```
+
+---
+
+# Quick Summary
+
+| Term | Example | Purpose |
+|--------|----------|----------|
+| TCP | HTTP, HTTPS | Reliable communication |
+| UDP | DNS, Gaming | Fast communication |
+| IPv4 | 192.168.1.1 | Traditional IP |
+| IPv6 | 2001:db8::1 | Next Generation IP |
+| Local IP | 192.168.1.100 | Internal Network |
+| Loopback | 127.0.0.1 | Same Machine |
+| Public IP | 49.x.x.x | Internet Facing |
+| Bind IP | 0.0.0.0 | Service Listening |
+| Private IP | 10.x.x.x | Internal Networks |
+
+
+
+
+
 # Bash Scripting Beginner Guide
 
 ## What is Bash?

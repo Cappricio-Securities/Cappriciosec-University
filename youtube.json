@@ -166,7 +166,59 @@
       "Ethical Considerations and Reporting",
       "Final Q&A with Certificate Distribution"
     ]
-  },
+  },{
+  "XSS-Pentesting-course": {
+    "title": "Certified XSS Pentesting 101",
+    "Tag": [
+      "Cyber Security",
+      "Ethical Hacking",
+      "XSS",
+      "Cross-Site Scripting",
+      "Web Security",
+      "Bug Bounty",
+      "Burp Suite",
+      "Hands-On Workshop",
+      "Beginner"
+    ],
+    "banner": "http://cappriciosec.com/admin_university/university_automation/images/img_6a9409e5f047b9.30296522.png",
+    "video_url": "https://youtu.be/YOUR_VIDEO_ID",
+    "Language": "தமிழ்",
+    "Short Description": "Learn Cross-Site Scripting (XSS) and practical web security testing from scratch.",
+    "Description": "Master Cross-Site Scripting (XSS) through a beginner-friendly practical workshop. Learn how XSS works, how to identify and test vulnerabilities using manual techniques and Burp Suite, understand different XSS types, analyze impact, and discover how to report XSS vulnerabilities in bug bounty programs. Participants will receive a soft copy of the certificate, course toolkit, and training materials.",
+    "Duration": "Life Time",
+    "Access": "24/7",
+    "Starts": "2026-08-30",
+    "students enrolled count": 1500,
+    "price": 499,
+    "offer price": "free",
+    "offer percentage": 100,
+    "PREREQUISITES": [
+      "Basic computer knowledge",
+      "Interest in cybersecurity",
+      "No programming experience required",
+      "Basic HTML knowledge",
+      "Basic HTTP/HTTPS concepts",
+      "Web browser",
+      "Burp Suite",
+      "Curiosity to learn"
+    ],
+    "What you'll learn": [
+      "Introduction to XSS and Its Impact",
+      "Reflected XSS - Finding and Testing",
+      "Stored XSS - Finding and Testing",
+      "DOM-Based XSS - Practical Testing",
+      "Blind XSS - Concepts and Testing",
+      "Self-XSS - Understanding the Risks",
+      "Second-Order XSS - Real-World Scenarios",
+      "Finding XSS Using Manual Techniques",
+      "XSS Testing with Burp Suite",
+      "Understanding XSS Payloads and Contexts",
+      "XSS Impact Analysis",
+      "Reporting XSS Vulnerabilities in Bug Bounty Programs",
+      "XSS Prevention and Secure Coding Practices"
+    ]
+  }
+},
   "linuxweb": {
     "title": "Linux and web bug-bounty bootcamp",
     "Tag": [

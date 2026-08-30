@@ -43,6 +43,7 @@
       "Ethical Usage and Legal Boundaries of Wireless Hacking"
     ]
   },
+
   "Cybersecurity-Career-Webinar-101": {
     "title": "Cybersecurity Career Webinar 101",
     "Tag": [
@@ -83,6 +84,7 @@
       "Resources to Start Practicing"
     ]
   },
+
   "API-Pentesting-Bugbounty-101": {
     "title": "API Pentesting & Bug Bounty 101",
     "Tag": [
@@ -125,6 +127,7 @@
       "Steps to Start Your Bug Bounty Journey"
     ]
   },
+
   "Social-Engineering-Ethical-Hacking-101": {
     "title": "Seminar on Social Engineering",
     "Tag": [
@@ -166,7 +169,8 @@
       "Ethical Considerations and Reporting",
       "Final Q&A with Certificate Distribution"
     ]
-  },{
+  },
+
   "XSS-Pentesting-course": {
     "title": "Certified XSS Pentesting 101",
     "Tag": [
@@ -217,8 +221,8 @@
       "Reporting XSS Vulnerabilities in Bug Bounty Programs",
       "XSS Prevention and Secure Coding Practices"
     ]
-  }
-},
+  },
+
   "linuxweb": {
     "title": "Linux and web bug-bounty bootcamp",
     "Tag": [
@@ -268,6 +272,7 @@
       "Ethical guidelines and legal boundaries for responsible testing"
     ]
   },
+
   "ceh": {
     "title": "40-Hour Cyber Security & Ethical Hacking Course (Tamil)",
     "Tag": [

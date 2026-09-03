@@ -44,6 +44,69 @@
     ]
   },
 
+  "OSINT": {
+  "title": "Certified OSINT & Recon 101",
+  "Tag": [
+    "Cyber Security",
+    "OSINT",
+    "Open Source Intelligence",
+    "Reconnaissance",
+    "Information Gathering",
+    "Ethical Hacking",
+    "Digital Investigation",
+    "Threat Intelligence",
+    "Hands-On Workshop",
+    "Beginner"
+  ],
+  "banner": "https://university.cappriciosec.com/free_courses/images/OSINT.png",
+  "video_url": "https://youtu.be/YOUR_VIDEO_ID",
+  "Language": "தமிழ்",
+  "Short Description": "Learn OSINT and reconnaissance techniques from scratch through practical, real-world investigations.",
+  "Description": "Master Open Source Intelligence (OSINT) and reconnaissance through a beginner-friendly practical workshop. Learn how to collect, analyze, validate, and correlate publicly available information using ethical investigation techniques. Explore domain and IP reconnaissance, WHOIS and DNS intelligence, subdomain discovery, email and username OSINT, social media intelligence, metadata analysis, geolocation, reverse image search, digital footprints, and OSINT automation. Participants will receive a soft copy of the certificate, course toolkit, and training materials.",
+  "Duration": "Life Time",
+  "Access": "24/7",
+  "Starts": "2026-09-03",
+  "students enrolled count": 1500,
+  "price": 499,
+  "offer price": "free",
+  "offer percentage": 100,
+  "PREREQUISITES": [
+    "Basic computer knowledge",
+    "Interest in cybersecurity and digital investigation",
+    "No programming experience required",
+    "Basic internet and web browser knowledge",
+    "Basic understanding of domains and IP addresses",
+    "Web browser",
+    "Curiosity to investigate and learn",
+    "Ethical and responsible use of OSINT techniques"
+  ],
+  "What you'll learn": [
+    "Introduction to OSINT and Open Source Intelligence",
+    "OSINT Methodology and Intelligence Lifecycle",
+    "Information Gathering and Target Profiling",
+    "Passive Reconnaissance Techniques",
+    "Domain and IP Address Reconnaissance",
+    "WHOIS and Domain Intelligence",
+    "DNS Enumeration and Intelligence Gathering",
+    "Subdomain Discovery and Enumeration",
+    "Social Media Intelligence (SOCMINT)",
+    "Email Address OSINT and Investigation",
+    "Username and Digital Footprint Investigation",
+    "Metadata and EXIF Analysis",
+    "Image Intelligence and Reverse Image Search",
+    "Geolocation and Map-Based Intelligence",
+    "Public Records and Online Data Investigation",
+    "Technology and Website Intelligence",
+    "Search Engine Operators for OSINT",
+    "OSINT Tools and Practical Investigation Workflows",
+    "Data Correlation and Intelligence Analysis",
+    "Verifying and Validating OSINT Findings",
+    "OSINT Automation and Reporting",
+    "Creating Professional OSINT Investigation Reports",
+    "Ethical, Legal, and Responsible Use of OSINT"
+  ]
+},
+
   "Cybersecurity-Career-Webinar-101": {
     "title": "Cybersecurity Career Webinar 101",
     "Tag": [

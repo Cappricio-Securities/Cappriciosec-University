@@ -390,6 +390,101 @@
         ]
       },
       {
+  "topic": "Web Penetration Testing & Bug Bounty",
+  "videos": [
+    {
+      "number": "61",
+      "title": "Bonus Web Penetration Testing",
+      "duration": "02:31 min"
+    },
+    {
+      "number": "62",
+      "title": "Don't Skip",
+      "duration": "09:21 min"
+    },
+    {
+      "number": "63",
+      "title": "Requirements",
+      "duration": "11:22 min"
+    },
+    {
+      "number": "64",
+      "title": "Burp Download and Installation",
+      "duration": "04:20 min"
+    },
+    {
+      "number": "65",
+      "title": "Burp Full Guide",
+      "duration": "58:13 min"
+    },
+    {
+      "number": "66",
+      "title": "HTTP RAW Decoding 1",
+      "duration": "15:25 min"
+    },
+    {
+      "number": "67",
+      "title": "HTTP RAW Decoding 2",
+      "duration": "15:47 min"
+    },
+    {
+      "number": "68",
+      "title": "HTTP RAW Decoding 3",
+      "duration": "20:30 min"
+    },
+    {
+      "number": "69",
+      "title": "URL Anatomy",
+      "duration": "05:21 min"
+    },
+    {
+      "number": "70",
+      "title": "BUG: No Rate Limiting 1",
+      "duration": "15:38 min"
+    },
+    {
+      "number": "71",
+      "title": "BUG: No Rate Limiting 2",
+      "duration": "11:31 min"
+    },
+    {
+      "number": "72",
+      "title": "First Tool Development",
+      "duration": "15:45 min"
+    },
+    {
+      "number": "73",
+      "title": "Rate Limiting Fix",
+      "duration": "05:48 min"
+    },
+    {
+      "number": "74",
+      "title": "Report Writing",
+      "duration": "05:30 min"
+    },
+    {
+      "number": "75",
+      "title": "Recon Tool Installation",
+      "duration": "12:28 min"
+    },
+    {
+      "number": "76",
+      "title": "All About Web Recon 1",
+      "duration": "17:25 min"
+    },
+    {
+      "number": "77",
+      "title": "All About Web Recon 2",
+      "duration": "13:03 min"
+    },
+    {
+      "number": "78",
+      "title": "2FA and ATO Bug Webinar",
+      "duration": "23:18 min"
+    }
+  ]
+},
+      {
         "topic": "CEHPT old",
         "videos": [
           {

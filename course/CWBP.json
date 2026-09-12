@@ -30,7 +30,7 @@
         "offer price": 1499,
         "offer percentage": "81%",
     "PREREQUISITES": "Basic PC/Laptop familiarity. No coding experience needed.",
-    "Pay Now": "https://university.cappriciosec.com/payment/?cid=CWBP",
+    "Pay Now": "https://rzp.io/rzp/CSeIkfr",
     "Enroll now": "https://university.cappriciosec.com/CWBP.html",
     "Cert_img": "https://university.cappriciosec.com/images/cert.svg",
     "What you'll learn": [
@@ -54,525 +54,1293 @@
       "description": "👨‍🏫 Meet Your Mentor: Karthikeyan V (a.k.a. Karthithehacker) Karthikeyan V is a renowned ethical hacker, cybersecurity researcher, and the founder of Cappricio Securities, a company dedicated to practical cybersecurity education. With a track record of reporting vulnerabilities in top platforms like Google, Pinterest, Android OS, and Upwork, he brings real-world experience directly into the classroom. He is the creator of several popular open-source security tools including Gh0stR3c0n, CRLFi, and Poseidon. His expertise ranges from bug bounty hunting and OSINT to advanced penetration testing and red teaming. Karthikeyan is also a popular cybersecurity content creator, known for breaking down complex topics in Tamil, making learning accessible to a wider audience. Despite coming from a modest background, his journey from a self-taught hacker to an industry leader has inspired thousands. As your mentor for the CEHPT course, he focuses on hands-on training, real-time attack simulations, and helping students develop the mindset of a professional ethical hacker. 🔐 “In this course, I won’t just teach you tools — I’ll show you how to think like a hacker.” — Karthikeyan V"
     },
     "content": [
+  {
+    "topic": "Introduction & Linux Basics",
+    "videos": [
       {
-        "topic": "Reconnaissance & Enumeration",
-        "videos": [
-          {
-            "number": "01",
-            "title": "About mentor",
-            "duration": "02:46 min"
-          },
-          {
-            "number": "02",
-            "title": "Playing with Burps",
-            "duration": "16:52 min"
-          },
-          {
-            "number": "03",
-            "title": "All about Recon",
-            "duration": "08:10 min"
-          },
-          {
-            "number": "04",
-            "title": "ASN Subs Enum",
-            "duration": "05:38 min"
-          },
-          {
-            "number": "05",
-            "title": "Subs Enumeration",
-            "duration": "06:22 min"
-          },
-          {
-            "number": "06",
-            "title": "Subs Brute",
-            "duration": "09:43 min"
-          },
-          {
-            "number": "07",
-            "title": "Subs Dorking",
-            "duration": "10:12 min"
-          },
-          {
-            "number": "08",
-            "title": "Removing Dupes",
-            "duration": "03:36 min"
-          },
-          {
-            "number": "09",
-            "title": "Finding Live Sites",
-            "duration": "05:01 min"
-          },
-          {
-            "number": "10",
-            "title": "Finding IP & Ports",
-            "duration": "13:56 min"
-          }
-        ]
+        "number": "01",
+        "title": "Don't Skip",
+        "duration": "09:21 min"
       },
       {
-        "topic": "HTTP Status & Directory Bruteforcing",
-        "videos": [
-          {
-            "number": "11",
-            "title": "Finding Status Code",
-            "duration": "07:32 min"
-          },
-          {
-            "number": "12",
-            "title": "SS & DirBrute",
-            "duration": "08:31 min"
-          },
-          {
-            "number": "13",
-            "title": "Crawl/Brute Params",
-            "duration": "09:56 min"
-          }
-        ]
+        "number": "02",
+        "title": "Requirements",
+        "duration": "11:22 min"
       },
       {
-        "topic": "Open Redirect Vulnerabilities",
-        "videos": [
-          {
-            "number": "14",
-            "title": "About Open Redirect",
-            "duration": "06:07 min"
-          },
-          {
-            "number": "15",
-            "title": "DOM Based Open Redirect",
-            "duration": "05:22 min"
-          },
-          {
-            "number": "16",
-            "title": "Param based Open Redirect",
-            "duration": "09:12 min"
-          },
-          {
-            "number": "17",
-            "title": "Header based Open Redirect",
-            "duration": "07:09 min"
-          },
-          {
-            "number": "18",
-            "title": "PoC 1 Basecamp Open Redirect",
-            "duration": "0:53 min"
-          },
-          {
-            "number": "19",
-            "title": "PoC 2 Humble Open Redirect",
-            "duration": "02:03 min"
-          },
-          {
-            "number": "20",
-            "title": "PoC 3 Microsoft Open Redirect",
-            "duration": "03:16 min"
-          },
-          {
-            "number": "21",
-            "title": "PoC 4 Microsoft Web Cam Hacking",
-            "duration": "05:57 min"
-          },
-          {
-            "number": "22",
-            "title": "PoC 5 Nokia Open Redirect",
-            "duration": "01:54 min"
-          }
-        ]
+        "number": "03",
+        "title": "OS and Types of OS",
+        "duration": "22:19 min"
       },
       {
-        "topic": "HTTP Header Vulnerabilities",
-        "videos": [
-          {
-            "number": "23",
-            "title": "About HTTP Header Attack",
-            "duration": "01:56 min"
-          },
-          {
-            "number": "24",
-            "title": "Methods to Hunt HTTP Header",
-            "duration": "12:15 min"
-          },
-          {
-            "number": "25",
-            "title": "Methods to Hunt HTTP Header 2",
-            "duration": "06:02 min"
-          }
-        ]
+        "number": "04",
+        "title": "Setting up Linux",
+        "duration": "20:39 min"
       },
       {
-        "topic": "Web Cache Poisoning",
-        "videos": [
-          {
-            "number": "26",
-            "title": "DNS Pingback Attack",
-            "duration": "05:33 min"
-          },
-          {
-            "number": "27",
-            "title": "Password Reset Poisoning",
-            "duration": "11:29 min"
-          },
-          {
-            "number": "28",
-            "title": "Web Cache Poisoning",
-            "duration": "08:13 min"
-          },
-          {
-            "number": "29",
-            "title": "Automation Web Cache Poisoning",
-            "duration": "19:02 min"
-          },
-          {
-            "number": "30",
-            "title": "XSS via Host Header",
-            "duration": "03:07 min"
-          }
-        ]
+        "number": "05",
+        "title": "Kali Linux Setup/VBox",
+        "duration": "09:53 min"
       },
       {
-        "topic": "SSRF (Server Side Request Forgery)",
-        "videos": [
-          {
-            "number": "31",
-            "title": "PoC 1 Blind SSRF/DNS PingBack Apple",
-            "duration": "02:34 min"
-          },
-          {
-            "number": "32",
-            "title": "PoC 2 Blind SSRF/DNS PingBack Nokia",
-            "duration": "05:43 min"
-          },
-          {
-            "number": "33",
-            "title": "PoC 3 Header based Open Redirect",
-            "duration": "01:15 min"
-          },
-          {
-            "number": "34",
-            "title": "About SSRF",
-            "duration": "04:23 min"
-          },
-          {
-            "number": "35",
-            "title": "Identification of SSRF",
-            "duration": "14:53 min"
-          },
-          {
-            "number": "36",
-            "title": "Live Hunting of SSRF",
-            "duration": "05:52 min"
-          },
-          {
-            "number": "37",
-            "title": "PoC 1 SSRF in Google",
-            "duration": "02:39 min"
-          },
-          {
-            "number": "38",
-            "title": "PoC 2 SSRF in Google",
-            "duration": "01:02 min"
-          },
-          {
-            "number": "39",
-            "title": "PoC 3 SSRF in Pinterest",
-            "duration": "07:12 min"
-          }
-        ]
+        "number": "06",
+        "title": "Linux Command 1",
+        "duration": "11:46 min"
       },
       {
-        "topic": " Rate Limiting",
-        "videos": [
-          {
-            "number": "40",
-            "title": "About Rate Limiting",
-            "duration": "08:50 min"
-          },
-          {
-            "number": "41",
-            "title": "Live Hunting of Rate Limiting",
-            "duration": "07:07 min"
-          },
-          {
-            "number": "42",
-            "title": "Bypass of Rate Limiting",
-            "duration": "03:46 min"
-          },
-          {
-            "number": "43",
-            "title": "Live Hunting of Rate Limiting 2",
-            "duration": "05:57 min"
-          },
-          {
-            "number": "44",
-            "title": "PoC 1 Aptible Rate Limiting",
-            "duration": "03:00 min"
-          },
-          {
-            "number": "45",
-            "title": "PoC 2 Blanco Rate Limiting",
-            "duration": "05:34 min"
-          },
-          {
-            "number": "46",
-            "title": "PoC 3 Jet Rate Limiting",
-            "duration": "05:17 min"
-          },
-          {
-            "number": "47",
-            "title": "PoC 4 PayTM Rate Limiting",
-            "duration": "06:12 min"
-          },
-          {
-            "number": "48",
-            "title": "PoC 5 NL Site Rate Limiting",
-            "duration": "06:35 min"
-          },
-          {
-            "number": "49",
-            "title": "PoC 6 Casper Rate Limiting",
-            "duration": "04:32 min"
-          }
-        ]
+        "number": "07",
+        "title": "Linux Command 2",
+        "duration": "08:19 min"
       },
       {
-        "topic": " Broken Authentication / Session Fixation",
-        "videos": [
-          {
-            "number": "50",
-            "title": "About Broken Auth",
-            "duration": "01:46 min"
-          },
-          {
-            "number": "51",
-            "title": "Session Fixation Live Hunting 1",
-            "duration": "03:00 min"
-          },
-          {
-            "number": "52",
-            "title": "Session Fixation Live Hunting 2",
-            "duration": "01:41 min"
-          },
-          {
-            "number": "53",
-            "title": "Session Fixation in Password Reset",
-            "duration": "02:49 min"
-          },
-          {
-            "number": "54",
-            "title": "PoC 1 Convertkit Broken Auth",
-            "duration": "03:27 min"
-          },
-          {
-            "number": "55",
-            "title": "PoC 2 FitBit Broken Auth",
-            "duration": "03:09 min"
-          },
-          {
-            "number": "56",
-            "title": "PoC 3 GetMoneyTree Broken Auth",
-            "duration": "02:31 min"
-          },
-          {
-            "number": "57",
-            "title": "PoC 4 Seek Broken Auth",
-            "duration": "02:42 min"
-          },
-          {
-            "number": "58",
-            "title": "PoC 5 Electroneum Broken Auth",
-            "duration": "03:24 min"
-          },
-          {
-            "number": "59",
-            "title": "PoC 6 TransferWise Broken Auth",
-            "duration": "13:15 min"
-          },
-          {
-            "number": "60",
-            "title": "PoC 7 TripAdvisor Broken Auth",
-            "duration": "14:49 min"
-          }
-        ]
+        "number": "08",
+        "title": "WSL & Filesystem",
+        "duration": "18:14 min"
       },
       {
-        "topic": "EXIF & File Upload Attacks",
-        "videos": [
-          {
-            "number": "61",
-            "title": "About EXIF",
-            "duration": "01:46 min"
-          },
-          {
-            "number": "62",
-            "title": "Live Hunting of EXIF",
-            "duration": "06:36 min"
-          },
-          {
-            "number": "63",
-            "title": "PoC 1 TheSecurity EXIF",
-            "duration": "01:07 min"
-          },
-          {
-            "number": "64",
-            "title": "PoC 2 TheSecurity EXIF Bypass",
-            "duration": "04:53 min"
-          },
-          {
-            "number": "65",
-            "title": "About Picture File Upload",
-            "duration": "03:32 min"
-          },
-          {
-            "number": "66",
-            "title": "SVG File Upload Attack",
-            "duration": "04:30 min"
-          },
-          {
-            "number": "67",
-            "title": "Pixel Flooding Attack",
-            "duration": "06:25 min"
-          },
-          {
-            "number": "68",
-            "title": "Users Info Stealing Attack",
-            "duration": "01:20 min"
-          },
-          {
-            "number": "69",
-            "title": "PoC 1 Basecamp Pixel Flooding",
-            "duration": "04:25 min"
-          },
-          {
-            "number": "70",
-            "title": "PoC 2 Nokia Visitors IP Stealing",
-            "duration": "05:19 min"
-          },
-          {
-            "number": "71",
-            "title": "The Security File Upload to BLIND",
-            "duration": "04:07 min"
-          }
-        ]
+        "number": "09",
+        "title": "Linux Command 3",
+        "duration": "20:08 min"
       },
       {
-        "topic": "Cloud Attacks & PDF Injection",
-        "videos": [
-          {
-            "number": "72",
-            "title": "About Cloud App Attack",
-            "duration": "02:22 min"
-          },
-          {
-            "number": "73",
-            "title": "HTML to PDF Live Attack",
-            "duration": "09:35 min"
-          },
-          {
-            "number": "74",
-            "title": "PoC 1 Sejda BLIND XSS to SSRF",
-            "duration": "04:41 min"
-          }
-        ]
+        "number": "10",
+        "title": "Linux Command 4",
+        "duration": "22:33 min"
       },
       {
-        "topic": " JSON Attacks & 2FA Bypass",
-        "videos": [
-          {
-            "number": "75",
-            "title": "About JSON Response",
-            "duration": "01:17 min"
-          },
-          {
-            "number": "76",
-            "title": "JSON Bypass Live Hunting 1",
-            "duration": "03:54 min"
-          },
-          {
-            "number": "77",
-            "title": "JSON Bypass Live Hunting 2",
-            "duration": "02:43 min"
-          },
-          {
-            "number": "78",
-            "title": "PoC 1 Slack OTP Bypass",
-            "duration": "0:57 min"
-          },
-          {
-            "number": "79",
-            "title": "PoC 2 StackPath 2FA Bypass",
-            "duration": "01:24 min"
-          },
-          {
-            "number": "80",
-            "title": "PoC 3 UpWork 2FA Bypass",
-            "duration": "01:58 min"
-          },
-          {
-            "number": "81",
-            "title": "PoC 4 Canva Password Panel Bypass",
-            "duration": "01:26 min"
-          }
-        ]
+        "number": "11",
+        "title": "Linux Command 5",
+        "duration": "26:01 min"
+      }
+    ]
+  },
+  {
+    "topic": "Networking Fundamentals",
+    "videos": [
+      {
+        "number": "12",
+        "title": "About Networking",
+        "duration": "20:27 min"
       },
       {
-        "topic": " CSRF (Cross-Site Request Forgery)",
-        "videos": [
-          {
-            "number": "82",
-            "title": "About CSRF",
-            "duration": "01:25 min"
-          },
-          {
-            "number": "83",
-            "title": "CSRF Live Hunting 1",
-            "duration": "08:55 min"
-          },
-          {
-            "number": "84",
-            "title": "CSRF Live Hunting 2",
-            "duration": "11:02 min"
-          },
-          {
-            "number": "85",
-            "title": "PoC 1 EverNote CSRF",
-            "duration": "05:40 min"
-          },
-          {
-            "number": "86",
-            "title": "PoC 2 TransferWise CSRF",
-            "duration": "14:03 min"
-          }
-        ]
+        "number": "13",
+        "title": "About IP & Types of IP",
+        "duration": "08:50 min"
       },
       {
-        "topic": " XSS (Cross-Site Scripting)",
-        "videos": [
-          {
-            "number": "87",
-            "title": "About XSS",
-            "duration": "02:50 min"
-          },
-          {
-            "number": "88",
-            "title": "Live hunting of XSS",
-            "duration": "08:45 min"
-          },
-          {
-            "number": "89",
-            "title": "PoC 1 TripAdvisor XSS",
-            "duration": "02:59 min"
-          },
-          {
-            "number": "90",
-            "title": "PoC 2 NL Site XSS",
-            "duration": "0:46 min"
-          },
-          {
-            "number": "91",
-            "title": "PoC 3 BaseCamp BLIND XSS",
-            "duration": "06:45 min"
-          }
-        ]
+        "number": "14",
+        "title": "Breaking IP Myths",
+        "duration": "05:14 min"
+      },
+      {
+        "number": "15",
+        "title": "About TCP & UDP",
+        "duration": "08:06 min"
+      },
+      {
+        "number": "16",
+        "title": "Networking Ports",
+        "duration": "09:16 min"
+      },
+      {
+        "number": "17",
+        "title": "IP Access Practical",
+        "duration": "16:03 min"
+      },
+      {
+        "number": "18",
+        "title": "Port Forwarding",
+        "duration": "06:19 min"
+      }
+    ]
+  },
+  {
+    "topic": "Burp Suite & HTTP Fundamentals",
+    "videos": [
+      {
+        "number": "19",
+        "title": "Burp Download and Installation",
+        "duration": "04:20 min"
+      },
+      {
+        "number": "20",
+        "title": "Burp Suite Full Guide",
+        "duration": "58:13 min"
+      },
+      {
+        "number": "21",
+        "title": "HTTP RAW Decoding 1",
+        "duration": "15:25 min"
+      },
+      {
+        "number": "22",
+        "title": "HTTP RAW Decoding 2",
+        "duration": "15:47 min"
+      },
+      {
+        "number": "23",
+        "title": "HTTP RAW Decoding 3",
+        "duration": "20:30 min"
+      },
+      {
+        "number": "24",
+        "title": "URL Anatomy",
+        "duration": "05:21 min"
+      }
+    ]
+  },
+  {
+    "topic": "Rate Limiting",
+    "videos": [
+      {
+        "number": "25",
+        "title": "Bug: No Rate Limiting 1",
+        "duration": "15:38 min"
+      },
+      {
+        "number": "26",
+        "title": "Bug: No Rate Limiting 2",
+        "duration": "11:31 min"
+      },
+      {
+        "number": "27",
+        "title": "First Tool Development",
+        "duration": "15:45 min"
+      },
+      {
+        "number": "28",
+        "title": "Rate Limiting Fix",
+        "duration": "05:48 min"
+      },
+      {
+        "number": "29",
+        "title": "Report Writing",
+        "duration": "05:30 min"
+      },
+      {
+        "number": "30",
+        "title": "Rate Limiting PoC 1",
+        "duration": "01:47 min"
+      },
+      {
+        "number": "31",
+        "title": "Rate Limiting PoC 2",
+        "duration": "12:26 min"
+      },
+      {
+        "number": "32",
+        "title": "Rate Limiting PoC 3",
+        "duration": "03:25 min"
+      },
+      {
+        "number": "33",
+        "title": "Rate Limiting PoC 4",
+        "duration": "06:12 min"
+      },
+      {
+        "number": "34",
+        "title": "Rate Limiting PoC 5",
+        "duration": "03:14 min"
+      }
+    ]
+  },
+  {
+    "topic": "Authentication, OTP & Account Takeover",
+    "videos": [
+      {
+        "number": "35",
+        "title": "OTP Leak in Response",
+        "duration": "14:18 min"
+      },
+      {
+        "number": "36",
+        "title": "Report Writing (OTP Leak)",
+        "duration": "05:01 min"
+      },
+      {
+        "number": "37",
+        "title": "Authentication Bypass via ID",
+        "duration": "04:24 min"
+      },
+      {
+        "number": "38",
+        "title": "Response Manipulation to ATO",
+        "duration": "06:36 min"
+      },
+      {
+        "number": "39",
+        "title": "Live Hunting ATO Bug",
+        "duration": "11:14 min"
+      },
+      {
+        "number": "40",
+        "title": "2FA and ATO Bug Webinar",
+        "duration": "23:18 min"
+      }
+    ]
+  },
+  {
+    "topic": "Web Recon & Subdomain Enumeration",
+    "videos": [
+      {
+        "number": "41",
+        "title": "Recon Tool Installation",
+        "duration": "12:28 min"
+      },
+      {
+        "number": "42",
+        "title": "All About Web Recon 1",
+        "duration": "17:25 min"
+      },
+      {
+        "number": "43",
+        "title": "All About Web Recon 2",
+        "duration": "13:03 min"
+      },
+      {
+        "number": "44",
+        "title": "Subdomain Enumeration 1",
+        "duration": "08:50 min"
+      },
+      {
+        "number": "45",
+        "title": "Subdomain Enumeration 2",
+        "duration": "10:15 min"
+      },
+      {
+        "number": "46",
+        "title": "Subdomain Dorking",
+        "duration": "11:45 min"
+      },
+      {
+        "number": "47",
+        "title": "Google Dorking 1",
+        "duration": "07:40 min"
+      },
+      {
+        "number": "48",
+        "title": "Google Dorking 2",
+        "duration": "13:05 min"
+      }
+    ]
+  },
+  {
+    "topic": "Amass & Advanced Recon",
+    "videos": [
+      {
+        "number": "49",
+        "title": "Amass 1",
+        "duration": "06:30 min"
+      },
+      {
+        "number": "50",
+        "title": "Amass Intel 1",
+        "duration": "04:08 min"
+      },
+      {
+        "number": "51",
+        "title": "Amass Intel 2",
+        "duration": "05:37 min"
+      },
+      {
+        "number": "52",
+        "title": "Amass Enum 1",
+        "duration": "05:12 min"
+      },
+      {
+        "number": "53",
+        "title": "Amass Enum 2",
+        "duration": "03:07 min"
+      },
+      {
+        "number": "54",
+        "title": "Amass Enum 3",
+        "duration": "03:27 min"
+      },
+      {
+        "number": "55",
+        "title": "Port Scanning",
+        "duration": "10:33 min"
+      },
+      {
+        "number": "56",
+        "title": "Live Site",
+        "duration": "15:25 min"
+      },
+      {
+        "number": "57",
+        "title": "Directory Bruteforcing",
+        "duration": "09:07 min"
+      },
+      {
+        "number": "58",
+        "title": "Docker File Exposure Bug",
+        "duration": "04:10 min"
+      },
+      {
+        "number": "59",
+        "title": "Web Spider CLI",
+        "duration": "04:15 min"
+      }
+    ]
+  },
+  {
+    "topic": "Open Redirect Vulnerabilities",
+    "videos": [
+      {
+        "number": "60",
+        "title": "About Open Redirect",
+        "duration": "08:36 min"
+      },
+      {
+        "number": "61",
+        "title": "Open Redirect Live Hunting 1",
+        "duration": "17:10 min"
+      },
+      {
+        "number": "62",
+        "title": "Open Redirect Live Hunting 2",
+        "duration": "12:37 min"
+      },
+      {
+        "number": "63",
+        "title": "Open Redirect Automation",
+        "duration": "06:55 min"
+      },
+      {
+        "number": "64",
+        "title": "End of Open Redirect",
+        "duration": "06:01 min"
+      },
+      {
+        "number": "65",
+        "title": "Open Redirect PoC 1",
+        "duration": "00:33 min"
+      },
+      {
+        "number": "66",
+        "title": "Open Redirect PoC 2",
+        "duration": "03:16 min"
+      },
+      {
+        "number": "67",
+        "title": "Open Redirect PoC 3",
+        "duration": "01:04 min"
+      },
+      {
+        "number": "68",
+        "title": "Open Redirect PoC 4",
+        "duration": "01:26 min"
+      },
+      {
+        "number": "69",
+        "title": "Open Redirect PoC 5",
+        "duration": "03:16 min"
+      },
+      {
+        "number": "70",
+        "title": "Open Redirect PoC 6",
+        "duration": "01:03 min"
+      }
+    ]
+  },
+  {
+    "topic": "XSS (Cross-Site Scripting)",
+    "videos": [
+      {
+        "number": "71",
+        "title": "XSS Master Class",
+        "duration": "01:20:05 min"
+      },
+      {
+        "number": "72",
+        "title": "Open Redirect to XSS",
+        "duration": "08:40 min"
+      },
+      {
+        "number": "73",
+        "title": "CVE-2021-20323 R-XSS",
+        "duration": "11:37 min"
+      },
+      {
+        "number": "74",
+        "title": "Keycloak R-XSS",
+        "duration": "06:31 min"
+      },
+      {
+        "number": "75",
+        "title": "CVE-2021-31589 R-XSS",
+        "duration": "04:26 min"
+      },
+      {
+        "number": "76",
+        "title": "BeyondTrust R-XSS",
+        "duration": "03:05 min"
+      },
+      {
+        "number": "77",
+        "title": "Siteminder D-XSS",
+        "duration": "03:03 min"
+      },
+      {
+        "number": "78",
+        "title": "CVE-2021-20323 Tool",
+        "duration": "03:45 min"
+      },
+      {
+        "number": "79",
+        "title": "Rails XSS PoC",
+        "duration": "01:24 min"
+      },
+      {
+        "number": "80",
+        "title": "Web Mail XSS PoC",
+        "duration": "00:46 min"
+      },
+      {
+        "number": "81",
+        "title": "Red Bull XSS PoC",
+        "duration": "01:26 min"
+      },
+      {
+        "number": "82",
+        "title": "Google XSS PoC",
+        "duration": "01:03 min"
+      }
+    ]
+  },
+  {
+    "topic": "CRLF Injection",
+    "videos": [
+      {
+        "number": "83",
+        "title": "About CRLF Injection",
+        "duration": "04:25 min"
+      },
+      {
+        "number": "84",
+        "title": "CRLF Using C",
+        "duration": "10:30 min"
+      },
+      {
+        "number": "85",
+        "title": "Live Hunting CRLF Injection",
+        "duration": "13:20 min"
+      },
+      {
+        "number": "86",
+        "title": "CRLF Injection Tool",
+        "duration": "05:20 min"
+      },
+      {
+        "number": "87",
+        "title": "CRLF Injection Report",
+        "duration": "05:35 min"
+      },
+      {
+        "number": "88",
+        "title": "CRLF Injection in BBC PoC",
+        "duration": "00:15 min"
+      },
+      {
+        "number": "89",
+        "title": "$300 CRLF Injection",
+        "duration": "08:16 min"
+      },
+      {
+        "number": "90",
+        "title": "CVE-2026-50229 1",
+        "duration": "10:13 min"
+      },
+      {
+        "number": "91",
+        "title": "CVE-2026-50229 2",
+        "duration": "07:10 min"
+      }
+    ]
+  },
+  {
+    "topic": "SSRF (Server Side Request Forgery)",
+    "videos": [
+      {
+        "number": "92",
+        "title": "SSRF Theory",
+        "duration": "06:37 min"
+      },
+      {
+        "number": "93",
+        "title": "SSRF Practical 1",
+        "duration": "09:18 min"
+      },
+      {
+        "number": "94",
+        "title": "SSRF Practical 2",
+        "duration": "06:52 min"
+      },
+      {
+        "number": "95",
+        "title": "SSRF Practical 3",
+        "duration": "07:25 min"
+      },
+      {
+        "number": "96",
+        "title": "SSRF Parameters",
+        "duration": "05:50 min"
+      },
+      {
+        "number": "97",
+        "title": "SSRF in Gopher",
+        "duration": "03:04 min"
+      },
+      {
+        "number": "98",
+        "title": "Blind SSRF in Hypr",
+        "duration": "02:20 min"
+      },
+      {
+        "number": "99",
+        "title": "SSRF OOB",
+        "duration": "07:23 min"
+      },
+      {
+        "number": "100",
+        "title": "Google SSRF PoC",
+        "duration": "02:40 min"
+      },
+      {
+        "number": "101",
+        "title": "CVE-2021-40438 PoC",
+        "duration": "01:27 min"
+      },
+      {
+        "number": "102",
+        "title": "CVE-2021-1077 PoC",
+        "duration": "01:40 min"
+      }
+    ]
+  },
+  {
+    "topic": "Remote Code Execution (RCE)",
+    "videos": [
+      {
+        "number": "103",
+        "title": "Apache Struts RCE",
+        "duration": "08:00 min"
+      },
+      {
+        "number": "104",
+        "title": "Live Hunting RCE",
+        "duration": "09:10 min"
+      },
+      {
+        "number": "105",
+        "title": "OGNL Injection to RCE",
+        "duration": "05:25 min"
+      },
+      {
+        "number": "106",
+        "title": "Gaining Shell via RCE",
+        "duration": "20:50 min"
+      },
+      {
+        "number": "107",
+        "title": "RCE PoC",
+        "duration": "01:07 min"
+      },
+      {
+        "number": "108",
+        "title": "Shellshock RCE",
+        "duration": "04:39 min"
+      },
+      {
+        "number": "109",
+        "title": "CGI Recon/Vulnerable",
+        "duration": "07:27 min"
+      },
+      {
+        "number": "110",
+        "title": "IoT Based Web Attack",
+        "duration": "18:14 min"
+      },
+      {
+        "number": "111",
+        "title": "Exploitation of Shellshock",
+        "duration": "17:03 min"
+      }
+    ]
+  },
+  {
+    "topic": "SSI & Untrusted JavaScript Files",
+    "videos": [
+      {
+        "number": "112",
+        "title": "About SSI",
+        "duration": "19:21 min"
+      },
+      {
+        "number": "113",
+        "title": "Live Attack SSI",
+        "duration": "13:33 min"
+      },
+      {
+        "number": "114",
+        "title": "Untrusted JS File",
+        "duration": "05:01 min"
+      },
+      {
+        "number": "115",
+        "title": "Live Hunting Untrusted JS File 1",
+        "duration": "06:13 min"
+      },
+      {
+        "number": "116",
+        "title": "Live Hunting Untrusted JS File 2",
+        "duration": "08:03 min"
+      },
+      {
+        "number": "117",
+        "title": "Untrusted JS File End",
+        "duration": "02:02 min"
+      }
+    ]
+  },
+  {
+    "topic": "Mobile App Bug Bounty & Insecure Deeplinks",
+    "videos": [
+      {
+        "number": "118",
+        "title": "Bonus Mobile App Bug Bounty",
+        "duration": "02:21 min"
+      },
+      {
+        "number": "119",
+        "title": "Mobile App Bug Bounty",
+        "duration": "06:12 min"
+      },
+      {
+        "number": "120",
+        "title": "Insecure Deeplink Attacks",
+        "duration": "12:47 min"
+      },
+      {
+        "number": "121",
+        "title": "DoS via Deeplink",
+        "duration": "05:41 min"
+      },
+      {
+        "number": "122",
+        "title": "Live Attack Deeplink",
+        "duration": "06:30 min"
+      },
+      {
+        "number": "123",
+        "title": "H1 Report Writing",
+        "duration": "02:44 min"
+      },
+      {
+        "number": "124",
+        "title": "Twitter Insecure Deeplink PoC",
+        "duration": "07:32 min"
+      },
+      {
+        "number": "125",
+        "title": "iPhone OS Bug Bounty",
+        "duration": "05:33 min"
+      },
+      {
+        "number": "126",
+        "title": "Account Hacking iOS",
+        "duration": "21:44 min"
+      },
+      {
+        "number": "127",
+        "title": "ATO Bug PoC Bugcrowd",
+        "duration": "02:24 min"
+      },
+      {
+        "number": "128",
+        "title": "ATO Bug PoC EERO",
+        "duration": "04:20 min"
+      }
+    ]
+  },
+  {
+    "topic": "API Security & OWASP BOLA",
+    "videos": [
+      {
+        "number": "129",
+        "title": "Bonus API Bug Bounty",
+        "duration": "03:05 min"
+      },
+      {
+        "number": "130",
+        "title": "What is API",
+        "duration": "22:40 min"
+      },
+      {
+        "number": "131",
+        "title": "API Frameworks",
+        "duration": "21:36 min"
+      },
+      {
+        "number": "132",
+        "title": "OWASP BOLA Bug",
+        "duration": "14:47 min"
+      },
+      {
+        "number": "133",
+        "title": "BOLA Live Hacking 1",
+        "duration": "14:11 min"
+      },
+      {
+        "number": "134",
+        "title": "BOLA Live Hacking 2",
+        "duration": "11:38 min"
+      },
+      {
+        "number": "135",
+        "title": "BOLA Attack Bypass",
+        "duration": "06:27 min"
+      },
+      {
+        "number": "136",
+        "title": "BOLA Attack Secure Code Development",
+        "duration": "10:00 min"
+      }
+    ]
+  },
+  {
+    "topic": "Course Completion",
+    "videos": [
+      {
+        "number": "137",
+        "title": "End of the Course",
+        "duration": "05:28 min"
+      }
+    ]
+  },
+
+
+
+  {
+      "topic": "Reconnaissance & Enumeration",
+      "videos": [
+        {
+          "number": "000",
+          "title": "About mentor",
+          "duration": "02:46 min"
+        },
+        {
+          "number": "001",
+          "title": "Playing with Burps",
+          "duration": "16:52 min"
+        },
+        {
+          "number": "002",
+          "title": "All about Recon",
+          "duration": "08:10 min"
+        },
+        {
+          "number": "003",
+          "title": "ASN Subs Enum",
+          "duration": "05:38 min"
+        },
+        {
+          "number": "004",
+          "title": "Subs Enumeration",
+          "duration": "06:22 min"
+        },
+        {
+          "number": "005",
+          "title": "Subs Brute",
+          "duration": "09:43 min"
+        },
+        {
+          "number": "006",
+          "title": "Subs Dorking",
+          "duration": "10:12 min"
+        },
+        {
+          "number": "007",
+          "title": "Removing Dupes",
+          "duration": "03:36 min"
+        },
+        {
+          "number": "008",
+          "title": "Finding Live Sites",
+          "duration": "05:01 min"
+        },
+        {
+          "number": "009",
+          "title": "Finding IP & Ports",
+          "duration": "13:56 min"
+        }
+      ]
+    },
+    {
+      "topic": "HTTP Status & Directory Bruteforcing",
+      "videos": [
+        {
+          "number": "010",
+          "title": "Finding Status Code",
+          "duration": "07:32 min"
+        },
+        {
+          "number": "011",
+          "title": "SS & DirBrute",
+          "duration": "08:31 min"
+        },
+        {
+          "number": "012",
+          "title": "Crawl/Brute Params",
+          "duration": "09:56 min"
+        }
+      ]
+    },
+    {
+      "topic": "Open Redirect Vulnerabilities",
+      "videos": [
+        {
+          "number": "013",
+          "title": "About Open Redirect",
+          "duration": "06:07 min"
+        },
+        {
+          "number": "014",
+          "title": "DOM Based Open Redirect",
+          "duration": "05:22 min"
+        },
+        {
+          "number": "015",
+          "title": "Param based Open Redirect",
+          "duration": "09:12 min"
+        },
+        {
+          "number": "016",
+          "title": "Header based Open Redirect",
+          "duration": "07:09 min"
+        },
+        {
+          "number": "017",
+          "title": "PoC 1 Basecamp Open Redirect",
+          "duration": "0:53 min"
+        },
+        {
+          "number": "018",
+          "title": "PoC 2 Humble Open Redirect",
+          "duration": "02:03 min"
+        },
+        {
+          "number": "019",
+          "title": "PoC 3 Microsoft Open Redirect",
+          "duration": "03:16 min"
+        },
+        {
+          "number": "020",
+          "title": "PoC 4 Microsoft Web Cam Hacking",
+          "duration": "05:57 min"
+        },
+        {
+          "number": "021",
+          "title": "PoC 5 Nokia Open Redirect",
+          "duration": "01:54 min"
+        }
+      ]
+    },
+    {
+      "topic": "HTTP Header Vulnerabilities",
+      "videos": [
+        {
+          "number": "022",
+          "title": "About HTTP Header Attack",
+          "duration": "01:56 min"
+        },
+        {
+          "number": "023",
+          "title": "Methods to Hunt HTTP Header",
+          "duration": "12:15 min"
+        },
+        {
+          "number": "024",
+          "title": "Methods to Hunt HTTP Header 2",
+          "duration": "06:02 min"
+        }
+      ]
+    },
+    {
+      "topic": "Web Cache Poisoning",
+      "videos": [
+        {
+          "number": "025",
+          "title": "DNS Pingback Attack",
+          "duration": "05:33 min"
+        },
+        {
+          "number": "026",
+          "title": "Password Reset Poisoning",
+          "duration": "11:29 min"
+        },
+        {
+          "number": "027",
+          "title": "Web Cache Poisoning",
+          "duration": "08:13 min"
+        },
+        {
+          "number": "028",
+          "title": "Automation Web Cache Poisoning",
+          "duration": "19:02 min"
+        },
+        {
+          "number": "029",
+          "title": "XSS via Host Header",
+          "duration": "03:07 min"
+        }
+      ]
+    },
+    {
+      "topic": "SSRF (Server Side Request Forgery)",
+      "videos": [
+        {
+          "number": "030",
+          "title": "PoC 1 Blind SSRF/DNS PingBack Apple",
+          "duration": "02:34 min"
+        },
+        {
+          "number": "031",
+          "title": "PoC 2 Blind SSRF/DNS PingBack Nokia",
+          "duration": "05:43 min"
+        },
+        {
+          "number": "032",
+          "title": "PoC 3 Header based Open Redirect",
+          "duration": "01:15 min"
+        },
+        {
+          "number": "033",
+          "title": "About SSRF",
+          "duration": "04:23 min"
+        },
+        {
+          "number": "034",
+          "title": "Identification of SSRF",
+          "duration": "14:53 min"
+        },
+        {
+          "number": "035",
+          "title": "Live Hunting of SSRF",
+          "duration": "05:52 min"
+        },
+        {
+          "number": "036",
+          "title": "PoC 1 SSRF in Google",
+          "duration": "02:39 min"
+        },
+        {
+          "number": "037",
+          "title": "PoC 2 SSRF in Google",
+          "duration": "01:02 min"
+        },
+        {
+          "number": "038",
+          "title": "PoC 3 SSRF in Pinterest",
+          "duration": "07:12 min"
+        }
+      ]
+    },
+    {
+      "topic": "Rate Limiting",
+      "videos": [
+        {
+          "number": "039",
+          "title": "About Rate Limiting",
+          "duration": "08:50 min"
+        },
+        {
+          "number": "040",
+          "title": "Live Hunting of Rate Limiting",
+          "duration": "07:07 min"
+        },
+        {
+          "number": "041",
+          "title": "Bypass of Rate Limiting",
+          "duration": "03:46 min"
+        },
+        {
+          "number": "042",
+          "title": "Live Hunting of Rate Limiting 2",
+          "duration": "05:57 min"
+        },
+        {
+          "number": "043",
+          "title": "PoC 1 Aptible Rate Limiting",
+          "duration": "03:00 min"
+        },
+        {
+          "number": "044",
+          "title": "PoC 2 Blanco Rate Limiting",
+          "duration": "05:34 min"
+        },
+        {
+          "number": "045",
+          "title": "PoC 3 Jet Rate Limiting",
+          "duration": "05:17 min"
+        },
+        {
+          "number": "046",
+          "title": "PoC 4 PayTM Rate Limiting",
+          "duration": "06:12 min"
+        },
+        {
+          "number": "047",
+          "title": "PoC 5 NL Site Rate Limiting",
+          "duration": "06:35 min"
+        },
+        {
+          "number": "048",
+          "title": "PoC 6 Casper Rate Limiting",
+          "duration": "04:32 min"
+        }
+      ]
+    },
+    {
+      "topic": "Broken Authentication / Session Fixation",
+      "videos": [
+        {
+          "number": "049",
+          "title": "About Broken Auth",
+          "duration": "01:46 min"
+        },
+        {
+          "number": "050",
+          "title": "Session Fixation Live Hunting 1",
+          "duration": "03:00 min"
+        },
+        {
+          "number": "051",
+          "title": "Session Fixation Live Hunting 2",
+          "duration": "01:41 min"
+        },
+        {
+          "number": "052",
+          "title": "Session Fixation in Password Reset",
+          "duration": "02:49 min"
+        },
+        {
+          "number": "053",
+          "title": "PoC 1 Convertkit Broken Auth",
+          "duration": "03:27 min"
+        },
+        {
+          "number": "054",
+          "title": "PoC 2 FitBit Broken Auth",
+          "duration": "03:09 min"
+        },
+        {
+          "number": "055",
+          "title": "PoC 3 GetMoneyTree Broken Auth",
+          "duration": "02:31 min"
+        },
+        {
+          "number": "056",
+          "title": "PoC 4 Seek Broken Auth",
+          "duration": "02:42 min"
+        },
+        {
+          "number": "057",
+          "title": "PoC 5 Electroneum Broken Auth",
+          "duration": "03:24 min"
+        },
+        {
+          "number": "058",
+          "title": "PoC 6 TransferWise Broken Auth",
+          "duration": "13:15 min"
+        },
+        {
+          "number": "059",
+          "title": "PoC 7 TripAdvisor Broken Auth",
+          "duration": "14:49 min"
+        }
+      ]
+    },
+    {
+      "topic": "EXIF & File Upload Attacks",
+      "videos": [
+        {
+          "number": "060",
+          "title": "About EXIF",
+          "duration": "01:46 min"
+        },
+        {
+          "number": "061",
+          "title": "Live Hunting of EXIF",
+          "duration": "06:36 min"
+        },
+        {
+          "number": "062",
+          "title": "PoC 1 TheSecurity EXIF",
+          "duration": "01:07 min"
+        },
+        {
+          "number": "063",
+          "title": "PoC 2 TheSecurity EXIF Bypass",
+          "duration": "04:53 min"
+        },
+        {
+          "number": "064",
+          "title": "About Picture File Upload",
+          "duration": "03:32 min"
+        },
+        {
+          "number": "065",
+          "title": "SVG File Upload Attack",
+          "duration": "04:30 min"
+        },
+        {
+          "number": "066",
+          "title": "Pixel Flooding Attack",
+          "duration": "06:25 min"
+        },
+        {
+          "number": "067",
+          "title": "Users Info Stealing Attack",
+          "duration": "01:20 min"
+        },
+        {
+          "number": "068",
+          "title": "PoC 1 Basecamp Pixel Flooding",
+          "duration": "04:25 min"
+        },
+        {
+          "number": "069",
+          "title": "PoC 2 Nokia Visitors IP Stealing",
+          "duration": "05:19 min"
+        },
+        {
+          "number": "070",
+          "title": "The Security File Upload to BLIND",
+          "duration": "04:07 min"
+        }
+      ]
+    },
+    {
+      "topic": "Cloud Attacks & PDF Injection",
+      "videos": [
+        {
+          "number": "071",
+          "title": "About Cloud App Attack",
+          "duration": "02:22 min"
+        },
+        {
+          "number": "072",
+          "title": "HTML to PDF Live Attack",
+          "duration": "09:35 min"
+        },
+        {
+          "number": "073",
+          "title": "PoC 1 Sejda BLIND XSS to SSRF",
+          "duration": "04:41 min"
+        }
+      ]
+    },
+    {
+      "topic": "JSON Attacks & 2FA Bypass",
+      "videos": [
+        {
+          "number": "074",
+          "title": "About JSON Response",
+          "duration": "01:17 min"
+        },
+        {
+          "number": "075",
+          "title": "JSON Bypass Live Hunting 1",
+          "duration": "03:54 min"
+        },
+        {
+          "number": "076",
+          "title": "JSON Bypass Live Hunting 2",
+          "duration": "02:43 min"
+        },
+        {
+          "number": "077",
+          "title": "PoC 1 Slack OTP Bypass",
+          "duration": "0:57 min"
+        },
+        {
+          "number": "078",
+          "title": "PoC 2 StackPath 2FA Bypass",
+          "duration": "01:24 min"
+        },
+        {
+          "number": "079",
+          "title": "PoC 3 UpWork 2FA Bypass",
+          "duration": "01:58 min"
+        },
+        {
+          "number": "080",
+          "title": "PoC 4 Canva Password Panel Bypass",
+          "duration": "01:26 min"
+        }
+      ]
+    },
+    {
+      "topic": "CSRF (Cross-Site Request Forgery)",
+      "videos": [
+        {
+          "number": "081",
+          "title": "About CSRF",
+          "duration": "01:25 min"
+        },
+        {
+          "number": "082",
+          "title": "CSRF Live Hunting 1",
+          "duration": "08:55 min"
+        },
+        {
+          "number": "083",
+          "title": "CSRF Live Hunting 2",
+          "duration": "11:02 min"
+        },
+        {
+          "number": "084",
+          "title": "PoC 1 EverNote CSRF",
+          "duration": "05:40 min"
+        },
+        {
+          "number": "085",
+          "title": "PoC 2 TransferWise CSRF",
+          "duration": "14:03 min"
+        }
+      ]
+    },
+    {
+      "topic": "XSS (Cross-Site Scripting)",
+      "videos": [
+        {
+          "number": "086",
+          "title": "About XSS",
+          "duration": "02:50 min"
+        },
+        {
+          "number": "087",
+          "title": "Live hunting of XSS",
+          "duration": "08:45 min"
+        },
+        {
+          "number": "088",
+          "title": "PoC 1 TripAdvisor XSS",
+          "duration": "02:59 min"
+        },
+        {
+          "number": "089",
+          "title": "PoC 2 NL Site XSS",
+          "duration": "0:46 min"
+        },
+        {
+          "number": "090",
+          "title": "PoC 3 BaseCamp BLIND XSS",
+          "duration": "06:45 min"
+        }
+           ]
       }
     ]
   }
